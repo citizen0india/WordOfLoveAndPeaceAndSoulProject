@@ -1,0 +1,187 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ś]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—7.8](*1)          śab daḥ    —    sound vibration
+[TEXT—6.44](*1)          śabda-brahma    —    ritualistic principles of scripture
+[TEXT—4.26](*1)          śabda-ādīn    —    sound vibration, etc
+[TEXT—1.13](*1)          śabdaḥ    —    combined sound
+[TEXT—18.51-53](*1)          śabdādīn    —    the sense objects, such as sound, etc
+[TEXT—1.5](*1)          śaibyaḥ    —    Śaibya
+[TEXT—1.30](*1)          śaknomi    —    am I able
+[TEXT—5.23](*1)          śaknoti    —    able to do
+[TEXT—12.9](*1)          śaknoṣi    —    able
+[TEXT—11.4](*1)          śakyam    —    able to see
+[TEXT—18.11](*1)          śakyam    —    possible
+[TEXT—11.8](*1)          śakyase    —    able
+[TEXT—11.48](*1)          śakyaḥ    —    can be seen
+[TEXT—11.53](*1)          śakyaḥ    —    isit possible
+[TEXT—11.54](*1)          śakyaḥ    —    possible
+[TEXT—6.36](*1)          śakyaḥ    —    practical
+[TEXT—11.24](*1)          śamam    —    mental tranquility
+[TEXT—6.3](*1)          śamaḥ    —    cessation of all material activities
+[TEXT—10.4-5](*1)          śamaḥ    —    control of the mind
+[TEXT—18.42](*1)          śamaḥ    —    peacefulness
+[TEXT—6.25](*1)          śanaiḥ    —    gradually
+[TEXT—6.25](*1)          śanaiḥ    —    step by step
+[TEXT—2.49](*1)          śaraṇam    —    full surrender
+[TEXT—9.18](*1)          śaraṇam    —    refuge
+[TEXT—18.66,18.62](*2)          śaraṇam    —    surrender
+[TEXT—3.8](*1)          śarīra    —    bodily
+[TEXT—18.15,5.23](*2)          śarīra    —    body
+[TEXT—17.5-6](*1)          śarīra-stham    —    situated in the body
+[TEXT—17.5-6](*1)          śarīra-stham    —    situated within the body
+[TEXT—13.32](*1)          śarīra-sthaḥ api    —    though dwelling in the body
+[TEXT—15.8,13.1-2](*2)          śarīram    —    body
+[TEXT—2.20](*1)          śarīre    —    by the body
+[TEXT—11.13](*1)          śarīre    —    in the universal form
+[TEXT—1.29](*1)          śarīre    —    on the body
+[TEXT—2.18](*1)          śarīriṇaḥ    —    the embodied souls
+[TEXT—2.22](*1)          śarīrāṇi    —    bodies
+[TEXT—10.31](*1)          śastra-bhṛtām    —    of the carriers of weapons
+[TEXT—1.45](*1)          śastra-pāṇayaḥ    —    those with weapons in hand
+[TEXT—1.20](*1)          śastra-sampāte    —    the arrows released
+[TEXT—2.23](*1)          śastrāṇi    —    all weapons
+[TEXT—16.11-12](*1)          śataiḥ    —    by hundreds
+[TEXT—11.5](*1)          śataśaḥ    —    hundreds
+[TEXT—12.18-19](*1)          śatrau    —    to the enemy
+[TEXT—3.43](*1)          śatrum    —    the enemy
+[TEXT—6.6](*1)          śatrutve    —    because of enmity
+[TEXT—6.6](*1)          śatruvat    —    as an enemy
+[TEXT—16.13-15](*1)          śatruḥ    —    enemy
+[TEXT—11.33](*1)          śatrūn    —    enemies
+[TEXT—17.14,16.7,16.1-3,13.8-12](*4)          śaucam    —    cleanliness
+[TEXT—18.42](*1)          śaucam    —    purity
+[TEXT—18.43](*1)          śauryam    —    heroism
+[TEXT—11.41-42](*1)          śayyā    —    in joking
+[TEXT—11.19](*1)          śaśi    —    moon
+[TEXT—7.8](*1)          śaśi-sūryayoḥ    —    in the sun and the moon
+[TEXT—9.31](*1)          śaśvat- śāntim    —    lasting peace
+[TEXT—11.39](*1)          śaśāṅkaḥ    —    moon
+[TEXT—15.6](*1)          śaśāṅkaḥ    —    the moon
+[TEXT—10.21](*1)          śaśī    —    the moon
+[TEXT—5.1](*1)          śaṁsasi    —    You are praising
+[TEXT—10.23](*1)          śaṅkaraḥ    —    Lord Śiva
+[TEXT—1.12](*1)          śaṅkham    —    conchshell
+[TEXT—1.14](*1)          śaṅkhau    —    conchshells
+[TEXT—1.16-18](*1)          śaṅkhān    —    conchshells
+[TEXT—1.13](*1)          śaṅkhāḥ    —    conchshells
+[TEXT—18.28](*1)          śaṭhaḥ    —    deceitful
+[TEXT—10.23](*1)          śikhariṇām    —    of all mountains
+[TEXT—1.16-18](*1)          śikhaṇḍī    —    Śikhaṇḍī
+[TEXT—11.14](*1)          śirasā    —    with the head
+[TEXT—13.14](*1)          śiraḥ    —    head
+[TEXT—2.7](*1)          śiṣyaḥ    —    disciple
+[TEXT—1.3](*1)          śiṣyeṇa    —    disciple
+[TEXT—18.54,12.17](*2)          śocati    —    laments
+[TEXT—2.30,2.27,2.26](*3)          śocitum    —    to lament
+[TEXT—1.46](*1)          śoka    —    lamentation
+[TEXT—17.8-10](*1)          śoka    —    misery
+[TEXT—18.35,2.8](*2)          śokam    —    lamentation
+[TEXT—2.23](*1)          śoṣayati    —    dries
+[TEXT—9.23](*1)          śraddhaya-anvitāḥ    —    with faith
+[TEXT—17.1](*1)          śraddhayā    —    full faith
+[TEXT—17.17,12.2,7.22,7.21,6.37](*5)          śraddhayā    —    with faith
+[TEXT—17.3](*1)          śraddhaḥ    —    faith
+[TEXT—17.13,17.3,17.2](*3)          śraddhā    —    faith
+[TEXT—7.21](*1)          śraddhām    —    faith
+[TEXT—3.31](*1)          śraddhāvantaḥ    —    with faith and devotion
+[TEXT—4.39](*1)          śraddhāvān    —    a faithful man
+[TEXT—6.47](*1)          śraddhāvān    —    in full faith
+[TEXT—2.7](*1)          śreyaḥ    —    all- good
+[TEXT—16.21](*1)          śreyaḥ    —    benediction
+[TEXT—12.12,3.35](*2)          śreyaḥ    —    better
+[TEXT—2.31](*1)          śreyaḥ    —    better engagements
+[TEXT—1.31](*1)          śreyaḥ    —    good
+[TEXT—5.1](*1)          śreyaḥ    —    is beneficial
+[TEXT—2.5](*1)          śreyaḥ    —    it is better
+[TEXT—3.2](*1)          śreyaḥ    —    real benefit
+[TEXT—3.35](*1)          śreyān    —    far better
+[TEXT—4.33](*1)          śreyān    —    greater
+[TEXT—3.21](*1)          śreṣṭhaḥ    —    respectable leader
+[TEXT—9.12](*1)          śritāḥ    —    taking shelter of
+[TEXT—2.52](*1)          śrotavyasya    —    all that is to be heard
+[TEXT—4.26](*1)          śrotra-ādīni    —    hearing process
+[TEXT—15.9](*1)          śrotram    —    ears
+[TEXT—18.58](*1)          śroṣyasi    —    do not hear
+[TEXT—18.72](*1)          śrutam    —    heard
+[TEXT—2.52](*1)          śrutasya    —    all that is already heard
+[TEXT—11.2](*1)          śrutau    —    have heard
+[TEXT—18.75](*1)          śrutavān    —    heard
+[TEXT—2.53](*1)          śruti    —    Vedic revelation
+[TEXT—13.26](*1)          śruti-parāyaṇāḥ    —    inclined to the process of hearing
+[TEXT—13.14](*1)          śrutimat    —    hearing
+[TEXT—13.26](*1)          śrutvā    —    by hearing
+[TEXT—2.29](*1)          śrutvā    —    having heard
+[TEXT—11.35](*1)          śrutvā    —    hearing
+[TEXT—9.1](*1)          śrī bhagavan uvāca    —    the Supreme Personality of Godhead said
+[TEXT—6.1](*1)          śrī bhagavān uvāca    —    the Lord said
+[TEXT—13.1-2,11.32,6.35,5.2,4.5,3.37](*6)          śrī bhagavān uvāca    —    the Personality of Godhead said
+[TEXT—7.1](*1)          śrī bhagavān uvāca    —    the Supreme Lord said
+[TEXT—18.2,17.2,16.1-3,15.1,14.22-25,14.1,12.2,11.52,11.47,10.19,8.3,6.40,3.3,2.55,2.11](*15)          śrī bhagavān uvāca    —    the Supreme Personality of Godhead said
+[TEXT—11.5](*1)          śrī bhagavānuvāca    —    the Supreme Personality of Godhead said
+[TEXT—10.41](*1)          śrīmat    —    beautiful
+[TEXT—6.41](*1)          śrīmatām    —    of the prosperous
+[TEXT—18.78](*1)          śrīḥ    —    opulence
+[TEXT—10.34](*1)          śrīḥ vāk    —    beautiful speech
+[TEXT—12.17](*1)          śubha    —    auspicious
+[TEXT—9.28,2.57](*2)          śubha    —    good
+[TEXT—18.71](*1)          śubhān    —    auspicious
+[TEXT—6.11-12](*1)          śucau    —    in sanctified
+[TEXT—18.66,16.5](*2)          śucaḥ    —    worry
+[TEXT—12.16](*1)          śuciḥ    —    pure
+[TEXT—6.41](*1)          śucīnām    —    of the pious
+[TEXT—5.11](*1)          śuddhaye    —    for the purpose of purification
+[TEXT—8.26](*1)          śukla    —    light
+[TEXT—8.24](*1)          śuklaḥ    —    white
+[TEXT—5.18](*1)          śuni    —    in the dog
+[TEXT—5.18](*1)          śvapāke    —    in the dog-eater (the outcaste)
+[TEXT—5.8-9](*1)          śvasan    —    by breathing
+[TEXT—1.32-35](*1)          śvaśurāḥ    —    fathers-in-law
+[TEXT—1.14](*1)          śvetaiḥ    —    by white
+[TEXT—1.32-35](*1)          śyālāḥ    —    brothers-in-law
+[TEXT—2.7](*1)          śādhi    —    just instruct
+[TEXT—15.1](*1)          śākham    —    branches
+[TEXT—15.2](*1)          śākhāḥ    —    branches
+[TEXT—6.27](*1)          śānta-rajasam    —    pacified passion
+[TEXT—18.51-53](*1)          śāntaḥ    —    peaceful
+[TEXT—18.62,6.15,4.39,2.70](*4)          śāntim    —    peace
+[TEXT—5.12,2.71](*2)          śāntim    —    perfect peace
+[TEXT—5.29](*1)          śāntim    —    relief from material pangs
+[TEXT—12.12,2.66](*2)          śāntiḥ    —    peace
+[TEXT—16.1-3](*1)          śāntiḥ    —    tranquility
+[TEXT—4.21](*1)          śārīram    —    in keeping body and soul together
+[TEXT—17.14](*1)          śārīram    —    pertaining to the body
+[TEXT—16.24](*1)          śāstra    —    of scripture
+[TEXT—17.1](*1)          śāstra-vidhim    —    the regulations of scripture
+[TEXT—16.23](*1)          śāstra-vidhim    —    the regulations of the scriptures
+[TEXT—15.20](*1)          śāstram    —    revealed scriptures
+[TEXT—16.24](*1)          śāstram    —    scriptures
+[TEXT—11.18](*1)          śāśvata-dharma-goptā    —    maintainer of the eternal religion
+[TEXT—18.62](*1)          śāśvatam    —    eternal
+[TEXT—10.12-13](*1)          śāśvatam    —    original
+[TEXT—14.27](*1)          śāśvatasya    —    of eternal
+[TEXT—2.20](*1)          śāśvataḥ    —    permanent
+[TEXT—8.26](*1)          śāśvate    —    the Vedas
+[TEXT—1.42](*1)          śāśvatāḥ    —    eternal
+[TEXT—6.41](*1)          śāśvatīḥ    —    many
+[TEXT—12.18-19,6.7](*2)          śīta    —    cold
+[TEXT—2.14](*1)          śīta    —    winter
+[TEXT—18.44](*1)          śūdrasya    —    of the śūdra
+[TEXT—9.32](*1)          śūdrāḥ    —    lower class men
+[TEXT—18.41](*1)          śūdrāṇām    —    the śūdras
+[TEXT—1.4](*1)          śūrāḥ    —    heroes
+[TEXT—2.29](*1)          śṛṇoti    —    hear
+[TEXT—18.36-37,18.19,18.4,17.7](*4)          śṛṇu    —    hear
+[TEXT—18.64,18.29,16.6,10.1,2.39](*5)          śṛṇu    —    just hear
+[TEXT—18.45](*1)          śṛṇu    —    listen
+[TEXT—7.1](*1)          śṛṇu    —    try to hear
+[TEXT—13.4](*1)          śṛṇu    —    understand
+[TEXT—18.71](*1)          śṛṇuyāt    —    does hear
+[TEXT—5.8-9](*1)          śṛṇvan    —    by hearing
+[TEXT—10.18](*1)          śṛṇvataḥ    —    hearing
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ś]:178

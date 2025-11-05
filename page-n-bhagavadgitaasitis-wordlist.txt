@@ -1,0 +1,258 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [n]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—6.33,3.32,3.26,3.24,3.23,2.33,2.27,2.25,2.8,1.37-38](*10)          na    —    do not
+[TEXT—15.11,13.29,6.19,5.20,4.20,3.17,3.16,2.31](*8)          na    —    does not
+[TEXT—2.12](*1)          na    —    it is not so
+[TEXT—3.29](*1)          na    —    may not
+[TEXT—13.13,4.40,2.66](*3)          na    —    neither
+[TEXT—18.69,18.67,18.54,18.48,18.47,18.35,18.17,18.16,18.11,18.10,18.7,17.28,16.23,16.7,15.10,15.6,15.3-4,14.22-25,14.19,13.33,13.24,12.17,12.15,12.8,11.53,11.48,11.43,11.32,11.31,11.8,10.14,10.7,10.2,9.31,9.9,9.5,8.27,8.21,8.20,8.15,6.40,6.39,6.20-23,6.16,6.5,5.22,5.20,5.15,5.14,5.13,5.8-9,5.7,5.4,4.41,4.40,4.38,4.35,4.31,4.21,4.14,4.9,3.34,3.28,3.18,3.8,2.72,2.57,2.44,2.42-43,2.40,2.38,2.31,2.30,2.29,2.26,2.23,2.20,2.19,2.16,2.13,2.12,2.11,2.6,1.36,1.32-35](*85)          na    —    never
+[TEXT—4.14](*1)          na    —    never does
+[TEXT—18.69,11.24,3.22](*3)          na    —    no
+[TEXT—9.29](*1)          na    —    no one
+[TEXT—3.22](*1)          na    —    none
+[TEXT—18.10,16.7,15.6,14.2,13.13,10.40,10.14,9.29,7.25,6.30,6.16,6.11-12,5.15,5.14,5.3,4.14,3.18,3.5,3.4,2.19,2.6,1.31,1.30](*23)          na    —    nor
+[TEXT—18.60,18.59,18.58,18.40,16.1-3,15.6,15.3-4,12.9,11.37,10.39,9.24,9.4,7.26,7.25,7.15,7.12,7.7,6.38,6.30,6.16,6.11-12,6.4,5.13,4.40,4.5,2.70,2.20,2.12](*28)          na    —    not
+[TEXT—2.12](*1)          na    —    not like that
+[TEXT—6.25](*1)          na    —    nothing
+[TEXT—1.37-38](*1)          na    —    shall not
+[TEXT—2.40](*1)          na    —    there is not
+[TEXT—5.6,3.4](*2)          na    —    without
+[TEXT—7.13](*1)          na abhijānāti    —    do not know
+[TEXT—11.16](*1)          na antam    —    there is no end
+[TEXT—8.8](*1)          na anya-gāminā    —    without being deviated
+[TEXT—2.66](*1)          na asti    —    there cannot be
+[TEXT—10.19,10.18](*2)          na asti    —    there is no
+[TEXT—12.6-7](*1)          na cirāt    —    not a long time
+[TEXT—14.22-25](*1)          na dveṣṭi    —    does not hate
+[TEXT—11.48](*1)          na dānaiḥ    —    by charity
+[TEXT—6.40](*1)          na eva    —    never is it so
+[TEXT—11.25](*1)          na jāne    —    do not know
+[TEXT—13.32](*1)          na karoti    —    never does anything
+[TEXT—2.17](*1)          na kaścit    —    no one
+[TEXT—11.25](*1)          na labhe    —    nor obtain
+[TEXT—13.32](*1)          na lipyate    —    nor is he entangled
+[TEXT—11.16](*1)          na madhyam    —    there is no middle
+[TEXT—14.22-25](*1)          na nivṛttāni    —    nor stop development
+[TEXT—11.16](*1)          na punaḥ    —    nor again
+[TEXT—11.48](*1)          na tapobhiḥ    —    by serious penances
+[TEXT—18.12](*1)          na tu    —    but not
+[TEXT—2.9](*1)          na yotsye    —    I shall not fight
+[TEXT—1.19](*1)          nabhaḥ    —    the sky
+[TEXT—11.24](*1)          nabhaḥ spṛśam    —    touching the sky
+[TEXT—11.28](*1)          nadīnām    —    of the rivers
+[TEXT—11.47](*1)          nadṛṣṭa-pūrvam    —    no one has previously seen
+[TEXT—18.8](*1)          naeva    —    certainly not
+[TEXT—18.49](*1)          naiṣkarmya- siddhim    —    perfection of non-reaction
+[TEXT—3.4](*1)          naiṣkarmyam    —    freedom from reaction
+[TEXT—18.28](*1)          naiṣkṛtikaḥ    —    expert in insulting others
+[TEXT—5.12](*1)          naiṣṭhikīm    —    unflinching
+[TEXT—1.16-18](*1)          nakulaḥ    —    Nakula
+[TEXT—10.21](*1)          nakṣatrāṇām    —    of stars
+[TEXT—9.34](*1)          namaskuru    —    offer obeisances
+[TEXT—18.65](*1)          namaskuru    —    offer your obeisances
+[TEXT—11.35](*1)          namaskṛtvā    —    offering obeisances
+[TEXT—9.14](*1)          namasyantaḥ ca    —    offering obeisances
+[TEXT—11.36](*1)          namasyanti    —    offering respect
+[TEXT—11.39](*1)          namaḥ    —    offer my respects
+[TEXT—11.40](*1)          namaḥ    —    offering obeisances
+[TEXT—11.39](*1)          namaḥ    —    offering respects
+[TEXT—11.31](*1)          namaḥ astu    —    obeisances
+[TEXT—11.40](*1)          namaḥ astu    —    offer my respects
+[TEXT—11.39](*1)          namaḥ te    —    again I offer my respects unto You
+[TEXT—11.39](*1)          namaḥ te    —    offering my respects unto You
+[TEXT—11.37](*1)          nameran    —    offer proper obeisances
+[TEXT—11.28](*1)          nara-lokavīrāḥ    —    the kings of human society
+[TEXT—1.5](*1)          nara-puṅgavaḥ    —    heroes in human society
+[TEXT—17.17](*1)          naraiḥ    —    by men
+[TEXT—16.21](*1)          narakasya    —    hellish
+[TEXT—1.43](*1)          narake    —    in hell
+[TEXT—16.16](*1)          narake    —    into hell
+[TEXT—1.41](*1)          narakāya    —    for hellish life
+[TEXT—18.45,12.18-19,2.22](*3)          naraḥ    —    a man
+[TEXT—18.15,16.21](*2)          naraḥ    —    a person
+[TEXT—5.23](*1)          naraḥ    —    human being
+[TEXT—18.71](*1)          naraḥ    —    man
+[TEXT—16.19](*1)          narādhamān    —    the lowest of mankind
+[TEXT—7.15](*1)          narādhamāḥ    —    lowest among mankind
+[TEXT—10.27](*1)          narādhipam    —    the king
+[TEXT—10.27](*1)          narāṇām    —    among human beings
+[TEXT—5.13](*1)          nava-dvāre    —    in the place where there are nine gates
+[TEXT—2.22](*1)          navāni    —    new garments
+[TEXT—2.22](*1)          navāni    —    new sets
+[TEXT—11.10-11](*1)          nayanam    —    eyes
+[TEXT—6.26](*1)          nayet    —    must bring in
+[TEXT—6.38](*1)          naśyati    —    perishes
+[TEXT—8.20](*1)          naśyatsu    —    being annihilated
+[TEXT—1.32-35](*1)          naḥ    —    our
+[TEXT—1.32-35](*1)          naḥ    —    to us
+[TEXT—2.6](*1)          naḥ    —    us
+[TEXT—16.9](*1)          naṣṭa    —    lost
+[TEXT—18.73](*1)          naṣṭaḥ    —    dispelled
+[TEXT—4.2](*1)          naṣṭaḥ    —    scattered
+[TEXT—1.39](*1)          naṣṭe    —    being destroyed
+[TEXT—3.32](*1)          naṣṭān    —    all ruined
+[TEXT—11.24,11.23,11.19,11.16](*4)          netram    —    eyes
+[TEXT—18.60](*1)          nibaddhaḥ    —    conditioned
+[TEXT—9.9](*1)          nibadhnanti    —    bind
+[TEXT—4.41](*1)          nibadhnanti    —    do bind up
+[TEXT—14.5](*1)          nibadhnanti    —    does condition
+[TEXT—14.8](*1)          nibadhnāti    —    binds
+[TEXT—14.7](*1)          nibadhnāti    —    is bound
+[TEXT—18.17,5.12](*2)          nibadhyate    —    becomes entangled
+[TEXT—4.22](*1)          nibadhyate    —    is affected
+[TEXT—16.5](*1)          nibandhāya    —    for bondage
+[TEXT—1.7](*1)          nibodha    —    just take note, be informed
+[TEXT—18.13-14](*1)          nibodha    —    just understand
+[TEXT—18.50](*1)          nibodha    —    try to understand
+[TEXT—3.35](*1)          nidhanam    —    destruction
+[TEXT—2.28](*1)          nidhanāni    —    all that are vanquished
+[TEXT—11.18](*1)          nidhānam    —    basis
+[TEXT—11.38](*1)          nidhānam    —    refuge
+[TEXT—9.18](*1)          nidhānam    —    resting place
+[TEXT—18.39](*1)          nidrā    —    sleeping
+[TEXT—14.8](*1)          nidrābhiḥ    —    sleep
+[TEXT—9.31](*1)          nigacchati    —    attains
+[TEXT—18.36-37](*1)          nigacchati    —    gains
+[TEXT—6.34](*1)          nigraham    —    subduing
+[TEXT—3.33](*1)          nigrahaḥ    —    suppression
+[TEXT—2.68](*1)          nigṛhītāni    —    so curbed down
+[TEXT—9.19](*1)          nigṛhṇāmi    —    withold
+[TEXT—1.32-35](*1)          nihatya    —    by killing
+[TEXT—11.33](*1)          nihatāḥ    —    already killed
+[TEXT—2.71](*1)          nihṣpṛhaḥ    —    desireless
+[TEXT—11.33](*1)          nimitta-mātram    —    just become the cause
+[TEXT—1.30](*1)          nimittāni    —    causes
+[TEXT—5.8-9](*1)          nimiṣan    —    closing
+[TEXT—2.36](*1)          nindantaḥ    —    while vilifying
+[TEXT—12.18-19](*1)          nindā    —    defamation
+[TEXT—14.22-25](*1)          nindā    —    in defamation
+[TEXT—15.5,6.1](*2)          nir    —    without
+[TEXT—12.13-14,2.71](*2)          nirahaṅkāraḥ    —    without false ego
+[TEXT—18.45](*1)          nirataḥ    —    engaged
+[TEXT—17.23](*1)          nirdeśaḥ    —    indication
+[TEXT—5.17](*1)          nirdhūta    —    cleanses
+[TEXT—5.19](*1)          nirdoṣam    —    flawless
+[TEXT—5.3](*1)          nirdvandvaḥ    —    free from all dualities
+[TEXT—2.45](*1)          nirdvandvaḥ    —    free from the pains of opposites
+[TEXT—13.15](*1)          nirguṇam    —    without material qualities
+[TEXT—13.32](*1)          nirguṇatvāt    —    due to transcendental
+[TEXT—14.16](*1)          nirmalam    —    purified
+[TEXT—14.6](*1)          nirmalatvāt    —    being purest in the material world
+[TEXT—12.13-14](*1)          nirmamaḥ    —    with no sense of proprietorship
+[TEXT—2.71](*1)          nirmamaḥ    —    without a sense of proprietorship
+[TEXT—3.30](*1)          nirmamaḥ    —    without ownership
+[TEXT—18.51-53](*1)          nirmamaḥ    —    without proprietorship
+[TEXT—7.28](*1)          nirmuktāḥ    —    free from
+[TEXT—6.20-23](*1)          niruddham    —    restrained from matter
+[TEXT—8.12](*1)          nirudhya    —    confined
+[TEXT—11.55](*1)          nirvairaḥ    —    without an enemy
+[TEXT—2.52](*1)          nirvedam    —    callousness
+[TEXT—18.26](*1)          nirvikāraḥ    —    without change
+[TEXT—6.15](*1)          nirvāṇa-paramām    —    cessation of material existence
+[TEXT—2.45](*1)          niryoga-kṣemaḥ    —    free from (the thought of) acquisition and preservation
+[TEXT—2.59](*1)          nirāhārasya    —    by negative restrictions
+[TEXT—4.20](*1)          nirāśrayaḥ    —    without any center
+[TEXT—6.10](*1)          nirāśīḥ    —    without being attracted by anything else
+[TEXT—3.30](*1)          nirāśīḥ    —    without desire for profit
+[TEXT—4.21](*1)          nirāśīḥ    —    without desire for the results
+[TEXT—1.21-22](*1)          nirīkṣe    —    may look
+[TEXT—6.18](*1)          nispṛhaḥ    —    devoid of
+[TEXT—2.45](*1)          nistraiguṇyaḥ    —    in a pure state of spiritual existence
+[TEXT—12.2,5.3,4.20](*3)          nitya    —    always
+[TEXT—9.22](*1)          nitya    —    always abhiyuktānām— fixed in devotion
+[TEXT—8.14](*1)          nitya    —    regularly
+[TEXT—2.26](*1)          nitya-jātam    —    always born
+[TEXT—2.45](*1)          nitya-sattva-sthaḥ    —    ever remaining in sattva (goodness)
+[TEXT—3.39](*1)          nitya-vairiṇā    —    eternal enemy
+[TEXT—7.17](*1)          nitya-yuktaḥ    —    always engaged
+[TEXT—9.14](*1)          nitya-yuktāḥ    —    perpetually engaged
+[TEXT—9.6,2.21](*2)          nityam    —    always
+[TEXT—13.8-12](*1)          nityam    —    eternal
+[TEXT—3.31](*1)          nityam    —    eternal function
+[TEXT—11.52,3.15,2.30](*3)          nityam    —    eternally
+[TEXT—2.26](*1)          nityam    —    forever
+[TEXT—10.9](*1)          nityam    —    perpetually
+[TEXT—18.51-53](*1)          nityam    —    twenty-four hours a day
+[TEXT—2.18](*1)          nityasya    —    eternal in existence
+[TEXT—13.8-12](*1)          nityatvam    —    eternity
+[TEXT—8.14](*1)          nityaśaḥ    —    regularly
+[TEXT—2.20](*1)          nityaḥ    —    eternal
+[TEXT—2.24](*1)          nityaḥ    —    everlasting
+[TEXT—15.5](*1)          nityāḥ    —    eternity
+[TEXT—9.3](*1)          nivartante    —    come back
+[TEXT—15.6,8.21](*2)          nivartante    —    comes back
+[TEXT—15.3-4](*1)          nivartanti    —    comes back
+[TEXT—2.59](*1)          nivartate    —    ceases from
+[TEXT—8.25](*1)          nivartate    —    comes back
+[TEXT—1.37-38](*1)          nivartitum    —    to cease
+[TEXT—12.8](*1)          nivasiṣyasi    —    you lead
+[TEXT—12.8](*1)          niveśaya    —    apply
+[TEXT—9.18](*1)          nivāsaḥ    —    abode
+[TEXT—6.19](*1)          nivātasthaḥ    —    in a place without wind
+[TEXT—16.7](*1)          nivṛttim    —    improper action
+[TEXT—18.30](*1)          nivṛttim    —    not deserving
+[TEXT—7.20](*1)          niyamam    —    rules
+[TEXT—3.41](*1)          niyamya    —    by regulating
+[TEXT—18.51-53](*1)          niyamya    —    regulated
+[TEXT—6.26,3.7](*2)          niyamya    —    regulating
+[TEXT—4.29](*1)          niyata    —    controlled
+[TEXT—6.15](*1)          niyata-mānasaḥ    —    regulated mind
+[TEXT—8.2](*1)          niyata-ātmabhiḥ    —    by the self-controlled
+[TEXT—1.43](*1)          niyatam    —    always
+[TEXT—18.9,3.8](*2)          niyatam    —    prescribed
+[TEXT—18.23](*1)          niyatam    —    regulative
+[TEXT—18.7](*1)          niyatasya    —    prescribed duties
+[TEXT—7.20](*1)          niyatāḥ    —    controlled
+[TEXT—3.1](*1)          niyojayasi    —    engaging me
+[TEXT—3.36](*1)          niyojitaḥ    —    engaged
+[TEXT—18.59](*1)          niyokṣyati    —    will engage you
+[TEXT—6.26](*1)          niścalati    —    verily agitated
+[TEXT—2.53](*1)          niścalā    —    unmoved
+[TEXT—18.4](*1)          niścayam    —    certainly
+[TEXT—2.37](*1)          niścayaḥ    —    uncertainty
+[TEXT—6.24](*1)          niścayena    —    with firm determination
+[TEXT—17.5-6](*1)          niścayān    —    certainly
+[TEXT—2.7](*1)          niścitam    —    confidently
+[TEXT—18.6](*1)          niścitam    —    definite
+[TEXT—3.2](*1)          niścitya    —    ascertaining
+[TEXT—16.11-12](*1)          niścitāḥ    —    ascertain
+[TEXT—2.69](*1)          niśā    —    is night
+[TEXT—2.69](*1)          niśā    —    night
+[TEXT—5.2](*1)          niḥśreyasa-karau    —    all leading to the path of liberation
+[TEXT—17.1,3.3](*2)          niṣṭhā    —    faith
+[TEXT—18.50](*1)          niṣṭhā    —    stage
+[TEXT—17.28](*1)          no    —    nor
+[TEXT—2.36](*1)          nu    —    of course
+[TEXT—1.32-35](*1)          nu    —    only
+[TEXT—18.2](*1)          nyāsam    —    renunciation
+[TEXT—18.15](*1)          nyāyyam    —    right
+[TEXT—10.29](*1)          nāgānām    —    of all serpents
+[TEXT—16.17](*1)          nāma    —    in name only
+[TEXT—1.9](*1)          nānā    —    many
+[TEXT—11.5](*1)          nānā    —    variegated
+[TEXT—18.21](*1)          nānā-bhāvān    —    multifarious situations
+[TEXT—11.5](*1)          nānā-vidhāni    —    variegated
+[TEXT—10.26,10.12-13](*2)          nāradaḥ    —    Nārada
+[TEXT—10.34](*1)          nārīṇāṁ    —    of women
+[TEXT—6.13-14](*1)          nāsikā    —    nose
+[TEXT—5.27-28](*1)          nāsā-abhyantara    —    within the nostrils
+[TEXT—2.67](*1)          nāvam    —    a boat
+[TEXT—1.7](*1)          nāyakāḥ    —    captains
+[TEXT—3.41](*1)          nāśanam    —    destroyer
+[TEXT—16.21](*1)          nāśanam    —    destructive
+[TEXT—10.11](*1)          nāśayāmi    —    dispel
+[TEXT—2.40](*1)          nāśaḥ    —    loss
+[TEXT—5.16](*1)          nāśitam    —    is destroyed
+[TEXT—11.29](*1)          nāśāya    —    destruction
+[TEXT—11.29](*1)          nāśāya    —    for destruction
+[TEXT—6.11-12](*1)          nīcam    —    low
+[TEXT—18.78,10.38](*2)          nītiḥ    —    morality
+[TEXT—11.48](*1)          nṛloke    —    in this material world
+[TEXT—7.8](*1)          nṛṣu    —    in man
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [n]:249

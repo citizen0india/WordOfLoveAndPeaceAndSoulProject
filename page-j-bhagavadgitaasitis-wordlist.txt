@@ -1,0 +1,165 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [j]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—9.4](*1)          jagat    —    cosmic manifestation
+[TEXT—10.42](*1)          jagat    —    in the universe
+[TEXT—16.8,9.10](*2)          jagat    —    the cosmic manifestation
+[TEXT—11.36](*1)          jagat    —    the entire world
+[TEXT—7.5](*1)          jagat    —    the material world
+[TEXT—11.30,11.7](*2)          jagat    —    the universe
+[TEXT—15.12](*1)          jagat    —    the whole world
+[TEXT—11.13,7.13](*2)          jagat    —    universe
+[TEXT—11.37](*1)          jagat-nivāsa    —    O refuge of the universe
+[TEXT—11.25](*1)          jagat-nivāsa    —    refuge of the worlds
+[TEXT—11.45](*1)          jagat-nivāsa    —    the refuge of the universe
+[TEXT—10.15](*1)          jagat-pate    —    O Lord of the entire universe
+[TEXT—8.26](*1)          jagataḥ    —    of the material world
+[TEXT—9.17](*1)          jagataḥ    —    of the universe
+[TEXT—16.9,7.6](*2)          jagataḥ    —    of the world
+[TEXT—14.18](*1)          jaghanya    —    abominable
+[TEXT—11.34](*1)          jahi    —    become victorious
+[TEXT—3.43](*1)          jahi    —    conquer
+[TEXT—2.50](*1)          jahāti    —    can get rid of
+[TEXT—13.8-12](*1)          jana    —    people in general
+[TEXT—3.20](*1)          janaka-ādayaḥ    —    kings like Janaka and others
+[TEXT—3.26](*1)          janayet    —    do
+[TEXT—3.21](*1)          janaḥ    —    person
+[TEXT—14.20,13.8-12,8.15,6.42,4.9,4.4,2.27](*7)          janma    —    birth
+[TEXT—6.45](*1)          janma    —    births
+[TEXT—2.51](*1)          janma-bandha    —    the bondage of birth and death
+[TEXT—2.42-43](*1)          janma-karma-phala-pradām    —    resulting in fruitive action, good birth, etc
+[TEXT—16.20](*1)          janmani janmani    —    in birth after birth
+[TEXT—7.19](*1)          janmanām    —    births
+[TEXT—13.22](*1)          janmasu    —    birth
+[TEXT—4.5](*1)          janmāni    —    births
+[TEXT—5.15](*1)          jantavaḥ    —    the living entities
+[TEXT—2.12](*1)          janādhipāḥ    —    kings
+[TEXT—7.28](*1)          janānām    —    of the persons
+[TEXT—3.1,1.43,1.37-38](*3)          janārdana    —    O Kṛṣṇa
+[TEXT—11.51](*1)          janārdana    —    O chastiser of the enemies
+[TEXT—10.18](*1)          janārdana    —    O killer of the atheists
+[TEXT—1.32-35](*1)          janārdana    —    O maintainer of all living entities
+[TEXT—17.4,8.17](*2)          janāḥ    —    people
+[TEXT—8.24](*1)          janāḥ    —    person
+[TEXT—17.5-6,16.7,9.22,7.16](*4)          janāḥ    —    persons
+[TEXT—10.25](*1)          japa-yajñaḥ    —    chanting
+[TEXT—14.20,13.8-12,7.29,2.13](*4)          jarā    —    old age
+[TEXT—11.34](*1)          jayadratham ca    —    also Jayadratha
+[TEXT—10.36](*1)          jayaḥ    —    victory
+[TEXT—2.6](*1)          jayema    —    conquer us
+[TEXT—2.6](*1)          jayeyuḥ    —    conquer
+[TEXT—2.38](*1)          jayājayau    —    both in defeat and victory
+[TEXT—13.27](*1)          jaṅgamam    —    moving
+[TEXT—11.34](*1)          jetāsi    —    just conquer
+[TEXT—10.31](*1)          jhaṣāṇām    —    of all aquatics
+[TEXT—5.8-9](*1)          jighran    —    by smelling
+[TEXT—10.38](*1)          jigīṣatām    —    of the victorious
+[TEXT—7.16](*1)          jijñāsuḥ    —    the inquisitive
+[TEXT—6.44](*1)          jijñāsuḥ    —    willing to know
+[TEXT—2.6](*1)          jijīviṣāmaḥ    —    want to live
+[TEXT—15.5](*1)          jita    —    having conquered
+[TEXT—5.7](*1)          jita-indriyaḥ    —    having conquered the senses
+[TEXT—6.7](*1)          jita-ātmanaḥ    —    of one who has conquered his mind
+[TEXT—18.49](*1)          jita-ātmā    —    control of the mind, vigata-spṛhaḥ— without material desires
+[TEXT—6.6,5.19](*2)          jitaḥ    —    conquered
+[TEXT—2.37](*1)          jitvā    —    by conquering
+[TEXT—11.33](*1)          jitvā    —    conquering
+[TEXT—12.12](*1)          jnānāt    —    better than knowledge
+[TEXT—3.26](*1)          joṣayet    —    dovetailed
+[TEXT—9.27](*1)          juhoṣi    —    you offer
+[TEXT—4.29,4.27,4.26](*3)          juhvati    —    offers
+[TEXT—4.26](*1)          juhvati    —    sacrifice
+[TEXT—4.29](*1)          juhvati    —    sacrifices
+[TEXT—2.2](*1)          juṣṭam    —    practiced by
+[TEXT—11.30](*1)          jvaladbhiḥ    —    with blazing
+[TEXT—11.29](*1)          jvalanam    —    fire
+[TEXT—8.24](*1)          jyotiḥ    —    light
+[TEXT—8.25](*1)          jyotiḥ    —    light, yogī—the mystic
+[TEXT—13.18](*1)          jyotiḥ    —    source of light
+[TEXT—13.18](*1)          jyotiṣām    —    in all luminous objects
+[TEXT—10.21](*1)          jyotiṣām    —    of all luminaries
+[TEXT—3.1](*1)          jyāyasī    —    speaking very highly
+[TEXT—3.8](*1)          jyāyaḥ    —    better
+[TEXT—1.37-38](*1)          jñeyam    —    know this
+[TEXT—13.19,13.13](*2)          jñeyam    —    knowable
+[TEXT—18.18](*1)          jñeyam    —    objective
+[TEXT—13.1-2](*1)          jñeyam    —    the object of knowledge
+[TEXT—13.18](*1)          jñeyam    —    to be known
+[TEXT—13.17](*1)          jñeyam    —    to be understood
+[TEXT—8.2](*1)          jñeyaḥ    —    be known
+[TEXT—5.3](*1)          jñeyaḥ    —    should be known
+[TEXT—6.8](*1)          jñāna    —    acquired knowledge
+[TEXT—18.70,16.1-3,14.6,13.8-12,5.17,4.42,4.41,4.10,3.41](*9)          jñāna    —    knowledge
+[TEXT—10.11](*1)          jñāna    —    of knowledge
+[TEXT—4.19](*1)          jñāna    —    of perfect knowledge
+[TEXT—4.37](*1)          jñāna- agniḥ    —    the fire of knowledge
+[TEXT—4.28](*1)          jñāna- yajñāḥ    —    sacrifice in advancement of transcendental knowledge
+[TEXT—3.3](*1)          jñāna- yogena    —    by the linking process of knowledge
+[TEXT—4.23](*1)          jñāna-avasthita    —    situated in transcendence
+[TEXT—15.10](*1)          jñāna-cakṣuṣaḥ    —    one who has the eyes of knowledge
+[TEXT—13.35](*1)          jñāna-cakṣuṣā    —    by vision of knowledge
+[TEXT—4.27](*1)          jñāna-dīpite    —    because of the urge for self-realization
+[TEXT—13.18](*1)          jñāna-gamyam    —    to be approached by knowledge
+[TEXT—4.36](*1)          jñāna-plavena    —    by the boat of transcendental knowledge
+[TEXT—4.33](*1)          jñāna-yajñaḥ    —    sacrifice in knowledge
+[TEXT—9.15](*1)          jñāna-yajñena    —    by cultivation of knowledge
+[TEXT—18.63,18.20,18.19,18.18,15.15,14.17,14.11,14.9,14.2,13.19,13.18,13.8-12,13.3,13.1-2,12.12,10.38,10.4-5,9.1,5.16,4.39,4.34,3.40](*22)          jñānam    —    knowledge
+[TEXT—7.2](*1)          jñānam    —    phenomenal knowledge
+[TEXT—3.39](*1)          jñānam    —    pure consciousness
+[TEXT—18.42](*1)          jñānam    —    wisdom
+[TEXT—18.50](*1)          jñānasya    —    of knowledge
+[TEXT—10.38](*1)          jñānavatām    —    of the wise
+[TEXT—7.19](*1)          jñānavān    —    he possessing knowledge
+[TEXT—3.33](*1)          jñānavān    —    the learned
+[TEXT—4.33](*1)          jñāne    —    in knowledge
+[TEXT—5.16](*1)          jñānena    —    by knowledge
+[TEXT—4.38](*1)          jñānena    —    with knowledge
+[TEXT—6.46](*1)          jñānibhyaḥ    —    than the wise
+[TEXT—3.39](*1)          jñāninaḥ    —    of the knower
+[TEXT—7.17](*1)          jñāninaḥ    —    person in knowledge
+[TEXT—4.34](*1)          jñāninaḥ    —    the self-realized
+[TEXT—14.1](*1)          jñānānām    —    of all knowledge
+[TEXT—7.20,7.15](*2)          jñānāḥ    —    knowledge
+[TEXT—7.17](*1)          jñānī    —    one in full knowledge
+[TEXT—7.18](*1)          jñānī    —    one who is in knowledge
+[TEXT—7.16](*1)          jñānī    —    one who knows things as they are
+[TEXT—7.1](*1)          jñāsyasi    —    you can know
+[TEXT—7.2](*1)          jñātavyam    —    knowable
+[TEXT—10.42](*1)          jñātena    —    knowing
+[TEXT—11.54](*1)          jñātum    —    to know
+[TEXT—18.55,16.24,14.1,13.13,9.13,7.2,4.35,4.32,4.16](*9)          jñātvā    —    knowing
+[TEXT—4.15](*1)          jñātvā    —    knowing well
+[TEXT—5.29](*1)          jñātvā    —    thus knowing
+[TEXT—2.69](*1)          jāgarti    —    wakeful
+[TEXT—6.16](*1)          jāgrataḥ    —    or one who keeps night watch too much
+[TEXT—2.69](*1)          jāgrati    —    awake
+[TEXT—10.31](*1)          jāhnavī    —    the River Ganges
+[TEXT—16.16](*1)          jāla    —    by a network
+[TEXT—8.27](*1)          jānan    —    even if they know
+[TEXT—15.19](*1)          jānāti    —    knows
+[TEXT—2.27](*1)          jātasya    —    one who has taken his birth
+[TEXT—1.42](*1)          jāti-dharmāḥ    —    community project
+[TEXT—2.12](*1)          jātu    —    become
+[TEXT—3.5](*1)          jātu    —    even
+[TEXT—3.23](*1)          jātu    —    ever
+[TEXT—10.6](*1)          jātāḥ    —    born
+[TEXT—14.13](*1)          jāyante    —    are manifested
+[TEXT—14.12](*1)          jāyante    —    develop
+[TEXT—1.29](*1)          jāyate    —    is taking place
+[TEXT—1.40](*1)          jāyate    —    it so becomes
+[TEXT—14.15](*1)          jāyate    —    take birth
+[TEXT—14.15,2.20](*2)          jāyate    —    takes birth
+[TEXT—2.22](*1)          jīrṇāni    —    old and useless
+[TEXT—2.22](*1)          jīrṇāni    —    old and worn out
+[TEXT—15.7](*1)          jīva-bhūtaḥ    —    the conditioned living entities
+[TEXT—7.5](*1)          jīva-bhūtām    —    the living entities
+[TEXT—15.7](*1)          jīva-loke    —    world of conditional life
+[TEXT—7.9](*1)          jīvanam    —    life
+[TEXT—3.16](*1)          jīvati    —    lives
+[TEXT—1.32-35](*1)          jīvitena    —    by living
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [j]:156

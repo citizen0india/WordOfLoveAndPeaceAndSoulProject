@@ -1,0 +1,329 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [m]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—8.5](*1)          mad-bhāvam    —    My nature
+[TEXT—16.10](*1)          mada-anvitāḥ    —    absorbed in conceit
+[TEXT—16.17](*1)          mada-anvitāḥ    —    absorbed in pride
+[TEXT—18.35](*1)          madam    —    illusion
+[TEXT—8.2](*1)          madhusūdana    —    O Madhusūdana
+[TEXT—2.4](*1)          madhusūdana    —    O killer of Madhu
+[TEXT—6.33](*1)          madhusūdana    —    O killer of the demon Madhu
+[TEXT—1.32-35](*1)          madhusūdana    —    O killer of the demon Madhu (Kṛṣṇa)
+[TEXT—2.1](*1)          madhusūdanaḥ    —    the killer of Madhu
+[TEXT—11.19](*1)          madhya    —    without middle
+[TEXT—10.32,10.20](*2)          madhyam    —    middle
+[TEXT—2.10](*1)          madhye    —    between
+[TEXT—8.10](*1)          madhye    —    in
+[TEXT—1.21-22](*1)          madhye    —    in between them
+[TEXT—14.18](*1)          madhye    —    in the middle
+[TEXT—1.24](*1)          madhye    —    in the midst of
+[TEXT—2.28](*1)          madhyāni    —    in the middle
+[TEXT—10.2](*1)          maharṣayaḥ    —    great sages
+[TEXT—10.6](*1)          maharṣayaḥ    —    the great sages
+[TEXT—11.21](*1)          maharṣi    —    great sages
+[TEXT—10.25](*1)          maharṣīṇām    —    among the great sages
+[TEXT—10.2](*1)          maharṣīṇām    —    of the great sages
+[TEXT—1.44](*1)          mahat    —    great
+[TEXT—14.3](*1)          mahat    —    the total material existence
+[TEXT—11.23](*1)          mahat    —    very great
+[TEXT—14.4](*1)          mahat yoniḥ    —    the source of birth in the material substance
+[TEXT—2.40](*1)          mahataḥ    —    of very great
+[TEXT—1.14](*1)          mahati    —    in the great
+[TEXT—4.2](*1)          mahatā    —    by great
+[TEXT—1.3](*1)          mahatīm    —    great
+[TEXT—10.3](*1)          maheśvaram    —    supreme master
+[TEXT—9.11](*1)          maheśvaram    —    supreme proprietor
+[TEXT—5.29](*1)          maheśvaram    —    the Supreme Lord
+[TEXT—13.23](*1)          maheśvaraḥ    —    the Supreme Lord
+[TEXT—1.4](*1)          maheṣvāsāḥ    —    mighty bowmen
+[TEXT—11.41-42](*1)          mahimānam    —    glories
+[TEXT—2.5](*1)          mahā-anubhāvān    —    great souls
+[TEXT—13.6-7](*1)          mahā-bhūtāni    —    great elements
+[TEXT—5.6](*1)          mahā-bāho    —    O mighty- armed one
+[TEXT—10.1](*1)          mahā-bāho    —    O mighty-armed
+[TEXT—6.38](*1)          mahā-bāho    —    O mighty-armed Kṛṣṇa
+[TEXT—18.13-14,14.5,11.23,7.5,6.35,5.3,3.43,3.28,2.68,2.26](*10)          mahā-bāho    —    O mighty-armed one
+[TEXT—1.16-18](*1)          mahā-bāhuḥ    —    greatly armed
+[TEXT—3.37](*1)          mahā-pāpmā    —    greatly sinful
+[TEXT—1.16-18](*1)          mahā-rathaḥ    —    one who can fight alone against thousands
+[TEXT—1.6](*1)          mahā-rathāḥ    —    great chariot fighters
+[TEXT—2.35](*1)          mahā-rathāḥ    —    the great generals
+[TEXT—11.9](*1)          mahā-yogeśvaraḥ    —    the most powerful mystic
+[TEXT—3.37](*1)          mahā-śanaḥ    —    all-devouring
+[TEXT—1.15](*1)          mahā-śaṅkham    —    the terrific conchshell
+[TEXT—18.77,9.6](*2)          mahān    —    great
+[TEXT—1.4](*1)          mahārathaḥ    —    great fighter
+[TEXT—11.37,11.20](*2)          mahātman    —    O great one
+[TEXT—11.12](*1)          mahātmanaḥ    —    of the great Lord
+[TEXT—18.74](*1)          mahātmanaḥ    —    two great souls
+[TEXT—7.19](*1)          mahātmā    —    great soul
+[TEXT—11.50](*1)          mahātmā    —    the great one
+[TEXT—9.13,8.15](*2)          mahātmānaḥ    —    the great souls
+[TEXT—1.32-35](*1)          mahī-kṛte    —    for the sake of earth
+[TEXT—1.20](*1)          mahī-pate    —    O King
+[TEXT—1.25](*1)          mahīkṣitām    —    chiefs of the world
+[TEXT—2.37](*1)          mahīm    —    the world
+[TEXT—12.13-14](*1)          maitraḥ    —    friendly
+[TEXT—10.31](*1)          makaraḥ    —    shark
+[TEXT—3.38](*1)          malena    —    by dust
+[TEXT—9.11,8.21,7.17](*3)          mama    —    Mine
+[TEXT—15.7,15.6,14.3,14.2,11.49,11.7,10.41,9.5,7.24,7.14,4.11,3.23](*12)          mama    —    My
+[TEXT—11.1,2.8,1.28,1.7](*4)          mama    —    my
+[TEXT—11.52,10.7](*2)          mama    —    of Mine
+[TEXT—10.40](*1)          mama    —    of My
+[TEXT—13.3](*1)          mama    —    that
+[TEXT—18.65](*1)          man-manāḥ    —    thinking of Me
+[TEXT—6.27](*1)          manasam    —    of one whose mind is so fixed
+[TEXT—3.42](*1)          manasaḥ    —    more than the mind
+[TEXT—3.6](*1)          manasā    —    by mind
+[TEXT—8.10,6.24,5.13,3.7](*4)          manasā    —    by the mind
+[TEXT—5.11](*1)          manasā    —    with the mind
+[TEXT—10.6](*1)          manavaḥ    —    Manus
+[TEXT—4.1](*1)          manave    —    unto the father of mankind (of the name Vaivasvata)
+[TEXT—18.33,17.11,15.9,15.7,12.13-14,12.8,12.2,11.45,8.12,8.7,7.4,6.35,6.34,6.25,6.13-14,6.11-12,5.27-28,5.19,2.67,1.30](*20)          manaḥ    —    mind
+[TEXT—10.22,6.26,3.42,3.40,2.60](*5)          manaḥ    —    the mind
+[TEXT—2.55](*1)          manaḥ-gatān    —    of mental concoction
+[TEXT—17.16](*1)          manaḥ-prasādaḥ    —    satisfaction of the mind
+[TEXT—3.29](*1)          mandān    —    lazy to understand self-realization
+[TEXT—18.15](*1)          manobhiḥ    —    by the mind
+[TEXT—16.13-15](*1)          manoratham    —    according to my desires
+[TEXT—9.30](*1)          mantavyaḥ    —    to be considered
+[TEXT—17.13](*1)          mantra-hīnam    —    with no chanting of the Vedic hymns
+[TEXT—9.16](*1)          mantraḥ    —    transcendental chant
+[TEXT—4.1](*1)          manuḥ    —    the father of mankind
+[TEXT—15.2](*1)          manuṣya-loke    —    in the world of human society
+[TEXT—18.69](*1)          manuṣyeṣu    —    among mankind
+[TEXT—4.18](*1)          manuṣyeṣu    —    in human society
+[TEXT—4.11,3.23](*2)          manuṣyāḥ    —    all men
+[TEXT—7.3](*1)          manuṣyāṇām    —    of men
+[TEXT—1.43](*1)          manuṣyāṇām    —    of such men
+[TEXT—7.24](*1)          manyante    —    think
+[TEXT—11.4](*1)          manyase    —    if You think
+[TEXT—2.26](*1)          manyase    —    so think
+[TEXT—18.59](*1)          manyase    —    think
+[TEXT—6.20-23](*1)          manyate    —    does not mind
+[TEXT—18.32,3.27,2.19](*3)          manyate    —    thinks
+[TEXT—10.14](*1)          manye    —    accept
+[TEXT—6.34](*1)          manye    —    think
+[TEXT—5.8-9](*1)          manyeta    —    thinks
+[TEXT—2.51](*1)          manīṣiṇaḥ    —    devotees who are great sages
+[TEXT—18.3](*1)          manīṣiṇaḥ    —    of great thinkers
+[TEXT—18.5](*1)          manīṣiṇām    —    even of the great souls
+[TEXT—7.29](*1)          maraṇa    —    death
+[TEXT—2.34](*1)          maraṇāt    —    than death
+[TEXT—9.21](*1)          martya-lokam    —    mortal earth
+[TEXT—10.3](*1)          martyeṣu    —    among those subject to death
+[TEXT—11.22](*1)          marutaḥ    —    the Maruts
+[TEXT—11.6](*1)          marutaḥ    —    the forty-nine Maruts (demigods of the wind)
+[TEXT—10.21](*1)          marutām    —    of the Marutas
+[TEXT—10.21](*1)          marīciḥ    —    Marīci
+[TEXT—18.68](*1)          mat    —    Mine
+[TEXT—18.58,18.56,9.34,9.25,7.23](*5)          mat    —    My
+[TEXT—10.41](*1)          mat    —    having
+[TEXT—18.56](*1)          mat    —    under My
+[TEXT—12.11,9.27,6.13-14](*3)          mat    —    unto Me
+[TEXT—6.13-14](*1)          mat    —    unto Me (Kṛṣṇa)
+[TEXT—12.10](*1)          mat- artham    —    for My sake
+[TEXT—4.10](*1)          mat- mayā    —    fully in Me
+[TEXT—9.4](*1)          mat- sthāni    —    unto Me
+[TEXT—11.1](*1)          mat-anugrahāya    —    just to show me favor
+[TEXT—18.65,13.19,12.16,12.13-14](*4)          mat-bhaktaḥ    —    My devotee
+[TEXT—11.55](*1)          mat-bhaktaḥ    —    engaged in My devotional service
+[TEXT—18.54](*1)          mat-bhaktim    —    My devotional service
+[TEXT—14.19](*1)          mat-bhāvam    —    My spiritual nature
+[TEXT—4.10](*1)          mat-bhāvam    —    transcendental love for Me
+[TEXT—13.19](*1)          mat-bhāvāya    —    My nature
+[TEXT—10.6](*1)          mat-bhāvāḥ    —    born of Me
+[TEXT—18.57](*1)          mat-cittaḥ    —    consciousness
+[TEXT—10.9](*1)          mat-cittāḥ    —    minds fully engaged in Me
+[TEXT—10.9](*1)          mat-gata-prāṇāḥ    —    lives devoted to the service of Kṛṣṇa
+[TEXT—6.47](*1)          mat-gatena    —    abiding in Me
+[TEXT—12.10](*1)          mat-karma    —    My work
+[TEXT—11.55](*1)          mat-karma-kṛt    —    engaged in doing My work
+[TEXT—9.34](*1)          mat-manāḥ    —    always thinking of Me
+[TEXT—13.13](*1)          mat-param    —    subordinate to Me
+[TEXT—11.55](*1)          mat-paramaḥ    —    concerning Me, the Supreme
+[TEXT—12.20](*1)          mat-paramāḥ    —    taking the Supreme Lord as everything
+[TEXT—18.57](*1)          mat-paraḥ    —    My protection
+[TEXT—2.61](*1)          mat-paraḥ    —    in relationship with Me
+[TEXT—9.34](*1)          mat-parāyaṇaḥ    —    devoted to Me
+[TEXT—12.6-7](*1)          mat-parāḥ    —    being attached to Me
+[TEXT—6.15](*1)          mat-saṁsthām    —    in the spiritual sky (the kingdom of God)
+[TEXT—9.6,9.5](*2)          mat-sthāni    —    situated in Me
+[TEXT—18.65](*1)          mat-yājī    —    My worshiper
+[TEXT—7.1](*1)          mat-āśrayaḥ    —    in consciousness of Me (Kṛṣṇa consciousness)
+[TEXT—3.32](*1)          matam    —    injunction
+[TEXT—3.31](*1)          matam    —    injunctions
+[TEXT—18.6,13.3,7.18](*3)          matam    —    opinion
+[TEXT—6.46,6.32](*2)          mataḥ    —    considered
+[TEXT—18.9](*1)          mataḥ    —    in My opinion
+[TEXT—6.47](*1)          mataḥ    —    is considered
+[TEXT—11.18](*1)          mataḥ me    —    ismy opinion
+[TEXT—8.26](*1)          mate    —    in the opinion
+[TEXT—12.18-19](*1)          matiḥ    —    determination
+[TEXT—18.70,6.36](*2)          matiḥ    —    opinion
+[TEXT—18.78](*1)          matiḥ mama    —    is my opinion
+[TEXT—7.7](*1)          mattaḥ    —    beyond Myself
+[TEXT—15.15,10.8,10.4-5,7.12](*4)          mattaḥ    —    from Me
+[TEXT—10.8](*1)          matvā    —    knowing
+[TEXT—11.41-42,3.28](*2)          matvā    —    thinking
+[TEXT—16.5](*1)          matā    —    it is considered
+[TEXT—3.1](*1)          matā    —    opinion
+[TEXT—12.2](*1)          matāḥ    —    I consider
+[TEXT—17.16](*1)          maunam    —    gravity
+[TEXT—10.38](*1)          maunam    —    silence
+[TEXT—12.18-19](*1)          maunī    —    silent
+[TEXT—17.3](*1)          mayaḥ    —    full
+[TEXT—7.7,6.30,4.35](*3)          mayi    —    in Me
+[TEXT—18.68,18.57,13.8-12,12.8,12.6-7,12.2,9.29,8.7,7.12,6.31,3.30](*11)          mayi    —    unto Me
+[TEXT—12.13-14,12.9,12.8](*3)          mayi    —    upon Me
+[TEXT—18.63,15.20,11.47,11.34,11.33,10.40,10.39,9.10,9.4,7.22,4.13,4.3,3.3](*13)          mayā    —    by Me
+[TEXT—18.73,16.13-15,11.41-42,11.2,10.17,1.21-22](*6)          mayā    —    by me
+[TEXT—16.13-15](*1)          mayā    —    me
+[TEXT—2.35](*1)          maṁsyante    —    will consider
+[TEXT—7.7](*1)          maṇi-gaṇāḥ    —    pearls
+[TEXT—12.20,12.16](*2)          me    —    Me
+[TEXT—12.2,11.5,9.31,9.29,7.18,6.47,3.22](*7)          me    —    Mine
+[TEXT—18.70,18.69,18.65,12.18-19,12.17,12.15,11.49,11.8,10.19,10.2,9.5,7.5,7.4,6.36,4.14,4.3,3.32,3.31](*18)          me    —    My
+[TEXT—18.64,18.50,18.36-37,18.13-14,18.4,16.6,13.4](*7)          me    —    from Me
+[TEXT—16.13-15,11.45](*2)          me    —    mine
+[TEXT—18.77,10.18,6.39,3.2,1.30,1.29,1.21-22](*7)          me    —    my
+[TEXT—4.9,4.5](*2)          me    —    of Mine
+[TEXT—6.30](*1)          me    —    to Me
+[TEXT—9.26](*1)          me    —    unto Me
+[TEXT—11.45,11.31,10.12-13,5.1,2.7](*5)          me    —    unto me
+[TEXT—10.34](*1)          medhā    —    intelligence
+[TEXT—18.10](*1)          medhāvī    —    intelligent
+[TEXT—10.23](*1)          meruḥ    —    Meru
+[TEXT—18.59](*1)          mithyā eṣaḥ    —    this is all false
+[TEXT—3.6](*1)          mithyā-ācāraḥ    —    pretender
+[TEXT—14.22-25](*1)          mitra    —    friend
+[TEXT—1.37-38](*1)          mitra-drohe    —    quarreling with friends
+[TEXT—12.18-19](*1)          mitre    —    to friends
+[TEXT—18.12](*1)          miśram ca    —    or mixture
+[TEXT—16.13-15](*1)          modiṣye    —    I shall rejoice
+[TEXT—9.12](*1)          mogha-jñānāḥ    —    baffled in knowledge
+[TEXT—9.12](*1)          mogha-karmāṇaḥ    —    baffled in fruitive activities
+[TEXT—3.16](*1)          mogham    —    useless
+[TEXT—9.12](*1)          moghāśāḥ    —    baffled hope
+[TEXT—7.28](*1)          moha    —    delusion
+[TEXT—2.52](*1)          moha    —    illusory
+[TEXT—16.16](*1)          moha    —    of illusions
+[TEXT—14.22-25,4.35](*2)          moham    —    illusion
+[TEXT—14.8](*1)          mohanam    —    delusion
+[TEXT—18.39](*1)          mohanam    —    illusion
+[TEXT—14.17](*1)          mohau    —    illusion
+[TEXT—3.2](*1)          mohayasi    —    bewildering
+[TEXT—18.73,14.13,11.1](*3)          mohaḥ    —    illusion
+[TEXT—7.27](*1)          mohena    —    overcome
+[TEXT—9.12](*1)          mohinīm    —    bewildering
+[TEXT—7.13](*1)          mohitam    —    deluded
+[TEXT—4.16](*1)          mohitāḥ    —    bewildered
+[TEXT—18.60,18.25,18.7,16.10](*4)          mohāt    —    by illusion
+[TEXT—15.5](*1)          mohāḥ    —    illusion
+[TEXT—5.27-28](*1)          mokṣa    —    liberation
+[TEXT—17.25](*1)          mokṣa-kāṅkṣibhiḥ    —    those who actually desire liberation
+[TEXT—13.35](*1)          mokṣam    —    liberation
+[TEXT—18.30](*1)          mokṣam ca    —    and liberation
+[TEXT—18.66](*1)          mokṣayiṣyāmi    —    deliver
+[TEXT—4.16](*1)          mokṣyase    —    be liberated
+[TEXT—9.1](*1)          mokṣyase    —    be released
+[TEXT—9.28](*1)          mokṣyase    —    free
+[TEXT—7.29](*1)          mokṣāya    —    for the purpose of liberation
+[TEXT—2.20](*1)          mriyate    —    never dies
+[TEXT—3.31](*1)          mucyante    —    become free
+[TEXT—3.13](*1)          mucyante    —    get relief from
+[TEXT—18.76](*1)          muhuḥ muhuḥ    —    always, repeatedly
+[TEXT—5.15](*1)          muhyanti    —    bewildered
+[TEXT—8.27](*1)          muhyati    —    bewildered
+[TEXT—2.13](*1)          muhyati    —    deluded
+[TEXT—13.14](*1)          mukham    —    face
+[TEXT—1.28](*1)          mukham    —    mouth
+[TEXT—4.32](*1)          mukhe    —    in the face of
+[TEXT—10.24](*1)          mukhyam    —    chief
+[TEXT—11.25](*1)          mukhāni    —    faces
+[TEXT—18.26](*1)          mukta-saṅgaḥ    —    liberated from all material association
+[TEXT—3.9](*1)          mukta-saṅgaḥ    —    liberated from association
+[TEXT—18.40](*1)          muktam    —    liberated
+[TEXT—4.23](*1)          muktasya    —    of the liberated
+[TEXT—18.71](*1)          muktaḥ    —    being liberated
+[TEXT—12.15](*1)          muktaḥ    —    freed
+[TEXT—5.27-28](*1)          muktaḥ    —    liberated
+[TEXT—8.5](*1)          muktvā    —    quitting
+[TEXT—4.15](*1)          mumukṣubhiḥ    —    who attained liberation
+[TEXT—14.1](*1)          munayaḥ    —    the sages
+[TEXT—6.3](*1)          muneḥ    —    of the sage
+[TEXT—2.69](*1)          muneḥ    —    sage
+[TEXT—2.56](*1)          muniḥ    —    sage
+[TEXT—5.27-28](*1)          muniḥ    —    the transcendentalist
+[TEXT—5.6](*1)          muniḥ    —    thinker
+[TEXT—10.37](*1)          munīnām    —    of the sages
+[TEXT—16.5,2.3](*2)          mā    —    do not
+[TEXT—11.49](*1)          mā    —    let it not be
+[TEXT—11.34,2.47](*2)          mā    —    never
+[TEXT—18.66](*1)          mā    —    not
+[TEXT—1.36](*1)          mādhava    —    O Kṛṣṇa, husband of the goddess of fortune
+[TEXT—1.14](*1)          mādhavaḥ    —    Kṛṣṇa (the husband of the goddess of fortune)
+[TEXT—11.2](*1)          māhātmyam    —    glories
+[TEXT—11.10-11](*1)          mālya    —    garlands
+[TEXT—18.55,16.18,13.3,12.9,11.53,11.8,10.27,10.24,9.24,9.23,9.15,9.14,9.11,9.9,9.3,7.30,7.28,7.26,7.25,6.30,4.13](*21)          mām    —    Me
+[TEXT—8.14,8.13](*2)          mām    —    Me (Kṛṣṇa)
+[TEXT—5.29](*1)          mām    —    Me (Lord Kṛṣṇa)
+[TEXT—6.47](*1)          mām    —    Me (the Supreme Lord)
+[TEXT—10.9](*1)          mām    —    about Me
+[TEXT—3.1,2.7](*2)          mām    —    me
+[TEXT—17.5-6,9.28](*2)          mām    —    to Me
+[TEXT—18.68,18.67,18.66,18.65,16.20,15.19,14.26,12.6-7,12.3-4,12.2,11.55,10.10,10.8,10.3,9.34,9.33,9.32,9.30,9.29,9.25,9.22,9.20,9.14,9.13,8.16,8.15,8.7,8.5,7.29,7.24,7.23,7.19,7.18,7.16,7.15,7.14,7.13,7.10,6.31,4.14,4.11,4.10,4.9](*43)          mām    —    unto Me
+[TEXT—10.14,1.45](*2)          mām    —    unto me
+[TEXT—15.12](*1)          māmakam    —    from Me
+[TEXT—1.1](*1)          māmakāḥ    —    my party (sons)
+[TEXT—9.7](*1)          māmikām    —    unto Me
+[TEXT—16.10](*1)          māna    —    false prestige
+[TEXT—17.18,14.22-25,12.18-19,6.7](*4)          māna    —    honor
+[TEXT—15.5](*1)          māna    —    respect
+[TEXT—17.16](*1)          mānasam    —    of the mind
+[TEXT—18.51-53](*1)          mānasaḥ    —    control of the mind
+[TEXT—6.37](*1)          mānasaḥ    —    of one who has such a mind
+[TEXT—1.46](*1)          mānasaḥ    —    within the mind
+[TEXT—10.6](*1)          mānasāḥ    —    from the mind
+[TEXT—18.46,3.17](*2)          mānavaḥ    —    a man
+[TEXT—3.31](*1)          mānavāḥ    —    humankind
+[TEXT—11.51](*1)          mānuṣam    —    human being
+[TEXT—4.12](*1)          mānuṣe    —    in human society
+[TEXT—9.11](*1)          mānuṣīm    —    in a human form
+[TEXT—16.1-3](*1)          mārdavam    —    gentleness
+[TEXT—10.35](*1)          mārga-śīrṣo 'ham    —    the month of November-December
+[TEXT—2.23](*1)          mārutaḥ    —    wind
+[TEXT—10.35](*1)          māsānām    —    of months
+[TEXT—2.14](*1)          mātrā    —    sensuous
+[TEXT—1.26](*1)          mātulān    —    maternal uncles
+[TEXT—1.32-35](*1)          mātulāḥ    —    maternal uncles
+[TEXT—9.17](*1)          mātā    —    mother
+[TEXT—7.15](*1)          māyayā    —    by the illusory energy
+[TEXT—18.61](*1)          māyayā    —    under the spell of material energy
+[TEXT—7.14](*1)          māyā    —    energy
+[TEXT—7.14](*1)          māyām etām    —    this illusory energy
+[TEXT—15.3-4](*1)          mūlam    —    rooted
+[TEXT—15.2](*1)          mūlāni    —    roots
+[TEXT—8.12](*1)          mūrdhni    —    on the head
+[TEXT—14.4](*1)          mūrtayaḥ    —    forms
+[TEXT—14.15](*1)          mūḍha    —    animal
+[TEXT—17.19](*1)          mūḍha    —    foolish
+[TEXT—7.25](*1)          mūḍhaḥ    —    foolish
+[TEXT—7.15](*1)          mūḍhāḥ    —    foolish
+[TEXT—9.11](*1)          mūḍhāḥ    —    foolish men
+[TEXT—16.20](*1)          mūḍhāḥ    —    the foolish
+[TEXT—10.30](*1)          mṛgendraḥ    —    the lion
+[TEXT—10.30](*1)          mṛgāṇām    —    of animals
+[TEXT—2.26](*1)          mṛtam    —    dead
+[TEXT—2.27](*1)          mṛtasya    —    of the dead
+[TEXT—14.20,13.8-12,9.3](*3)          mṛtyu    —    death
+[TEXT—12.6-7](*1)          mṛtyu    —    that
+[TEXT—13.26](*1)          mṛtyum    —    the path of death
+[TEXT—10.34,9.19,2.27](*3)          mṛtyuḥ    —    death
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [m]:320

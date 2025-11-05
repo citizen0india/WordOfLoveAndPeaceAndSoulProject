@@ -1,0 +1,20 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ṛ]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—5.29](*1)          ṛcchati    —    achieves
+[TEXT—2.72](*1)          ṛcchati    —    attains
+[TEXT—2.8](*1)          ṛddham    —    prosperous
+[TEXT—9.17](*1)          ṛk    —    the Ṛg-veda
+[TEXT—10.14](*1)          ṛtam    —    truths
+[TEXT—11.32](*1)          ṛte api    —    without even
+[TEXT—10.35](*1)          ṛtūnām    —    of all seasons
+[TEXT—10.12-13](*1)          ṛṣayaḥ    —    sages
+[TEXT—5.25](*1)          ṛṣayaḥ    —    those who are active within
+[TEXT—13.5](*1)          ṛṣibhiḥ    —    by the wise sages
+[TEXT—11.15](*1)          ṛṣīn    —    great sages
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ṛ]:11

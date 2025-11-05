@@ -1,0 +1,103 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [i]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—8.11](*1)          icchantaḥ    —    desiring
+[TEXT—18.60](*1)          icchasi    —    like
+[TEXT—18.63,11.7](*2)          icchasi    —    you like
+[TEXT—7.21](*1)          icchati    —    desires
+[TEXT—13.6-7,12.9,7.27](*3)          icchā    —    desire
+[TEXT—5.27-28](*1)          icchā    —    wishes
+[TEXT—18.1,13.1-2,11.46,11.31](*4)          icchāmi    —    I wish
+[TEXT—1.32-35](*1)          icchāmi    —    do I wish
+[TEXT—1.10](*1)          idam    —    all these
+[TEXT—9.4](*1)          idam    —    all these manifestations
+[TEXT—11.49](*1)          idam    —    as it is
+[TEXT—7.13](*1)          idam    —    in this world
+[TEXT—2.10](*1)          idam    —    the following
+[TEXT—1.20](*1)          idam    —    these
+[TEXT—18.68,18.67,18.46,16.21,16.13-15,15.20,14.2,13.1-2,12.20,11.52,11.51,11.49,11.47,11.41-42,11.20,11.19,10.42,9.2,9.1,7.5,7.2,3.38,3.31,2.17](*24)          idam    —    this
+[TEXT—2.2](*1)          idam    —    this lamentation
+[TEXT—1.27](*1)          idam    —    thus
+[TEXT—8.22](*1)          idam    —    whatever we can see
+[TEXT—7.7](*1)          idam    —    which we see
+[TEXT—11.51](*1)          idānīm    —    just now
+[TEXT—18.36-37](*1)          idānīm    —    now
+[TEXT—4.12,3.37](*2)          iha    —    in the material world
+[TEXT—15.3-4,11.7](*2)          iha    —    in this
+[TEXT—17.28,5.19,3.16,2.50](*4)          iha    —    in this life
+[TEXT—6.40](*1)          iha    —    in this material world
+[TEXT—17.18,11.32,7.2,4.38,4.2,3.18,2.41,2.40,2.5](*9)          iha    —    in this world
+[TEXT—16.24](*1)          iha arhasi    —    you should do it
+[TEXT—5.23](*1)          iha eva    —    in the present body
+[TEXT—17.11](*1)          ijyate    —    performs
+[TEXT—17.12](*1)          ijyate    —    worship
+[TEXT—11.53](*1)          ijyayā    —    by worship
+[TEXT—4.1](*1)          ikṣvākave    —    unto King Ikṣvāku
+[TEXT—1.28](*1)          imam    —    all these
+[TEXT—18.76,18.74,18.70,16.13-15,13.34,9.33,9.8,4.1,2.33](*9)          imam    —    this
+[TEXT—4.2](*1)          imam    —    this science
+[TEXT—17.7](*1)          imam    —    thus
+[TEXT—15.16](*1)          imau    —    in this (world)
+[TEXT—3.24,2.18,2.12](*3)          ime    —    all these
+[TEXT—1.32-35](*1)          ime    —    these
+[TEXT—10.16](*1)          imān    —    these
+[TEXT—18.17](*1)          imān    —    this
+[TEXT—3.24](*1)          imāḥ    —    all these
+[TEXT—10.6](*1)          imāḥ    —    all this
+[TEXT—18.38,18.33,13.15,6.11-12,5.27-28,4.27](*6)          indriya    —    senses
+[TEXT—2.68](*1)          indriya-arthebhyaḥ    —    for the sake of sense objects
+[TEXT—2.58](*1)          indriya-arthebhyaḥ    —    from the sense objects
+[TEXT—6.4,5.8-9](*2)          indriya-artheṣu    —    in sense gratification
+[TEXT—3.6](*1)          indriya-arthān    —    sense objects
+[TEXT—13.6-7](*1)          indriya-gocarāḥ    —    objects of the senses
+[TEXT—12.3-4](*1)          indriya-grāmam    —    all the senses
+[TEXT—6.24](*1)          indriya-grāmam    —    the full set of senses
+[TEXT—3.16](*1)          indriya-ārāmaḥ    —    satisfied in sense gratification
+[TEXT—2.64](*1)          indriyaiḥ    —    by the senses
+[TEXT—5.11](*1)          indriyaiḥ    —    with the senses
+[TEXT—3.34](*1)          indriyasya    —    of the senses
+[TEXT—3.34](*1)          indriyasya arthe    —    in the sense objects
+[TEXT—4.39](*1)          indriyaḥ    —    senses
+[TEXT—3.42](*1)          indriyebhyaḥ    —    more than the senses
+[TEXT—2.58](*1)          indriyāni    —    senses
+[TEXT—15.7,13.6-7,4.26,3.41,3.7,2.61](*6)          indriyāṇi    —    senses
+[TEXT—5.8-9,3.40,2.68,2.60](*4)          indriyāṇi    —    the senses
+[TEXT—10.22](*1)          indriyāṇām    —    of all the senses
+[TEXT—2.67,2.8](*2)          indriyāṇām    —    of the senses
+[TEXT—3.42](*1)          indriyāṇī    —    senses
+[TEXT—18.64](*1)          isṭaḥ asi    —    you are very dear to Me
+[TEXT—3.21](*1)          itaraḥ    —    common
+[TEXT—7.5](*1)          itaḥ    —    besides this
+[TEXT—14.1](*1)          itaḥ    —    from this world
+[TEXT—13.23](*1)          iti    —    also
+[TEXT—16.11-12](*1)          iti    —    in this way
+[TEXT—17.23](*1)          iti    —    that
+[TEXT—4.3](*1)          iti    —    therefore
+[TEXT—17.25](*1)          iti    —    they
+[TEXT—2.42-43](*1)          iti    —    this
+[TEXT—18.74,18.70,18.64,18.63,18.59,18.32,18.18,18.11,18.9,18.8,17.28,17.26-27,17.24,17.20,17.16,17.11,16.13-15,15.20,15.17,14.11,14.5,13.19,13.8-12,13.1-2,11.50,11.41-42,11.21,10.8,9.6,8.21,8.13,7.19,7.12,7.6,7.4,6.36,6.18,6.8,6.2,5.8-9,4.16,4.14,4.4,3.28,3.27,2.9,1.43,1.25](*48)          iti    —    thus
+[TEXT—14.22-25](*1)          iti evam    —    knowing thus
+[TEXT—18.48,3.2,1.30](*3)          iva    —    as
+[TEXT—13.17,3.36](*2)          iva    —    as if
+[TEXT—15.8,6.34,5.10,2.67,2.58](*5)          iva    —    like
+[TEXT—2.10](*1)          iva    —    like that
+[TEXT—7.7,6.38](*2)          iva    —    likened
+[TEXT—7.4](*1)          iyam    —    all these
+[TEXT—7.5](*1)          iyam    —    this
+[TEXT—14.22-25](*1)          iṅgate    —    flickering
+[TEXT—6.19](*1)          iṅgate    —    waver
+[TEXT—13.8-12](*1)          iṇdriya-artheṣu    —    in the matter of the senses
+[TEXT—2.4](*1)          iṣubhiḥ    —    with arrows
+[TEXT—3.10](*1)          iṣṭa    —    all desirable
+[TEXT—13.8-12](*1)          iṣṭa    —    desirable
+[TEXT—18.12](*1)          iṣṭam    —    leading to heaven
+[TEXT—18.70](*1)          iṣṭaḥ    —    worshiped
+[TEXT—9.20](*1)          iṣṭvā    —    after worshiping
+[TEXT—3.12](*1)          iṣṭān    —    desired
+[TEXT—17.8-10](*1)          iṣṭāḥ    —    palatable
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [i]:94

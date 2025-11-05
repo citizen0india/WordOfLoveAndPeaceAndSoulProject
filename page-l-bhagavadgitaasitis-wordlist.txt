@@ -1,0 +1,75 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [l]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—16.13-15](*1)          labdham    —    gained
+[TEXT—6.20-23](*1)          labdhvā    —    by attainment
+[TEXT—4.39](*1)          labdhvā    —    having achieved
+[TEXT—18.73](*1)          labdhā    —    regained
+[TEXT—5.25](*1)          labhante    —    achieve
+[TEXT—9.21](*1)          labhante    —    attain
+[TEXT—2.32](*1)          labhante    —    do achieve
+[TEXT—11.33](*1)          labhasva    —    gain
+[TEXT—18.45,4.39](*2)          labhate    —    achieves
+[TEXT—18.54](*1)          labhate    —    gains
+[TEXT—7.22](*1)          labhate    —    obtains
+[TEXT—6.43](*1)          labhate    —    regains
+[TEXT—18.8](*1)          labhet    —    gain
+[TEXT—8.22](*1)          labhyaḥ    —    can be achieved
+[TEXT—18.51-53](*1)          laghu-āśī    —    eating a small quantity
+[TEXT—17.8-10](*1)          lavaṇa    —    salty
+[TEXT—11.30](*1)          lelihyase    —    licking
+[TEXT—4.14](*1)          limpanti    —    do affect
+[TEXT—5.10](*1)          lipyate    —    is affected
+[TEXT—18.17](*1)          lipyate    —    is attached
+[TEXT—5.7](*1)          lipyate    —    is entangled
+[TEXT—14.21](*1)          liṅgaiḥ    —    symptoms
+[TEXT—1.37-38](*1)          lobha    —    greed
+[TEXT—16.21,14.17,14.12](*3)          lobhaḥ    —    greed
+[TEXT—15.17](*1)          loka    —    of the universe
+[TEXT—11.20](*1)          loka    —    planetary system
+[TEXT—10.3](*1)          loka    —    the planets
+[TEXT—11.32](*1)          loka    —    the worlds
+[TEXT—3.20](*1)          loka- saṅgraham    —    educating the people in general
+[TEXT—3.25](*1)          loka-saṅgraham    —    leading the people in general
+[TEXT—11.43](*1)          loka-traye    —    in three planetary systems
+[TEXT—9.33](*1)          lokam    —    planets
+[TEXT—13.34](*1)          lokam    —    universe
+[TEXT—9.20](*1)          lokam    —    world
+[TEXT—11.43](*1)          lokasya    —    of all the world
+[TEXT—5.14](*1)          lokasya    —    of the people
+[TEXT—3.21](*1)          lokaḥ    —    all the world
+[TEXT—12.15](*1)          lokaḥ    —    persons
+[TEXT—4.31](*1)          lokaḥ    —    planet
+[TEXT—7.25](*1)          lokaḥ    —    such less intelligent persons
+[TEXT—3.9](*1)          lokaḥ    —    this world
+[TEXT—4.40](*1)          lokaḥ    —    world
+[TEXT—15.18,15.16,13.14,3.3](*4)          loke    —    in the world
+[TEXT—16.6,6.42,2.5](*3)          loke    —    in this world
+[TEXT—10.6](*1)          loke    —    the planets
+[TEXT—4.12](*1)          loke    —    within this world
+[TEXT—3.22](*1)          lokeṣu    —    planetary systems
+[TEXT—11.32](*1)          lokān    —    all people
+[TEXT—10.16](*1)          lokān    —    all the planets
+[TEXT—11.30](*1)          lokān    —    people
+[TEXT—18.71,6.41](*2)          lokān    —    planets
+[TEXT—14.14](*1)          lokān    —    the planets
+[TEXT—18.17](*1)          lokān    —    world
+[TEXT—12.15](*1)          lokāt    —    persons
+[TEXT—11.29](*1)          lokāḥ    —    all people
+[TEXT—11.23](*1)          lokāḥ    —    all the planets
+[TEXT—8.16](*1)          lokāḥ    —    planets
+[TEXT—3.24](*1)          lokāḥ    —    worlds
+[TEXT—14.22-25](*1)          loṣṭa    —    a lump of earth
+[TEXT—6.8](*1)          loṣṭra    —    pebbles
+[TEXT—18.27](*1)          lubdhaḥ    —    greedy
+[TEXT—1.41](*1)          lupta    —    stopped
+[TEXT—4.22](*1)          lābha    —    gain
+[TEXT—6.20-23](*1)          lābham    —    gain
+[TEXT—2.38](*1)          lābhālābhau    —    both in loss and profit
+[TEXT—2.35](*1)          lāghavam    —    decreased in value
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [l]:66

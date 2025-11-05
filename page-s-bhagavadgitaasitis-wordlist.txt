@@ -1,0 +1,663 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [s]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.32](*1)          sa    —    that
+[TEXT—11.7,9.10,7.2](*3)          sa    —    with
+[TEXT—7.30](*1)          sa-adhibhūta    —    the governing principle of the material manifestation
+[TEXT—7.30](*1)          sa-adhiyajñam    —    sustaining all sacrifices
+[TEXT—11.51](*1)          sa-cetāḥ    —    in my consciousness
+[TEXT—18.48](*1)          sa-doṣam    —    with fault
+[TEXT—11.35](*1)          sa-gadgadam    —    faltering
+[TEXT—13.6-7](*1)          sa-vikāram    —    interaction
+[TEXT—1.46](*1)          sa-śaram    —    along with arrows
+[TEXT—18.56,10.17,8.6,6.28,5.27-28](*5)          sadā    —    always
+[TEXT—6.15](*1)          sadā    —    constantly
+[TEXT—3.33](*1)          sadṛśam    —    accordingly
+[TEXT—4.38](*1)          sadṛśam    —    in comparison
+[TEXT—16.13-15](*1)          sadṛśaḥ    —    like
+[TEXT—11.12](*1)          sadṛśī    —    like that
+[TEXT—3.10](*1)          saha    —    along with
+[TEXT—13.24,11.26-27,1.21-22](*3)          saha    —    with
+[TEXT—11.26-27](*1)          saha eva    —    along with
+[TEXT—18.48](*1)          saha-jam    —    born simultaneously
+[TEXT—1.16-18](*1)          sahadevaḥ    —    Sahadeva
+[TEXT—8.17](*1)          sahasra    —    thousand
+[TEXT—8.17](*1)          sahasra-antām    —    similarly, at the end of one thousand
+[TEXT—11.46](*1)          sahasra-bāho    —    O thousand-handed one
+[TEXT—11.39](*1)          sahasra-kṛtvaḥ    —    a thousand times
+[TEXT—11.12](*1)          sahasrasya    —    of many thousands
+[TEXT—11.5](*1)          sahasraśaḥ    —    thousands
+[TEXT—7.3](*1)          sahasreṣu    —    out of many thousands
+[TEXT—1.13](*1)          sahasā    —    all of a sudden
+[TEXT—9.1](*1)          sahitam    —    with
+[TEXT—1.7](*1)          sainyasya    —    of the soldiers
+[TEXT—3.29](*1)          sajjante    —    become engaged
+[TEXT—3.28](*1)          sajjate    —    becomes attached
+[TEXT—11.44](*1)          sakhyuḥ    —    of a friend
+[TEXT—11.41-42,4.3](*2)          sakhā    —    friend
+[TEXT—11.44](*1)          sakhā iva    —    like a friend
+[TEXT—1.26](*1)          sakhīn    —    friends
+[TEXT—18.22](*1)          saktam    —    attached
+[TEXT—5.12](*1)          saktaḥ    —    attached
+[TEXT—3.25](*1)          saktāḥ    —    being attached
+[TEXT—14.22-25,12.13-14,7.26](*3)          sama    —    equally
+[TEXT—6.8](*1)          sama    —    equiposed
+[TEXT—2.15](*1)          sama    —    unaltered
+[TEXT—12.3-4](*1)          sama- buddayaḥ    —    equally disposed
+[TEXT—13.8-12](*1)          sama-cittatvam    —    equilibrium
+[TEXT—6.29](*1)          sama-darśanaḥ    —    seeing equally
+[TEXT—5.18](*1)          sama-darśinaḥ    —    do see with equal vision
+[TEXT—3.4](*1)          samadhigacchati    —    attain
+[TEXT—11.30](*1)          samagram    —    all
+[TEXT—7.1](*1)          samagram    —    completely
+[TEXT—4.23](*1)          samagram    —    in total
+[TEXT—11.30](*1)          samagrān    —    completely
+[TEXT—6.32](*1)          samam    —    equality
+[TEXT—13.29,13.28](*2)          samam    —    equally
+[TEXT—5.19](*1)          samam    —    in equanimity
+[TEXT—6.13-14](*1)          samam    —    straight
+[TEXT—6.24](*1)          samantataḥ    —    from all sides
+[TEXT—11.30](*1)          samantāt    —    from all directions
+[TEXT—11.17](*1)          samantāt    —    spreading
+[TEXT—18.26](*1)          samanvitaḥ    —    qualified in that way
+[TEXT—2.48](*1)          samatvam    —    evenness of mind
+[TEXT—10.4-5](*1)          samatā    —    equilibrium
+[TEXT—14.26](*1)          samatītya    —    transcending
+[TEXT—5.27-28](*1)          samau    —    in suspension
+[TEXT—13.29](*1)          samavasthitam    —    equally situated
+[TEXT—1.25](*1)          samavetān    —    assembled
+[TEXT—1.1](*1)          samavetāḥ    —    assembled
+[TEXT—12.18-19](*1)          samaḥ    —    equal
+[TEXT—18.54,9.29](*2)          samaḥ    —    equally disposed
+[TEXT—12.18-19](*1)          samaḥ    —    equiposed
+[TEXT—4.22](*1)          samaḥ    —    steady
+[TEXT—2.48](*1)          samaḥ    —    the same
+[TEXT—1.32-35](*1)          sambandhinaḥ    —    relatives
+[TEXT—10.41](*1)          sambhavam    —    born of
+[TEXT—14.4](*1)          sambhavanti    —    as they appear
+[TEXT—3.14](*1)          sambhavaḥ    —    are made possible
+[TEXT—14.3](*1)          sambhavaḥ    —    possibility
+[TEXT—4.8](*1)          sambhavāmi    —    I do appear
+[TEXT—4.6](*1)          sambhavāmi    —    I do incarnate
+[TEXT—13.20](*1)          sambhavān    —    produced of
+[TEXT—14.5](*1)          sambhavāḥ    —    produced of
+[TEXT—2.34](*1)          sambhāvitasya    —    for a respectable man
+[TEXT—16.8](*1)          sambhūtam    —    caused
+[TEXT—2.38](*1)          same    —    in equanimity
+[TEXT—4.37](*1)          samiddhaḥ    —    blazing
+[TEXT—1.8](*1)          samitiñjayaḥ    —    always victorious in battle
+[TEXT—7.27](*1)          sammoham    —    into delusion
+[TEXT—16.5,16.4](*2)          sampadam    —    nature
+[TEXT—16.1-3](*1)          sampadam    —    qualities
+[TEXT—13.31](*1)          sampadyate    —    attains
+[TEXT—5.18](*1)          sampanne    —    fully equipped
+[TEXT—16.5](*1)          sampat    —    nature
+[TEXT—3.20](*1)          sampaśyan    —    by considering
+[TEXT—2.46](*1)          sampluta-udake    —    in a great reservoir of water
+[TEXT—18.4](*1)          samprakīrtitaḥ    —    is declared
+[TEXT—15.3-4](*1)          sampratiṣṭhā    —    the foundation
+[TEXT—14.22-25](*1)          sampravṛttāni    —    although developed
+[TEXT—6.13-14](*1)          samprekṣya    —    looking
+[TEXT—14.7](*1)          samudbhavam    —    produced of
+[TEXT—3.37,3.14](*2)          samudbhavaḥ    —    born of
+[TEXT—14.20](*1)          samudbhavān    —    produced of
+[TEXT—12.6-7](*1)          samuddhartā    —    deliverer
+[TEXT—11.28](*1)          samudram    —    ocean
+[TEXT—2.70](*1)          samudram    —    the ocean
+[TEXT—1.21-22](*1)          samudyame    —    in the attempt
+[TEXT—1.28](*1)          samupasthitam    —    all present
+[TEXT—2.2](*1)          samupasthitam    —    arrived
+[TEXT—18.51-53](*1)          samupāśritaḥ    —    taken shelter of
+[TEXT—7.27](*1)          samutthena    —    born
+[TEXT—5.4](*1)          samyak    —    complete
+[TEXT—9.30,8.10](*2)          samyak    —    completely
+[TEXT—3.9](*1)          samācara    —    do it perfectly
+[TEXT—3.19](*1)          samācara    —    perform
+[TEXT—3.26](*1)          samācaran    —    practicing
+[TEXT—2.44](*1)          samādhau    —    in the controlled mind
+[TEXT—2.53](*1)          samādhau    —    in transcendental consciousness, or Kṛṣṇa consciousness
+[TEXT—2.54](*1)          samādhi-sthasya    —    of one situated in trance
+[TEXT—4.24](*1)          samādhinā    —    by complete absorption
+[TEXT—12.9](*1)          samādhātam    —    fixing
+[TEXT—17.11](*1)          samādhāya    —    fixed in
+[TEXT—1.23](*1)          samāgatāḥ    —    assembled
+[TEXT—11.32](*1)          samāhartum    —    to destroy
+[TEXT—6.7](*1)          samāhitaḥ    —    approached completely
+[TEXT—11.40](*1)          samāpnoṣi    —    cover
+[TEXT—4.19](*1)          samārambhāḥ    —    in all attempts
+[TEXT—13.19](*1)          samāsataḥ    —    in summary
+[TEXT—13.4](*1)          samāsena    —    in detail
+[TEXT—13.6-7](*1)          samāsena    —    in summary
+[TEXT—18.50](*1)          samāsena    —    summarily
+[TEXT—18.10](*1)          samāviṣṭaḥ    —    absorbed in
+[TEXT—7.25](*1)          samāvṛtaḥ    —    covered
+[TEXT—16.16](*1)          samāvṛtāḥ    —    surrounded
+[TEXT—15.14](*1)          samāyuktaḥ    —    keep balance
+[TEXT—1.4](*1)          samāḥ    —    equal
+[TEXT—6.41](*1)          samāḥ    —    years
+[TEXT—1.27](*1)          samīkṣya    —    after seeing
+[TEXT—11.29](*1)          samṛddha    —    full
+[TEXT—11.29](*1)          samṛddha-vegāḥ    —    with full speed
+[TEXT—11.33](*1)          samṛddham    —    flourishing
+[TEXT—4.6](*1)          san    —    being so
+[TEXT—18.73](*1)          sandehaḥ    —    all doubts
+[TEXT—11.26-27](*1)          sandṛśyante    —    being seen
+[TEXT—11.25](*1)          sannibhāni    —    as if blazing
+[TEXT—15.15](*1)          sanniviṣṭaḥ    —    being situated
+[TEXT—12.3-4](*1)          sanniyamya    —    controlling
+[TEXT—3.4](*1)          sannyasanāt    —    by renunciation
+[TEXT—4.41](*1)          sannyasta    —    renounced
+[TEXT—18.57,12.6-7,5.13](*3)          sannyasya    —    giving up
+[TEXT—3.30](*1)          sannyasya    —    giving up completely
+[TEXT—9.28](*1)          sannyāsa    —    of renunciation
+[TEXT—18.2](*1)          sannyāsam    —    renounced order of life
+[TEXT—6.2,5.1](*2)          sannyāsam    —    renunciation
+[TEXT—18.1](*1)          sannyāsasya    —    renunciation
+[TEXT—18.7](*1)          sannyāsaḥ    —    renunciation
+[TEXT—5.2](*1)          sannyāsaḥ    —    renunciation of work
+[TEXT—5.6](*1)          sannyāsaḥ    —    the renounced order of life
+[TEXT—18.49](*1)          sannyāsena    —    by the renounced order of life
+[TEXT—18.12](*1)          sannyāsinām    —    of the renounced order
+[TEXT—6.1](*1)          sannyāsī    —    in the renounced order
+[TEXT—6.4,5.3](*2)          sannyāsī    —    renouncer
+[TEXT—4.36](*1)          santariṣyasi    —    you will cross completely
+[TEXT—3.13](*1)          santaḥ    —    the devotees
+[TEXT—3.17](*1)          santuṣṭaḥ    —    perfectly satiated
+[TEXT—12.18-19,12.13-14,4.22](*3)          santuṣṭaḥ    —    satisfied
+[TEXT—4.30](*1)          sanātanam    —    eternal atmosphere
+[TEXT—7.10](*1)          sanātanam    —    original, eternal
+[TEXT—15.7,11.18,8.20](*3)          sanātanaḥ    —    eternal
+[TEXT—2.24](*1)          sanātanaḥ    —    eternally the same
+[TEXT—1.39](*1)          sanātanāḥ    —    eternal
+[TEXT—11.34](*1)          sapatnān    —    enemies
+[TEXT—10.6](*1)          sapta    —    seven
+[TEXT—10.24](*1)          sarasām    —    of all reservoirs of water
+[TEXT—5.19](*1)          sargaḥ    —    birth and death
+[TEXT—7.27](*1)          sarge    —    in creation
+[TEXT—14.2](*1)          sarge api    —    even in the creation
+[TEXT—10.32](*1)          sargāṇām    —    of all creations
+[TEXT—10.28](*1)          sarpāṇām    —    of all snakes
+[TEXT—18.66,18.58,18.56,18.13-14,18.2,14.22-25,13.15,13.3,11.26-27,11.10-11,7.27,7.9,6.29,5.29,5.13,4.21,3.26,2.69,2.65](*19)          sarva    —    all
+[TEXT—6.18,3.13](*2)          sarva    —    all kinds of
+[TEXT—7.8](*1)          sarva    —    in all
+[TEXT—9.24](*1)          sarva    —    of all
+[TEXT—18.62](*1)          sarva- bhāvena    —    in all respects
+[TEXT—3.32](*1)          sarva- jñāna    —    all sorts of knowledge
+[TEXT—18.32](*1)          sarva-arthān    —    all things
+[TEXT—15.19](*1)          sarva-bhāvena    —    in all respects
+[TEXT—10.20](*1)          sarva-bhūta    —    all living entities
+[TEXT—5.25](*1)          sarva-bhūta    —    in all living entities
+[TEXT—12.3-4](*1)          sarva-bhūta-hite    —    all living entities' welfare
+[TEXT—6.29](*1)          sarva-bhūta-stham    —    situated in all beings
+[TEXT—6.31](*1)          sarva-bhūta-sthitam    —    situated in everyone's heart
+[TEXT—3.18](*1)          sarva-bhūteṣu    —    in all living beings
+[TEXT—18.20](*1)          sarva-bhūteṣu    —    in all living entities
+[TEXT—9.29](*1)          sarva-bhūteṣu    —    to all living entities
+[TEXT—11.55](*1)          sarva-bhūteṣu    —    to every living entity
+[TEXT—9.7](*1)          sarva-bhūtāni    —    all created entities
+[TEXT—18.61,9.4](*2)          sarva-bhūtāni    —    all living entities
+[TEXT—12.13-14](*1)          sarva-bhūtānām    —    for all living entities
+[TEXT—10.39](*1)          sarva-bhūtānām    —    of all creations
+[TEXT—18.61,14.3,7.10](*3)          sarva-bhūtānām    —    of all living entities
+[TEXT—13.15](*1)          sarva-bhṛt    —    maintainer of everyone
+[TEXT—14.8](*1)          sarva-dehinām    —    of all embodied beings
+[TEXT—18.66](*1)          sarva-dharmān    —    all varieties of religion
+[TEXT—14.11](*1)          sarva-dvāreṣu    —    all the gates
+[TEXT—8.12](*1)          sarva-dvārāṇi    —    all the doors of the body
+[TEXT—13.33,3.15](*2)          sarva-gatam    —    all-pervading
+[TEXT—2.24](*1)          sarva-gataḥ    —    all-pervading
+[TEXT—18.64](*1)          sarva-guhyatamam    —    the most confidential
+[TEXT—10.34](*1)          sarva-haraḥ    —    all-devouring
+[TEXT—12.11](*1)          sarva-karma    —    all activities
+[TEXT—18.57](*1)          sarva-karmāni    —    all kinds of activities
+[TEXT—4.37](*1)          sarva-karmāṇi    —    all reactions to material activities
+[TEXT—5.29](*1)          sarva-loka    —    all planets and the demigods thereof
+[TEXT—10.3](*1)          sarva-pāpaiḥ    —    from all sinful reactions
+[TEXT—6.4](*1)          sarva-saṅkalpa    —    all material desires
+[TEXT—15.19](*1)          sarva-vit    —    knower of everything
+[TEXT—10.26](*1)          sarva-vṛkṣāṇām    —    of all trees
+[TEXT—14.4](*1)          sarva-yoniṣu    —    in all species of life
+[TEXT—12.16](*1)          sarva-ārambha    —    all endeavors
+[TEXT—18.48](*1)          sarva-ārambhāḥ    —    any venture
+[TEXT—5.7](*1)          sarvabhuta-ātmabhūta-ātmā    —    compassionate to all living entities
+[TEXT—15.15](*1)          sarvaiḥ    —    all
+[TEXT—18.46,10.14,9.4,8.22,7.19,4.33](*6)          sarvam    —    all
+[TEXT—2.17](*1)          sarvam    —    all of the body
+[TEXT—4.36](*1)          sarvam    —    all such sinful actions
+[TEXT—7.7](*1)          sarvam    —    all that be
+[TEXT—11.40,10.8,6.30](*3)          sarvam    —    everything
+[TEXT—13.14](*1)          sarvam    —    everywhere, āvṛtya —covering
+[TEXT—7.13](*1)          sarvam    —    the whole world
+[TEXT—8.28](*1)          sarvam idam    —    all those described above
+[TEXT—10.8](*1)          sarvasya    —    of all
+[TEXT—15.15](*1)          sarvasya    —    of all living beings
+[TEXT—17.7,17.3,13.18,2.30](*4)          sarvasya    —    of everyone
+[TEXT—8.9](*1)          sarvasya    —    of everything
+[TEXT—7.25](*1)          sarvasya    —    to everyone
+[TEXT—11.17](*1)          sarvataḥ    —    all sides
+[TEXT—13.14](*1)          sarvataḥ    —    everywhere
+[TEXT—11.40,11.16](*2)          sarvataḥ    —    from all sides
+[TEXT—2.46](*1)          sarvataḥ    —    in all respects
+[TEXT—13.24](*1)          sarvathā    —    by all means
+[TEXT—6.31](*1)          sarvathā    —    in all respects
+[TEXT—18.49,13.33,13.29,12.3-4,6.32,6.30,6.29,2.57](*8)          sarvatra    —    everywhere
+[TEXT—12.3-4](*1)          sarvatra-gam    —    all-pervading
+[TEXT—9.6](*1)          sarvatra-gaḥ    —    blowing everywhere
+[TEXT—1.16-18](*1)          sarvaśaḥ    —    all
+[TEXT—2.68](*1)          sarvaśaḥ    —    all around
+[TEXT—3.27](*1)          sarvaśaḥ    —    all kinds of
+[TEXT—2.58](*1)          sarvaśaḥ    —    altogether
+[TEXT—13.30,10.2,4.11,3.23](*4)          sarvaśaḥ    —    in all respects
+[TEXT—11.40,3.5](*2)          sarvaḥ    —    everything
+[TEXT—14.1,13.15,11.36,11.32,11.22,10.12-13,7.18,4.30,2.70,1.6](*10)          sarve    —    all
+[TEXT—1.9](*1)          sarve    —    all of them
+[TEXT—2.12](*1)          sarve    —    all of us
+[TEXT—4.19](*1)          sarve    —    all sorts of
+[TEXT—1.11](*1)          sarve    —    respectively
+[TEXT—4.36](*1)          sarvebhyaḥ    —    of all
+[TEXT—18.54,8.20](*2)          sarveṣu    —    all
+[TEXT—8.7](*1)          sarveṣu    —    always
+[TEXT—1.11](*1)          sarveṣu    —    everywhere
+[TEXT—18.21,13.28,2.46](*3)          sarveṣu    —    in all
+[TEXT—8.27](*1)          sarveṣukāleṣu    —    always
+[TEXT—1.25](*1)          sarveṣām    —    all
+[TEXT—6.47](*1)          sarveṣām    —    all types of
+[TEXT—11.15,6.24,4.32,2.71](*4)          sarvān    —    all
+[TEXT—1.27](*1)          sarvān    —    all kinds of
+[TEXT—2.55](*1)          sarvān    —    of all varieties
+[TEXT—15.13,11.20,8.18](*3)          sarvāḥ    —    all
+[TEXT—15.16,7.6,4.27,4.5,2.61,2.30](*6)          sarvāṇi    —    all
+[TEXT—3.30](*1)          sarvāṇi    —    all sorts of
+[TEXT—12.6-7](*1)          sarvāṇi    —    everything
+[TEXT—9.6](*1)          sarvāṇi    —    everything, bhūtāni—created beings
+[TEXT—17.26-27](*1)          sat    —    Supreme
+[TEXT—9.19](*1)          sat    —    being
+[TEXT—13.13](*1)          sat    —    cause
+[TEXT—17.23](*1)          sat    —    eternal
+[TEXT—17.26-27](*1)          sat    —    the Supreme
+[TEXT—11.37](*1)          sat-asat    —    cause and effect
+[TEXT—13.22](*1)          sat-asat    —    good and bad
+[TEXT—17.26-27](*1)          sat-bhāve    —    in the sense of the nature of the Supreme
+[TEXT—17.26-27](*1)          sat-śabdaḥ    —    sound
+[TEXT—12.1](*1)          satata    —    always
+[TEXT—10.10](*1)          satata-yuktānām    —    always engaged
+[TEXT—17.24,9.14,8.14](*3)          satatam    —    always
+[TEXT—6.10,3.19](*2)          satatam    —    constantly
+[TEXT—12.13-14](*1)          satatam    —    satisfied
+[TEXT—18.57](*1)          satatam    —    twenty-four hours a day
+[TEXT—2.16](*1)          sataḥ    —    of the eternal
+[TEXT—18.16](*1)          sati    —    being thus
+[TEXT—17.18](*1)          satkāra    —    respect
+[TEXT—17.8-10](*1)          sattva    —    existence
+[TEXT—18.10](*1)          sattva    —    goodness
+[TEXT—17.3](*1)          sattva-anurūpā    —    according to the existence
+[TEXT—16.1-3](*1)          sattva-saṁśuddhiḥ    —    purification of one's existence
+[TEXT—14.18](*1)          sattva-sthāḥ    —    one who is situated in the mode of goodness
+[TEXT—18.40,13.27,10.41](*3)          sattvam    —    existence
+[TEXT—17.1](*1)          sattvam    —    in goodness
+[TEXT—14.11,14.10,14.9,14.6,14.5](*5)          sattvam    —    mode of goodness
+[TEXT—10.36](*1)          sattvam    —    strength
+[TEXT—10.36](*1)          sattvavatām    —    of all the strong
+[TEXT—14.14](*1)          sattve    —    mode of goodness
+[TEXT—14.17](*1)          sattvāt    —    from the mode of goodness
+[TEXT—18.65](*1)          satyam    —    truly
+[TEXT—16.7](*1)          satyam    —    truth
+[TEXT—17.15](*1)          satyam    —    truthful
+[TEXT—16.1-3,10.4-5](*2)          satyam    —    truthfulness
+[TEXT—1.6](*1)          saubhadraḥ    —    the son of Subhadrā
+[TEXT—1.16-18](*1)          saubhadraḥ    —    the son of Subhadrā (Abhimanyu)
+[TEXT—13.33](*1)          saukṣmyāt    —    due to being subtle
+[TEXT—1.8](*1)          saumadattiḥ    —    the son of Somadatta
+[TEXT—11.50](*1)          saumya-vapuḥ    —    beautiful form
+[TEXT—11.51](*1)          saumyam    —    very beautiful
+[TEXT—17.16](*1)          saumyatvam    —    without duplicity towards others
+[TEXT—11.33](*1)          savyasācin    —    O Savyasācin
+[TEXT—16.11-12](*1)          sañcayān    —    accumulate
+[TEXT—4.41](*1)          sañchinna    —    cut by the advancement of knowledge
+[TEXT—1.12](*1)          sañjanayan    —    increasing
+[TEXT—1.1](*1)          sañjaya    —    O Sañjaya
+[TEXT—14.9](*1)          sañjayati    —    develops
+[TEXT—1.46,1.24](*2)          sañjayaḥ    —    Sañjaya
+[TEXT—11.9](*1)          sañjayaḥ uvāca    —    Sanjaya said
+[TEXT—18.74,11.50,11.35,2.9,2.1](*5)          sañjayaḥ uvāca    —    Sañjaya said
+[TEXT—14.17,2.62](*2)          sañjāyate    —    develops
+[TEXT—8.22](*1)          saḥ    —    He
+[TEXT—2.71](*1)          saḥ    —    all
+[TEXT—12.15](*1)          saḥ    —    anyone
+[TEXT—18.17,18.16,18.11,17.11,17.3,16.23,15.19,14.26,14.22-25,14.19,13.30,13.28,13.24,13.4,12.16,11.55,11.14,10.7,10.3,9.30,8.13,8.10,8.5,7.22,7.18,7.17,6.47,6.44,6.31,6.30,6.1,5.24,5.23,5.10,5.5,5.3,4.20,4.18,4.14,4.9,3.42,3.21,3.7,3.6,2.21,2.15,1.27](*47)          saḥ    —    he
+[TEXT—12.17,5.27-28](*2)          saḥ    —    he is
+[TEXT—3.12](*1)          saḥ    —    is he
+[TEXT—3.16](*1)          saḥ    —    one who does so
+[TEXT—7.19,6.32](*2)          saḥ    —    such
+[TEXT—18.9,18.8,17.3,5.21,1.19,1.13](*6)          saḥ    —    that
+[TEXT—4.2](*1)          saḥ    —    that knowledge
+[TEXT—2.70](*1)          saḥ    —    that person
+[TEXT—6.24](*1)          saḥ    —    that yoga system
+[TEXT—4.3](*1)          saḥ    —    the same ancient
+[TEXT—8.19](*1)          saḥ    —    they
+[TEXT—8.20](*1)          saḥ    —    which
+[TEXT—18.71](*1)          saḥ api    —    he also
+[TEXT—12.13-14](*1)          saḥ me priyaḥ    —    he is dear to Me
+[TEXT—2.58](*1)          saṁharate    —    winds up
+[TEXT—15.5](*1)          saṁjñaiḥ    —    named
+[TEXT—8.18](*1)          saṁjñake    —    called
+[TEXT—11.1](*1)          saṁjñitam    —    in the matter of
+[TEXT—8.3](*1)          saṁjñitaḥ    —    is called
+[TEXT—1.7](*1)          saṁjñā-artham    —    for information
+[TEXT—13.27](*1)          saṁjāyate    —    takes place
+[TEXT—18.72](*1)          saṁmohaḥ    —    illusion
+[TEXT—2.63](*1)          saṁmohaḥ    —    perfect illusion
+[TEXT—2.63](*1)          saṁmohāt    —    from illusion
+[TEXT—2.7](*1)          saṁmūḍha    —    bewildered
+[TEXT—13.8-12](*1)          saṁsadi    —    mass
+[TEXT—6.43](*1)          saṁsiddhau    —    for perfection
+[TEXT—4.38](*1)          saṁsiddhaḥ    —    matured
+[TEXT—6.45](*1)          saṁsiddhaḥ    —    so achieved perfection
+[TEXT—18.45,8.15,3.20](*3)          saṁsiddhim    —    perfection
+[TEXT—18.77,18.76](*2)          saṁsmṛtya    —    remembering
+[TEXT—5.22](*1)          saṁsparśajāḥ    —    by contact with the material senses
+[TEXT—3.43](*1)          saṁstabhya    —    by steadying
+[TEXT—4.8](*1)          saṁsthāpana-arthāya    —    to reestablish
+[TEXT—12.6-7,9.3](*2)          saṁsāra    —    material existence
+[TEXT—16.19](*1)          saṁsāreṣu    —    into the ocean of material existence
+[TEXT—1.46](*1)          saṁvigna    —    distressed
+[TEXT—18.70](*1)          saṁvādam    —    conversation
+[TEXT—18.74](*1)          saṁvādam    —    discussing
+[TEXT—18.76](*1)          saṁvādam    —    message
+[TEXT—11.51](*1)          saṁvṛttaḥ    —    settled
+[TEXT—4.26](*1)          saṁyama    —    of restraint
+[TEXT—10.29](*1)          saṁyamatām    —    of all regulators
+[TEXT—6.13-14](*1)          saṁyamya    —    completely subdued
+[TEXT—8.12,3.6](*2)          saṁyamya    —    controlling
+[TEXT—2.61](*1)          saṁyamya    —    keeping under control
+[TEXT—2.69](*1)          saṁyamī    —    the self-controlled
+[TEXT—4.39](*1)          saṁyata    —    controlled
+[TEXT—5.14](*1)          saṁyogam    —    connection
+[TEXT—18.38](*1)          saṁyogāt    —    combination
+[TEXT—13.27](*1)          saṁyogāt    —    union between
+[TEXT—17.5-6](*1)          saṁyuktāḥ    —    engaged
+[TEXT—15.8](*1)          saṁyāti    —    goes away
+[TEXT—2.22](*1)          saṁyāti    —    verily accepts
+[TEXT—4.40](*1)          saṁśaya    —    doubtful
+[TEXT—4.40](*1)          saṁśaya    —    doubts
+[TEXT—6.39,4.42](*2)          saṁśayam    —    doubt
+[TEXT—4.41](*1)          saṁśayam    —    doubts
+[TEXT—18.10](*1)          saṁśayaḥ    —    all doubts
+[TEXT—12.8,10.7,8.5](*3)          saṁśayaḥ    —    doubt
+[TEXT—6.39](*1)          saṁśayāsya    —    of the doubt
+[TEXT—4.28](*1)          saṁśita    —    taken to strict
+[TEXT—16.18](*1)          saṁśritāḥ    —    having taken shelter of
+[TEXT—6.45](*1)          saṁśuddha    —    washed off
+[TEXT—17.16](*1)          saṁśuddhiḥ    —    purification
+[TEXT—15.5,14.7](*2)          saṅga    —    association
+[TEXT—11.55](*1)          saṅga- varjitaḥ    —    freed from the contamination of previous activities and mental speculation
+[TEXT—18.23](*1)          saṅga-rahitam    —    without attachment
+[TEXT—12.18-19](*1)          saṅga-vivarjitaḥ    —    free from all association
+[TEXT—18.9,18.6](*2)          saṅgam    —    association
+[TEXT—5.11,5.10,2.48](*3)          saṅgam    —    attachment
+[TEXT—2.62,2.47](*2)          saṅgaḥ    —    attachment
+[TEXT—14.6](*1)          saṅgena    —    association
+[TEXT—11.26-27](*1)          saṅghaiḥ    —    with the groups
+[TEXT—13.6-7](*1)          saṅghātaḥ    —    the aggregate
+[TEXT—11.22](*1)          saṅghāḥ    —    assemblies
+[TEXT—18.18](*1)          saṅgrahaḥ    —    accumulation
+[TEXT—8.11](*1)          saṅgraheṇa    —    in summary
+[TEXT—2.33](*1)          saṅgrāmam    —    fighting
+[TEXT—2.62](*1)          saṅgāt    —    attachment
+[TEXT—4.19](*1)          saṅkalpa    —    determination
+[TEXT—6.24](*1)          saṅkalpa    —    material desires
+[TEXT—6.2](*1)          saṅkalpaḥ    —    self-satisfaction
+[TEXT—3.24](*1)          saṅkarasya    —    of unwanted population
+[TEXT—1.41](*1)          saṅkaraḥ    —    such unwanted children
+[TEXT—1.46](*1)          saṅkhye    —    in the battlefield
+[TEXT—2.4](*1)          saṅkhye    —    in the fight
+[TEXT—1.24](*1)          senayoḥ    —    of armies
+[TEXT—2.10,1.26,1.21-22](*3)          senayoḥ    —    of the armies
+[TEXT—10.24](*1)          senānīnām    —    of all commanders
+[TEXT—14.26](*1)          sevate    —    renders service
+[TEXT—4.34](*1)          sevayā    —    by the rendering of service
+[TEXT—13.8-12](*1)          sevitvam    —    aspiring
+[TEXT—11.21](*1)          siddha-saṅghāḥ    —    perfect sages
+[TEXT—11.36](*1)          siddha-saṅghāḥ    —    the perfect human beings
+[TEXT—16.13-15](*1)          siddhah    —    perfect
+[TEXT—4.22](*1)          siddhau    —    in success
+[TEXT—7.3](*1)          siddhaye    —    for perfection
+[TEXT—18.13-14](*1)          siddhaye    —    perfection
+[TEXT—18.26](*1)          siddhi    —    perfection
+[TEXT—2.48](*1)          siddhi-asiddhyoḥ    —    in success and failure
+[TEXT—18.50,18.46,18.45,16.23,14.1,12.10,4.12](*7)          siddhim    —    perfection
+[TEXT—3.4](*1)          siddhim    —    success
+[TEXT—4.12](*1)          siddhiḥ bhavati    —    becomes successful
+[TEXT—10.26](*1)          siddhānām    —    of all those who are perfected
+[TEXT—7.3](*1)          siddhānām    —    of those who have achieved perfection
+[TEXT—1.12](*1)          siṁha-nādam    —    roaring sound, like a lion
+[TEXT—10.24](*1)          skandaḥ    —    Kārtikeya
+[TEXT—2.3](*1)          sma    —    take it
+[TEXT—8.6,8.5](*2)          smaran    —    remembering
+[TEXT—3.6](*1)          smaran    —    thinking
+[TEXT—8.14](*1)          smarati    —    remembers
+[TEXT—17.20](*1)          smṛtam    —    consider
+[TEXT—18.38](*1)          smṛtam    —    is considered
+[TEXT—17.21](*1)          smṛtam    —    is understood to be
+[TEXT—17.23](*1)          smṛtaḥ    —    consider
+[TEXT—2.63](*1)          smṛti    —    of memory
+[TEXT—2.63](*1)          smṛti-bhraṁśāt    —    after bewilderment of memory
+[TEXT—18.73,10.34](*2)          smṛtiḥ    —    memory
+[TEXT—15.15](*1)          smṛtiḥ    —    remembrance
+[TEXT—6.19](*1)          smṛtā    —    likened
+[TEXT—17.8-10](*1)          snigdhāḥ    —    fatty
+[TEXT—9.20](*1)          soma-pāḥ    —    drinkers of soma juice
+[TEXT—15.13](*1)          somaḥ    —    the moon
+[TEXT—5.23](*1)          soḍhum    —    to tolerate
+[TEXT—11.44](*1)          soḍhum    —    tolerate
+[TEXT—15.9](*1)          sparśanam    —    touch
+[TEXT—5.27-28](*1)          sparśān    —    external sense objects, such as sound, etc
+[TEXT—2.14](*1)          sparśāḥ    —    perception
+[TEXT—4.14](*1)          spṛhā    —    aspiration
+[TEXT—14.12](*1)          spṛhā    —    desire
+[TEXT—5.8-9](*1)          spṛśan    —    by touching
+[TEXT—12.20](*1)          sraddadhānāḥ    —    with faith
+[TEXT—18.71](*1)          sraddhāvan    —    faithful
+[TEXT—1.29](*1)          sraṁsate    —    is slipping
+[TEXT—3.11](*1)          sreyaḥ    —    benediction
+[TEXT—18.47](*1)          sreyān    —    better
+[TEXT—10.31](*1)          srotasām    —    of flowing rivers
+[TEXT—18.28](*1)          stabdhaḥ    —    obstinate
+[TEXT—16.17](*1)          stabdhāḥ    —    impudent
+[TEXT—3.12](*1)          stenaḥ    —    thief
+[TEXT—13.8-12](*1)          sthairyam    —    steadfastness
+[TEXT—12.18-19](*1)          sthira    —    fixed
+[TEXT—5.20](*1)          sthira-buddhiḥ    —    self-intelligent
+[TEXT—6.11-12](*1)          sthiram    —    firm
+[TEXT—12.9](*1)          sthiram    —    fixed
+[TEXT—6.13-14](*1)          sthiraḥ    —    still
+[TEXT—6.33](*1)          sthirām    —    stable
+[TEXT—17.8-10](*1)          sthirāḥ    —    enduring
+[TEXT—2.54](*1)          sthita-dhīḥ    —    one fixed in Kṛṣṇa consciousness
+[TEXT—2.56](*1)          sthita-dhīḥ    —    one who is steady
+[TEXT—2.54](*1)          sthita-prajñasya    —    of one who is situated in fixed Kṛṣṇa consciousness
+[TEXT—2.55](*1)          sthita-prajñaḥ    —    transcendentally situated
+[TEXT—13.17](*1)          sthitam    —    situated
+[TEXT—15.10](*1)          sthitam    —    situated in the body
+[TEXT—5.19](*1)          sthitam    —    so situated
+[TEXT—1.14](*1)          sthitau    —    so situated
+[TEXT—6.20-23](*1)          sthitaḥ    —    being situated
+[TEXT—6.10](*1)          sthitaḥ    —    being so situated
+[TEXT—18.73,6.20-23,6.13-14,5.20](*4)          sthitaḥ    —    situated
+[TEXT—10.42](*1)          sthithaḥ    —    situated
+[TEXT—6.33](*1)          sthitim    —    situation
+[TEXT—17.26-27](*1)          sthitiḥ    —    situated
+[TEXT—2.72](*1)          sthitiḥ    —    situation
+[TEXT—2.72](*1)          sthitvā    —    being so situated
+[TEXT—1.26](*1)          sthitān    —    standing
+[TEXT—5.19](*1)          sthitāḥ    —    are situated
+[TEXT—18.62,8.28](*2)          sthānam    —    abode
+[TEXT—9.18](*1)          sthānam    —    ground
+[TEXT—5.5](*1)          sthānam    —    place
+[TEXT—11.36](*1)          sthāne    —    rightly
+[TEXT—15.7](*1)          sthāni    —    situated
+[TEXT—1.21-22](*1)          sthāpaya    —    please keep
+[TEXT—1.24](*1)          sthāpayitvā    —    by placing
+[TEXT—2.53](*1)          sthāsyati    —    remains
+[TEXT—13.27](*1)          sthāvara    —    not moving
+[TEXT—10.25](*1)          sthāvarāṇām    —    of immovable things
+[TEXT—2.24](*1)          sthāṇuḥ    —    unchangeable
+[TEXT—9.32](*1)          striyaḥ    —    women
+[TEXT—1.40](*1)          strīṣu    —    of the womanhood
+[TEXT—11.21](*1)          stutibhiḥ    —    with prayers
+[TEXT—12.18-19](*1)          stutiḥ    —    repute
+[TEXT—11.21](*1)          stuvanti    —    singing hymns
+[TEXT—11.52](*1)          sudur- darśana    —    very difficult to be seen
+[TEXT—7.19](*1)          sudurlabhaḥ    —    very rare
+[TEXT—9.30](*1)          sudurācāraḥ    —    one committing the most abominable actions
+[TEXT—6.34](*1)          suduṣkaram    —    difficult
+[TEXT—1.16-18](*1)          sughoṣa-maṇipuṣpakau    —    the conches named Sughoṣa and Maṇipuṣpaka
+[TEXT—5.29](*1)          suhṛdam    —    benefactor
+[TEXT—1.26](*1)          suhṛdaḥ    —    wellwishers
+[TEXT—9.18](*1)          suhṛt    —    most intimate friend
+[TEXT—17.8-10,14.6,13.21,12.18-19,2.38,2.14](*6)          sukha    —    happiness
+[TEXT—6.7](*1)          sukha    —    in happiness
+[TEXT—15.5](*1)          sukha-duḥkha    —    happiness and distress
+[TEXT—1.44](*1)          sukha-lobhena    —    driven by greed for royal happiness
+[TEXT—5.3](*1)          sukham    —    happily
+[TEXT—18.39,18.38,18.36-37,16.23,13.6-7,10.4-5,6.32,6.28,6.27,6.20-23,5.21,4.40,2.66,2.15](*14)          sukham    —    happiness
+[TEXT—5.13](*1)          sukham    —    in happiness
+[TEXT—14.27](*1)          sukhasya    —    happiness
+[TEXT—12.13-14](*1)          sukhaḥ    —    happiness
+[TEXT—14.22-25](*1)          sukhaḥ    —    in happiness
+[TEXT—14.9](*1)          sukhe    —    in happiness
+[TEXT—6.28](*1)          sukhena    —    in transcendental happiness
+[TEXT—2.56](*1)          sukheṣu    —    in happiness
+[TEXT—1.36](*1)          sukhinaḥ    —    happy
+[TEXT—2.32](*1)          sukhinaḥ    —    very happy
+[TEXT—1.32-35](*1)          sukhāni    —    all happiness
+[TEXT—1.31](*1)          sukhāni    —    happiness thereof
+[TEXT—16.13-15,5.23](*2)          sukhī    —    happy
+[TEXT—2.50](*1)          sukṛta-duṣkṛte    —    in good and bad results
+[TEXT—5.15](*1)          sukṛtam    —    pious activities
+[TEXT—14.16](*1)          sukṛtasya    —    in the mode of goodness
+[TEXT—7.16](*1)          sukṛtinaḥ    —    those who are pious
+[TEXT—8.14](*1)          sulabhaḥ    —    very easy to achieve
+[TEXT—5.1](*1)          suniścitam    —    definitely
+[TEXT—10.2](*1)          sura-gaṇāḥ    —    demigods
+[TEXT—11.21](*1)          sura-saṅghāḥ    —    groups of demigods
+[TEXT—9.20](*1)          surendra    —    of Indra
+[TEXT—2.8](*1)          surāṇām    —    of the demigods
+[TEXT—9.2](*1)          susukham    —    very happy
+[TEXT—15.3-4](*1)          suvirūḍha    —    strongly
+[TEXT—18.60](*1)          sva-bhāva-jena    —    by one's own nature
+[TEXT—17.2](*1)          sva-bhāva-jā    —    according to his mode of material nature
+[TEXT—11.8](*1)          sva-cakṣuṣā    —    with your own eyes
+[TEXT—18.47](*1)          sva-dharmaḥ    —    one's own occupation
+[TEXT—3.35](*1)          sva-dharmaḥ    —    one's prescribed duties
+[TEXT—3.35](*1)          sva-dharme    —    in one's prescribed duties
+[TEXT—11.19](*1)          sva-tejasā    —    by Your
+[TEXT—18.41](*1)          svabhāva    —    own nature
+[TEXT—18.44,18.43,18.42](*3)          svabhāva-jam    —    born of his own nature
+[TEXT—18.47](*1)          svabhāva-niyatam    —    prescribed duties according to one's nature
+[TEXT—2.7](*1)          svabhāvaḥ    —    characteristics
+[TEXT—8.3](*1)          svabhāvaḥ    —    eternal nature
+[TEXT—5.14](*1)          svabhāvaḥ    —    modes of material nature
+[TEXT—1.36](*1)          svabāndhavān    —    along with friends
+[TEXT—2.31](*1)          svadharmam    —    one's own religious principles
+[TEXT—2.33](*1)          svadharmam    —    your religious duty
+[TEXT—9.16](*1)          svadhā    —    oblation
+[TEXT—1.44,1.36,1.28](*3)          svajanam    —    kinsmen
+[TEXT—1.31](*1)          svajanam    —    own kinsmen
+[TEXT—11.50](*1)          svakam    —    His own
+[TEXT—18.45](*1)          svakarma    —    by his own duty
+[TEXT—18.46](*1)          svakarmaṇā    —    in his own duties
+[TEXT—2.40](*1)          svalpam    —    little
+[TEXT—6.13-14](*1)          svam    —    own
+[TEXT—18.47](*1)          svanuṣṭhitāt    —    perfectly done
+[TEXT—3.35](*1)          svanuṣṭhitāt    —    than perfectly done
+[TEXT—5.8-9](*1)          svapan    —    by dreaming
+[TEXT—6.17](*1)          svapna-avabodhasya    —    regulated sleep and wakefulness
+[TEXT—6.16](*1)          svapna-śīlasya    —    of one who sleeps too much
+[TEXT—18.35](*1)          svapnam    —    dream
+[TEXT—2.32](*1)          svarga    —    heavenly planet
+[TEXT—9.21](*1)          svarga-lokam    —    heaven
+[TEXT—2.42-43](*1)          svarga-parāḥ    —    aiming to achieve heavenly planets
+[TEXT—2.37](*1)          svargam    —    the heavenly kingdom
+[TEXT—9.20](*1)          svargatim    —    passage to heaven
+[TEXT—14.22-25](*1)          svasthaḥ    —    being situated himself
+[TEXT—11.21](*1)          svasti    —    all peace
+[TEXT—3.33](*1)          svasyāḥ    —    in one's own nature
+[TEXT—4.38](*1)          svayam    —    itself
+[TEXT—10.15](*1)          svayam    —    personality
+[TEXT—18.75,10.12-13](*2)          svayam    —    personally
+[TEXT—7.20](*1)          svayā    —    by their own
+[TEXT—18.45](*1)          sve    —    own
+[TEXT—18.60](*1)          svena    —    by one's own
+[TEXT—17.15](*1)          svādhyāya    —    Vedic study
+[TEXT—4.28](*1)          svādhyāya    —    sacrifice in the study of the Vedas
+[TEXT—16.1-3](*1)          svādhyāyaḥ    —    study of Vedic literature
+[TEXT—9.8](*1)          svām    —    of My personal self
+[TEXT—4.6](*1)          svām    —    of Myself
+[TEXT—1.14](*1)          syandane    —    chariot
+[TEXT—9.32](*1)          syuḥ    —    becomes
+[TEXT—18.70,3.24](*2)          syām    —    shall be
+[TEXT—1.36](*1)          syāma    —    become
+[TEXT—10.39](*1)          syāt    —    exists
+[TEXT—11.12,2.7](*2)          syāt    —    may be
+[TEXT—15.20](*1)          syāt    —    one becomes
+[TEXT—3.17](*1)          syāt    —    remains
+[TEXT—18.40](*1)          syāt    —    so becomes
+[TEXT—1.32-35](*1)          syāt    —    will there be
+[TEXT—18.35,18.34,18.33,18.31,18.30,17.2,11.12](*7)          sā    —    that
+[TEXT—2.69](*1)          sā    —    that is
+[TEXT—6.19](*1)          sā upamā    —    compared to that
+[TEXT—14.2](*1)          sādharmyam    —    nature
+[TEXT—17.26-27](*1)          sādhu-bhāve    —    in the sense of the nature of devotion
+[TEXT—9.30](*1)          sādhuḥ    —    saint
+[TEXT—11.22](*1)          sādhyāḥ    —    the Sādhyas
+[TEXT—4.8](*1)          sādhūnām    —    of the devotees
+[TEXT—10.24](*1)          sāgaraḥ    —    the ocean
+[TEXT—12.6-7](*1)          sāgarāt    —    from the ocean
+[TEXT—18.24](*1)          sāhaṅkāreṇa    —    with ego
+[TEXT—18.75](*1)          sākṣāt    —    directly
+[TEXT—9.18](*1)          sākṣī    —    witness
+[TEXT—9.17](*1)          sāma    —    the Sāma-veda
+[TEXT—10.22](*1)          sāma-vedaḥ    —    the Sāma-veda
+[TEXT—2.36](*1)          sāmarthyam    —    ability
+[TEXT—10.35](*1)          sāmnām    —    of the Sāma-veda song
+[TEXT—5.19](*1)          sāmye    —    in equanimity
+[TEXT—6.33](*1)          sāmyena    —    generally
+[TEXT—10.33](*1)          sāmāsikāsya    —    compounds
+[TEXT—17.8-10](*1)          sāttvika    —    goodness
+[TEXT—18.36-37,18.23,18.20,17.20,17.17](*5)          sāttvikam    —    in the mode of goodness
+[TEXT—14.16](*1)          sāttvikam    —    mode of goodness
+[TEXT—18.26,18.9](*2)          sāttvikaḥ    —    in the mode of goodness
+[TEXT—17.11](*1)          sāttvikaḥ    —    is in the mode of goodness
+[TEXT—7.12](*1)          sāttvikāḥ    —    in goodness
+[TEXT—17.4](*1)          sāttvikāḥ    —    those who are in the mode of goodness
+[TEXT—18.33,18.30](*2)          sāttvikī    —    in the mode of goodness
+[TEXT—17.2](*1)          sāttvikī    —    mode of goodness
+[TEXT—1.16-18](*1)          sātyakiḥ    —    Sātyaki (the same as Yuyudhāna, the charioteer of Lord Kṛṣṇa)
+[TEXT—18.56](*1)          sāśvatam    —    eternal
+[TEXT—5.4](*1)          sāṅkhya    —    analytical study of the material world
+[TEXT—5.5](*1)          sāṅkhyaiḥ    —    by means of sāṅkhya philosophy
+[TEXT—5.5](*1)          sāṅkhyam    —    analytical study
+[TEXT—2.39](*1)          sāṅkhye    —    by analytical study
+[TEXT—18.13-14](*1)          sāṅkhye    —    in the Vedas
+[TEXT—13.25](*1)          sāṅkhyena    —    by philosophical discussion
+[TEXT—3.3](*1)          sāṅkhyānām    —    of the empiric philosophers
+[TEXT—1.28](*1)          sīdanti    —    quivering
+[TEXT—13.16](*1)          sūkṣmatvāt    —    on account of being subtle
+[TEXT—11.19,11.12](*2)          sūrya    —    sun
+[TEXT—15.6](*1)          sūryaḥ    —    sun
+[TEXT—11.26-27](*1)          sūta-putraḥ    —    Karṇa
+[TEXT—7.7](*1)          sūtre    —    on a thread
+[TEXT—9.10](*1)          sūyate    —    manifest
+[TEXT—5.14](*1)          sṛjati    —    creates
+[TEXT—4.7](*1)          sṛjāmi    —    manifest
+[TEXT—8.27](*1)          sṛtī    —    different paths
+[TEXT—17.2](*1)          sṛṇu    —    hear from Me
+[TEXT—4.13](*1)          sṛṣṭam    —    created
+[TEXT—3.10](*1)          sṛṣṭvā    —    by creating
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [s]:654

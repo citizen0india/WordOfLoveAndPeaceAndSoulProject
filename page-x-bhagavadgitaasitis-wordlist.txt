@@ -1,0 +1,9 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [x]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [x]:0

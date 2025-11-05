@@ -1,0 +1,24 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ī]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—11.49](*1)          īdṛk    —    like this
+[TEXT—6.42,2.32](*2)          īdṛśam    —    like this
+[TEXT—16.11-12](*1)          īhante    —    desire
+[TEXT—7.22](*1)          īhate    —    seeks
+[TEXT—18.20,6.29](*2)          īkṣate    —    does see
+[TEXT—2.1](*1)          īkṣaṇam    —    eyes
+[TEXT—11.15](*1)          īśam    —    Lord Śiva
+[TEXT—11.44](*1)          īśam    —    unto the Supreme Lord
+[TEXT—18.43](*1)          īśvara    —    leadership
+[TEXT—13.29](*1)          īśvaram    —    Supersoul
+[TEXT—15.17](*1)          īśvaraḥ    —    the Lord
+[TEXT—18.61,4.6](*2)          īśvaraḥ    —    the Supreme Lord
+[TEXT—16.13-15](*1)          īśvaraḥ    —    the lord
+[TEXT—15.8](*1)          īśvaraḥ    —    the lord of the body
+[TEXT—11.44](*1)          īḍyam    —    who is worshipable
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ī]:15

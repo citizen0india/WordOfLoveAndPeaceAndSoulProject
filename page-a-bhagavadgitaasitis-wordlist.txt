@@ -1,0 +1,782 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [a]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.67](*1)          abhaktāya    —    one who is not a devotee
+[TEXT—1.13](*1)          abhavat    —    became
+[TEXT—16.1-3](*1)          abhayam    —    fearlessness
+[TEXT—10.4-5](*1)          abhayam    —    without fear
+[TEXT—18.30](*1)          abhaye    —    fearlessness
+[TEXT—1.39](*1)          abhibhavati    —    transforms
+[TEXT—1.40](*1)          abhibhavāt    —    having been predominant
+[TEXT—14.10](*1)          abhibhūya    —    also surpassing
+[TEXT—18.68](*1)          abhidhāsyati    —    explains
+[TEXT—17.26-27](*1)          abhidhīyate    —    is practiced
+[TEXT—13.1-2](*1)          abhidhīyate    —    iscalled
+[TEXT—18.11](*1)          abhidhīyate    —    it is said
+[TEXT—2.39](*1)          abhihitā    —    described
+[TEXT—16.13-15](*1)          abhijanavān    —    surrounded by aristocratic relatives
+[TEXT—9.24](*1)          abhijānanti    —    know
+[TEXT—7.25](*1)          abhijānāti    —    can understand
+[TEXT—4.14](*1)          abhijānāti    —    does know
+[TEXT—18.55](*1)          abhijānāti    —    one can know
+[TEXT—16.4](*1)          abhijātasya    —    one who is born
+[TEXT—16.1-3](*1)          abhijātasya    —    one who is born of
+[TEXT—16.5](*1)          abhijātaḥ    —    born
+[TEXT—2.62](*1)          abhijāyate    —    becomes manifest
+[TEXT—13.24,6.41](*2)          abhijāyate    —    takes his birth
+[TEXT—2.40](*1)          abhikrama    —    endeavoring
+[TEXT—11.28](*1)          abhimukhāḥ    —    towards
+[TEXT—16.4](*1)          abhimānaḥ    —    conceit
+[TEXT—2.57](*1)          abhinandati    —    prays
+[TEXT—4.20](*1)          abhipravṛttaḥ    —    being fully engaged
+[TEXT—1.11](*1)          abhirakṣantu    —    support may be given
+[TEXT—1.10](*1)          abhirakṣitam    —    carefully protected
+[TEXT—1.10](*1)          abhirakṣitam    —    perfectly protected
+[TEXT—18.45](*1)          abhirataḥ    —    following
+[TEXT—17.12](*1)          abhisandhāya    —    desiring
+[TEXT—5.26](*1)          abhitaḥ    —    assured in the near future
+[TEXT—11.28](*1)          abhivijvalanti    —    blazing
+[TEXT—6.38](*1)          abhram    —    cloud
+[TEXT—11.43](*1)          abhyadhikaḥ    —    greater
+[TEXT—1.13](*1)          abhyahanyanta    —    being simultaneously sounded
+[TEXT—1.19](*1)          abhyanunādayan    —    by resounding
+[TEXT—18.46](*1)          abhyarcya    —    by worshiping
+[TEXT—17.15](*1)          abhyasanam    —    practice
+[TEXT—16.18](*1)          abhyasūyakāḥ    —    envious
+[TEXT—3.32](*1)          abhyasūyantaḥ    —    out of envy
+[TEXT—18.67](*1)          abhyasūyati    —    envious
+[TEXT—4.7](*1)          abhyutthānam    —    predominance
+[TEXT—12.9,8.8](*2)          abhyāsa    —    practice
+[TEXT—12.10](*1)          abhyāse    —    in the practice of
+[TEXT—6.35](*1)          abhyāsena    —    by practice
+[TEXT—6.44](*1)          abhyāsena    —    practice
+[TEXT—18.36-37,12.12](*2)          abhyāsāt    —    by practice
+[TEXT—2.66](*1)          abhāvayataḥ    —    one who is not fixed
+[TEXT—2.16](*1)          abhāvaḥ    —    changing quality
+[TEXT—10.4-5](*1)          abhāvaḥ    —    death
+[TEXT—11.14](*1)          abhāṣata    —    began to say
+[TEXT—4.1](*1)          abravīt    —    said
+[TEXT—1.27](*1)          abravīt    —    spoke
+[TEXT—7.24](*1)          abuddhayaḥ    —    less intelligent persons
+[TEXT—2.70](*1)          acala-pratiṣṭham    —    steadily situated
+[TEXT—12.3-4](*1)          acalam    —    immovable
+[TEXT—6.13-14](*1)          acalam    —    unmoved
+[TEXT—2.24](*1)          acalaḥ    —    immovable
+[TEXT—8.10](*1)          acalena    —    without being deviated
+[TEXT—2.53](*1)          acalā    —    unflinching
+[TEXT—7.21](*1)          acalām    —    steady
+[TEXT—13.16,11.7](*2)          acaram    —    not moving
+[TEXT—11.43](*1)          acarasya    —    nonmoving
+[TEXT—2.24](*1)          acchedyaḥ    —    unbreakable
+[TEXT—17.5-6](*1)          acetasaḥ    —    by such a misled mentality
+[TEXT—15.11](*1)          acetasaḥ    —    undeveloped mind
+[TEXT—3.32](*1)          acetasaḥ    —    without Kṛṣṇa consciousness
+[TEXT—8.9](*1)          acintya    —    inconceivable
+[TEXT—12.3-4](*1)          acintyam    —    inconceivable
+[TEXT—2.25](*1)          acintyaḥ    —    inconceivable
+[TEXT—4.39](*1)          acireṇa    —    very soon
+[TEXT—18.73](*1)          acyuta    —    O infallible Kṛṣṇa
+[TEXT—11.41-42,1.21-22](*2)          acyuta    —    O infallible one
+[TEXT—16.1-3](*1)          acāpalam    —    determination
+[TEXT—17.13](*1)          adakṣiṇam    —    with no remunerations to the priests
+[TEXT—13.8-12](*1)          adambhitvam    —    pridelessness
+[TEXT—11.10-11](*1)          adbhuta    —    wonderful
+[TEXT—18.74](*1)          adbhutam    —    wonder
+[TEXT—18.77,18.76,11.20](*3)          adbhutam    —    wonderful
+[TEXT—17.22](*1)          adesa    —    unpurified place
+[TEXT—16.20](*1)          adhamām    —    condemned
+[TEXT—1.40](*1)          adharma    —    irreligion
+[TEXT—18.32](*1)          adharmam    —    irreligion
+[TEXT—18.31](*1)          adharmam ca    —    and irreligion
+[TEXT—4.7](*1)          adharmasya    —    of irreligion
+[TEXT—1.39](*1)          adharmaḥ    —    irreligious
+[TEXT—14.18](*1)          adhaḥ    —    down
+[TEXT—15.2](*1)          adhaḥ    —    downward
+[TEXT—15.1](*1)          adhaḥ    —    downwards
+[TEXT—8.1](*1)          adhibhūtam    —    the material manifestation
+[TEXT—8.4](*1)          adhibhūtam    —    the physical manifestation
+[TEXT—8.1](*1)          adhidaivam    —    the demigods
+[TEXT—7.30](*1)          adhidaivam    —    underlying all the demigods
+[TEXT—8.4](*1)          adhidaivatam    —    including all demigods like the sun and moon
+[TEXT—18.49,5.24,5.6,4.39,2.71,2.64](*6)          adhigacchati    —    attains
+[TEXT—6.15](*1)          adhigacchati    —    does attain
+[TEXT—14.19](*1)          adhigacchati    —    is promoted
+[TEXT—6.20-23](*1)          adhikam    —    more than that
+[TEXT—12.5](*1)          adhikataraḥ    —    more troublesome
+[TEXT—6.46](*1)          adhikaḥ    —    greater
+[TEXT—6.46](*1)          adhikaḥ    —    greater than
+[TEXT—2.47](*1)          adhikāraḥ    —    right
+[TEXT—8.2](*1)          adhiyajñaḥ    —    the Lord of sacrifice
+[TEXT—8.4](*1)          adhiyajñaḥ    —    the Supersoul
+[TEXT—18.13-14](*1)          adhiṣṭhānam    —    place
+[TEXT—3.40](*1)          adhiṣṭhānam    —    sitting place
+[TEXT—15.9](*1)          adhiṣṭhāya    —    being situated
+[TEXT—4.6](*1)          adhiṣṭhāya    —    being so situated
+[TEXT—17.18](*1)          adhruvam    —    temporary
+[TEXT—9.10](*1)          adhyakṣeṇa    —    by superintendence
+[TEXT—11.48](*1)          adhyayanaiḥ    —    studying
+[TEXT—18.70](*1)          adhyeṣyate    —    will study
+[TEXT—13.8-12](*1)          adhyātma    —    pertaining to the self
+[TEXT—15.5,11.1](*2)          adhyātma    —    spiritual
+[TEXT—3.30](*1)          adhyātma    —    with full knowledge of the self
+[TEXT—10.32](*1)          adhyātma-vidyā    —    spiritual knowledge
+[TEXT—8.3,8.1](*2)          adhyātmam    —    the self
+[TEXT—7.29](*1)          adhyātmam    —    transcendental
+[TEXT—16.1-3](*1)          adrohaḥ    —    freedom from envy
+[TEXT—12.13-14](*1)          adveṣṭā    —    not envious
+[TEXT—12.15](*1)          advijate    —    disturbed
+[TEXT—11.7](*1)          adya    —    immediately
+[TEXT—16.13-15,4.3](*2)          adya    —    today
+[TEXT—2.24](*1)          adāhyaḥ    —    cannot be burned
+[TEXT—11.6](*1)          adṛṣṭa    —    that you have not heard or seen
+[TEXT—11.45](*1)          adṛṣṭa-pūrvam    —    never seen before
+[TEXT—2.11](*1)          agata    —    not past
+[TEXT—3.13](*1)          agham    —    grievous sins
+[TEXT—3.16](*1)          aghāyuḥ    —    life full of sins
+[TEXT—15.12](*1)          agnau    —    in the fire
+[TEXT—4.27,4.25](*2)          agnau    —    in the fire of
+[TEXT—4.24](*1)          agnau    —    in the fire of consummation
+[TEXT—18.48,11.39,9.16,8.24,6.1,4.37](*6)          agniḥ    —    fire
+[TEXT—4.26](*1)          agniṣu    —    in the fire
+[TEXT—6.13-14](*1)          agram    —    tip
+[TEXT—18.39,18.38,18.36-37](*3)          agre    —    in the beginning
+[TEXT—18.22](*1)          ahaitukam    —    without cause
+[TEXT—18.75,18.74,18.70,18.66,16.19,15.18,15.15,15.14,15.13,14.3,12.6-7,11.54,11.53,11.48,11.46,11.44,11.41-42,11.23,10.42,10.20,10.11,10.8,9.29,9.26,9.24,9.22,9.19,9.17,9.16,9.7,9.4,7.26,7.25,7.21,7.12,7.8,7.6,6.34,6.33,6.30,4.11,4.7,4.5,3.27,3.24,3.23,2.12,2.4,1.21-22](*49)          aham    —    I
+[TEXT—8.4](*1)          aham    —    I (Kṛṣṇa)
+[TEXT—16.13-15,15.15,14.27,10.39,10.38,10.37,10.36,10.35,10.34,10.33,10.32,10.31,10.30,10.29,10.28,10.25,10.24,10.23,10.21,10.20,8.14,7.17,7.11,7.10,2.7](*25)          aham    —    I am
+[TEXT—14.4](*1)          aham    —    Myself
+[TEXT—2.5](*1)          ahatvā    —    by killing
+[TEXT—1.44](*1)          ahaḥ    —    alas
+[TEXT—8.24,8.17](*2)          ahaḥ    —    day
+[TEXT—8.19](*1)          ahaḥ    —    during daytime
+[TEXT—8.17](*1)          ahaḥ-rātra    —    day and night
+[TEXT—8.18](*1)          ahaḥ-āgame    —    at the beginning of the day
+[TEXT—17.5-6](*1)          ahaṅkāra    —    egotism
+[TEXT—3.27](*1)          ahaṅkāra-vimūḍha    —    bewildered by false ego
+[TEXT—18.59,18.51-53,16.18](*3)          ahaṅkāram    —    false ego
+[TEXT—13.6-7,7.4](*2)          ahaṅkāraḥ    —    false ego
+[TEXT—18.58](*1)          ahaṅkārāt    —    by false ego
+[TEXT—18.17](*1)          ahaṅkṛtaḥ    —    false ego
+[TEXT—2.36](*1)          ahitāḥ    —    enemies
+[TEXT—16.9](*1)          ahitāḥ    —    unbeneficial
+[TEXT—17.14,16.1-3,13.8-12,10.4-5](*4)          ahiṁsā    —    nonviolence
+[TEXT—14.27](*1)          aikāntikasya    —    ultimate
+[TEXT—10.27](*1)          airāvatam    —    Airāvata
+[TEXT—11.3](*1)          aiśvaram    —    divine
+[TEXT—11.9](*1)          aiśvaram    —    opulences
+[TEXT—2.44,2.42-43](*2)          aiśvarya    —    opulence
+[TEXT—10.12-13,10.3,7.25,2.21](*4)          ajam    —    unborn
+[TEXT—16.19](*1)          ajasram    —    innumerable
+[TEXT—4.6,2.20](*2)          ajaḥ    —    unborn
+[TEXT—9.16](*1)          ajyam    —    melted butter
+[TEXT—4.40](*1)          ajñaḥ    —    fools who have no knowledge in standard scriptures
+[TEXT—16.13-15](*1)          ajñāna    —    ignorance
+[TEXT—18.72](*1)          ajñāna    —    ignorant
+[TEXT—10.11](*1)          ajñāna-jam    —    due to ignorance
+[TEXT—14.8](*1)          ajñāna-jam    —    products of ignorance
+[TEXT—4.42](*1)          ajñāna-sambhūtam    —    outcome of ignorance
+[TEXT—16.4](*1)          ajñānam    —    ignorance
+[TEXT—13.8-12](*1)          ajñānam    —    ignoraṇce
+[TEXT—5.16](*1)          ajñānam    —    nescience
+[TEXT—14.17,14.16](*2)          ajñānam    —    nonsense
+[TEXT—5.15](*1)          ajñānena    —    by ignorance
+[TEXT—3.26](*1)          ajñānām    —    of the foolish
+[TEXT—9.11](*1)          ajānantaḥ    —    not knowing
+[TEXT—7.24](*1)          ajānantaḥ    —    without knowing
+[TEXT—13.26](*1)          ajānantaḥ    —    without spiritual knowledge
+[TEXT—6.27](*1)          akalmaṣam    —    freed from all past sinful reaction
+[TEXT—4.18,4.16](*2)          akarma    —    inaction
+[TEXT—3.5](*1)          akarma-kṛt    —    without doing something
+[TEXT—4.17](*1)          akarmaṇaḥ    —    inaction
+[TEXT—3.8](*1)          akarmaṇaḥ    —    without work
+[TEXT—4.18](*1)          akarmaṇi    —    in inaction
+[TEXT—2.47](*1)          akarmaṇi    —    in not doing
+[TEXT—4.13](*1)          akartāram    —    as the non-doer
+[TEXT—13.30](*1)          akartāram    —    non-doer
+[TEXT—15.12,7.29](*2)          akhilam    —    entirely
+[TEXT—4.33](*1)          akhilam    —    in totality
+[TEXT—2.24](*1)          akledyaḥ    —    insoluble
+[TEXT—6.1](*1)          akriyaḥ    —    without duty
+[TEXT—16.1-3](*1)          akrodhaḥ    —    freedom from anger
+[TEXT—1.1](*1)          akurvata    —    did they do
+[TEXT—18.10](*1)          akuśalam    —    inauspicious
+[TEXT—10.33](*1)          akāraḥ    —    the first
+[TEXT—16.24](*1)          akārya    —    forbidden activities
+[TEXT—18.31](*1)          akāryam    —    what ought not to be done
+[TEXT—18.30](*1)          akārye    —    reaction
+[TEXT—2.2](*1)          akīrti    —    infamy
+[TEXT—2.34](*1)          akīrtim    —    infamy
+[TEXT—2.34](*1)          akīrtiḥ    —    ill fame
+[TEXT—18.16](*1)          akṛta-buddhitvāt    —    due to unintelligence
+[TEXT—15.11](*1)          akṛta-ātmānaḥ    —    without self-realization
+[TEXT—3.18](*1)          akṛtena    —    without discharge of duty
+[TEXT—3.29](*1)          akṛtsna-vidaḥ    —    persons with a poor fund of knowledge
+[TEXT—11.5](*1)          akṛtīni    —    forms
+[TEXT—3.15](*1)          akṣara    —    the Supreme Brahman (Personality of Godhead)
+[TEXT—12.1](*1)          akṣaram    —    beyond the senses
+[TEXT—11.37](*1)          akṣaram    —    imperishable
+[TEXT—8.3](*1)          akṣaram    —    indestructible
+[TEXT—11.18,8.11](*2)          akṣaram    —    inexhaustible
+[TEXT—12.3-4](*1)          akṣaram    —    which is beyond the perception of the senses
+[TEXT—15.16,8.21](*2)          akṣaraḥ    —    infallible
+[TEXT—15.18](*1)          akṣarāt    —    from the infallible
+[TEXT—10.33](*1)          akṣarāṇām    —    of letters
+[TEXT—5.21](*1)          akṣayam    —    unlimited
+[TEXT—10.33](*1)          akṣayaḥ    —    eternal
+[TEXT—13.14](*1)          akṣi    —    eyes
+[TEXT—18.28](*1)          alasaḥ    —    lazy
+[TEXT—16.1-3](*1)          aloluptvam    —    freedom from greed
+[TEXT—16.9](*1)          alpa-buddhayaḥ    —    less intelligent
+[TEXT—7.23](*1)          alpa-medhasām    —    of those of small intelligence
+[TEXT—18.22](*1)          alpam ca    —    and very meager
+[TEXT—14.14](*1)          amalān    —    pure
+[TEXT—12.15](*1)          amarṣa    —    distress
+[TEXT—11.10-11](*1)          ambara-dharam    —    covered with the dresses
+[TEXT—2.67](*1)          ambhasi    —    on the water
+[TEXT—5.10](*1)          ambhasā    —    in the water
+[TEXT—11.28](*1)          ambu-vegāḥ    —    waves of the waters
+[TEXT—17.8-10](*1)          amedhyam    —    untouchable
+[TEXT—11.40](*1)          amita-vikramaḥ    —    unlimited force
+[TEXT—17.8-10](*1)          amla    —    sour
+[TEXT—6.40](*1)          amutra    —    in the next life
+[TEXT—11.28,11.26-27,11.21](*3)          amī    —    all those
+[TEXT—15.5](*1)          amūḍhāḥ    —    unbewildered
+[TEXT—18.36-37](*1)          amṛta    —    nectar
+[TEXT—4.30](*1)          amṛta-bhujaḥ    —    those who have tasted such nectar
+[TEXT—10.27](*1)          amṛta-udbhavam    —    produced from the churning of the ocean
+[TEXT—18.38](*1)          amṛta-upamam    —    just like nectar
+[TEXT—9.19](*1)          amṛtam    —    immortality
+[TEXT—14.20,13.13,10.18](*3)          amṛtam    —    nectar
+[TEXT—12.20](*1)          amṛtam    —    understanding
+[TEXT—14.27](*1)          amṛtasya    —    of the imperishable
+[TEXT—2.15](*1)          amṛtatvāya    —    for liberation
+[TEXT—17.25](*1)          anabhisandhāya    —    without fruitive result
+[TEXT—2.57](*1)          anabhisnehaḥ    —    without affection
+[TEXT—13.8-12](*1)          anabhiṣvaṅgaḥ    —    without association
+[TEXT—15.20,14.6,3.3](*3)          anagha    —    O sinless one
+[TEXT—18.26](*1)          anaham-vādī    —    without false ego
+[TEXT—13.8-12](*1)          anahaṅkāraḥ    —    being without false egoism
+[TEXT—7.4](*1)          analaḥ    —    fire
+[TEXT—3.39](*1)          analena    —    by the fire
+[TEXT—11.37,11.19](*2)          ananta    —    unlimited
+[TEXT—11.16](*1)          ananta- rūpam    —    unlimited form
+[TEXT—11.38](*1)          ananta-rūpa    —    unlimited form
+[TEXT—11.40](*1)          ananta-vīrya    —    unlimited potency
+[TEXT—11.47,11.10-11](*2)          anantam    —    unlimited
+[TEXT—18.55](*1)          anantaram    —    after
+[TEXT—12.12](*1)          anantaram    —    thereafter
+[TEXT—1.16-18](*1)          anantavijayam    —    the conch named Anantavijaya
+[TEXT—10.29](*1)          anantaḥ    —    Ananta
+[TEXT—2.41](*1)          anantāḥ    —    unlimited
+[TEXT—9.30](*1)          ananya-bhāk    —    without deviation
+[TEXT—8.14](*1)          ananya-cetāḥ    —    without deviation
+[TEXT—9.13](*1)          ananya-manasaḥ    —    without deviation of the mind
+[TEXT—13.8-12](*1)          ananya-yogena    —    by devotional service
+[TEXT—8.22](*1)          ananyayā    —    unalloyed, undeviating devotion
+[TEXT—11.54](*1)          ananyayā    —    without being mixed with fruitive activities or speculative knowledge
+[TEXT—12.6-7](*1)          ananyena    —    without division
+[TEXT—9.22](*1)          ananyāḥ    —    no other
+[TEXT—12.16](*1)          anapekṣaḥ    —    neutral
+[TEXT—18.25](*1)          anapekṣya    —    without consideration of consequences
+[TEXT—3.31](*1)          anasūyantaḥ    —    without envy
+[TEXT—9.1](*1)          anasūyave    —    to the nonenvious
+[TEXT—18.71](*1)          anasūyaḥ ca    —    and not envious
+[TEXT—6.13-14](*1)          anavalokayan    —    not seeing
+[TEXT—3.22](*1)          anavāptam    —    in want
+[TEXT—2.16](*1)          anayoḥ    —    of them
+[TEXT—6.16](*1)          anaśnataḥ    —    abstaining from eating
+[TEXT—11.24,11.16,11.10-11](*3)          aneka    —    many
+[TEXT—6.45](*1)          aneka    —    many, many
+[TEXT—16.16](*1)          aneka    —    numerous
+[TEXT—11.10-11](*1)          aneka    —    various
+[TEXT—11.13](*1)          anekadhā    —    many kinds
+[TEXT—11.8,3.10](*2)          anena    —    by this
+[TEXT—3.11](*1)          anena    —    by this sacrifice
+[TEXT—9.10](*1)          anena    —    this
+[TEXT—3.36](*1)          anicchan    —    without desiring
+[TEXT—12.18-19](*1)          aniketaḥ    —    having no residence
+[TEXT—12.3-4](*1)          anirdeśyam    —    indefinite
+[TEXT—6.24](*1)          anirviṇṇa-cetasā    —    without deviation
+[TEXT—9.33](*1)          anityam    —    temporary
+[TEXT—2.14](*1)          anityāḥ    —    nonpermanent
+[TEXT—18.12](*1)          aniṣṭam    —    leading to hell
+[TEXT—13.8-12](*1)          aniṣṭaḥ    —    undesirable
+[TEXT—3.14](*1)          anna    —    food grains
+[TEXT—15.14](*1)          annam    —    foodstuff
+[TEXT—3.14](*1)          annāt    —    from grains
+[TEXT—7.28](*1)          anta-gatam    —    completely eradicated
+[TEXT—8.5,2.72](*2)          anta-kāle    —    at the end of life
+[TEXT—18.36-37](*1)          antam    —    end
+[TEXT—11.19](*1)          antam    —    without end
+[TEXT—13.35](*1)          antaram    —    difference
+[TEXT—11.20](*1)          antaram    —    in between
+[TEXT—5.27-28](*1)          antare    —    within
+[TEXT—2.18](*1)          antavantaḥ    —    perishable
+[TEXT—5.22](*1)          antavantaḥ    —    subject to
+[TEXT—7.23](*1)          antavat tu    —    limited and temporary
+[TEXT—10.40](*1)          antaḥ    —    a limit
+[TEXT—2.16](*1)          antaḥ    —    conclusion
+[TEXT—15.3-4,10.32,10.20](*3)          antaḥ    —    end
+[TEXT—13.16](*1)          antaḥ    —    inside
+[TEXT—10.19](*1)          antaḥ    —    limit
+[TEXT—17.5-6,11.24](*2)          antaḥ    —    within
+[TEXT—5.24](*1)          antaḥ-jyotiḥ    —    aiming within
+[TEXT—5.24](*1)          antaḥ-sukhaḥ    —    happy from within
+[TEXT—5.24](*1)          antaḥ-ārāmah    —    active within
+[TEXT—6.47](*1)          antaḥ-ātmanā    —    always thinking of Me within
+[TEXT—8.22](*1)          antaḥsthāni    —    within
+[TEXT—7.19](*1)          ante    —    after
+[TEXT—8.6](*1)          ante    —    at the end
+[TEXT—18.25](*1)          anubandham    —    future bondage
+[TEXT—18.39](*1)          anubandhe    —    by binding
+[TEXT—15.2](*1)          anubandhīni    —    bound
+[TEXT—8.8](*1)          anucintayan    —    constantly thinking of
+[TEXT—13.8-12](*1)          anudarśanam    —    observing
+[TEXT—17.15](*1)          anudvega    —    not agitating
+[TEXT—2.56](*1)          anudvigna-manāḥ    —    without being agitated in mind
+[TEXT—10.11](*1)          anukampā-artham    —    to show special mercy
+[TEXT—11.10-11](*1)          anulepanam    —    smeared
+[TEXT—13.23](*1)          anumantā    —    permitter
+[TEXT—17.20](*1)          anupakāriṇe    —    to any person irrespective of doing good
+[TEXT—15.10](*1)          anupaśyanti    —    can see
+[TEXT—13.31](*1)          anupaśyati    —    tries to see through authority
+[TEXT—1.31](*1)          anupaśyāmi    —    do I foresee
+[TEXT—9.21](*1)          anuprapannāḥ    —    following
+[TEXT—11.36](*1)          anurajyate    —    becoming attached
+[TEXT—15.2](*1)          anusantatāni    —    extended
+[TEXT—8.7](*1)          anusmara    —    go on remembering
+[TEXT—8.13](*1)          anusmaran    —    remembering
+[TEXT—8.9](*1)          anusmaret    —    always thinking
+[TEXT—3.31](*1)          anutiṣṭhanti    —    execute regularly
+[TEXT—3.32](*1)          anutiṣṭhanti    —    regularly perform
+[TEXT—7.24](*1)          anuttamam    —    the finest
+[TEXT—7.18](*1)          anuttamām    —    the highest goal
+[TEXT—4.11](*1)          anuvartante    —    do follow
+[TEXT—3.23](*1)          anuvartante    —    would follow
+[TEXT—3.21](*1)          anuvartate    —    follow in the footsteps
+[TEXT—3.16](*1)          anuvartayati    —    adopt
+[TEXT—2.67](*1)          anuvidhīyate    —    becomes constantly engaged
+[TEXT—2.11](*1)          anuśocanti    —    lament
+[TEXT—2.25](*1)          anuśocitum    —    may lament over
+[TEXT—1.43](*1)          anuśuśruma    —    I have heard by disciplic succession
+[TEXT—8.9](*1)          anuśāsitāram    —    the controller
+[TEXT—18.10](*1)          anuṣajjate    —    becomes attached
+[TEXT—6.4](*1)          anuṣajjate    —    does necessarily engage
+[TEXT—2.11](*1)          anvaśocaḥ    —    you are lamenting
+[TEXT—2.49](*1)          anviccha    —    desire
+[TEXT—17.5-6](*1)          anvitāḥ    —    impelled by
+[TEXT—17.1](*1)          anvitāḥ    —    possessed of
+[TEXT—9.23,7.20](*2)          anya    —    other
+[TEXT—14.19](*1)          anyam    —    other than
+[TEXT—7.7,2.42-43,2.31](*3)          anyat    —    anything else
+[TEXT—7.2](*1)          anyat    —    anything more
+[TEXT—11.7](*1)          anyat    —    other
+[TEXT—13.8-12](*1)          anyathā    —    others
+[TEXT—3.9](*1)          anyatra    —    otherwise
+[TEXT—8.26](*1)          anyayā    —    by the other
+[TEXT—15.17,8.20](*2)          anyaḥ    —    another
+[TEXT—18.69,16.13-15,11.43](*3)          anyaḥ    —    other
+[TEXT—2.29](*1)          anyaḥ    —    others
+[TEXT—4.31](*1)          anyaḥ    —    the other
+[TEXT—6.39](*1)          anyaḥ    —    without
+[TEXT—1.9](*1)          anye    —    many others
+[TEXT—13.26,13.25,9.15,4.26](*4)          anye    —    others
+[TEXT—4.26](*1)          anye    —    others: indriya—of sense organs
+[TEXT—13.26](*1)          anyebhyaḥ    —    from others
+[TEXT—11.48](*1)          anyena    —    by another
+[TEXT—7.5](*1)          anyām    —    another
+[TEXT—11.34](*1)          anyān    —    others
+[TEXT—2.22](*1)          anyāni    —    different
+[TEXT—16.11-12](*1)          anyāyena    —    illegally
+[TEXT—13.13](*1)          anādi    —    beginningless
+[TEXT—11.19](*1)          anādi    —    without beginning
+[TEXT—10.3](*1)          anādim    —    without beginning
+[TEXT—13.32](*1)          anāditvāt    —    due to eternity
+[TEXT—13.20](*1)          anādī    —    without beginning
+[TEXT—14.6](*1)          anāmayam    —    without any sinful reaction
+[TEXT—2.51](*1)          anāmayam    —    without miseries
+[TEXT—3.4](*1)          anārambhāt    —    non- performance
+[TEXT—2.2](*1)          anārya    —    persons who do not know the value of life
+[TEXT—6.6](*1)          anātmanaḥ    —    of one who has failed to control the mind
+[TEXT—8.26,8.23](*2)          anāvṛttim    —    no return
+[TEXT—2.18](*1)          anāśinaḥ    —    never to be destroyed
+[TEXT—6.1](*1)          anāśritaḥ    —    without shelter
+[TEXT—16.8](*1)          anīśvaram    —    with no controller
+[TEXT—7.15](*1)          apahṛta    —    stolen by illusion
+[TEXT—2.44](*1)          apahṛta-cetasām    —    bewildered in mind
+[TEXT—16.1-3](*1)          apaiśunam    —    aversion to faultfinding
+[TEXT—18.43](*1)          apalāyanam    —    not fleeing
+[TEXT—14.22-25,12.18-19](*2)          apamānayoḥ    —    dishonor
+[TEXT—6.7](*1)          apamānayoḥ    —    in dishonor
+[TEXT—2.8](*1)          apanudyāt    —    they can drive away
+[TEXT—6.20-23](*1)          aparam    —    any other
+[TEXT—4.4](*1)          aparam    —    junior
+[TEXT—16.8](*1)          aparaspara    —    by mutual lust
+[TEXT—18.3,13.25,4.29,4.28,4.27,4.25](*6)          apare    —    others
+[TEXT—4.25](*1)          apare    —    some
+[TEXT—6.10](*1)          aparigrahaḥ    —    free from the feeling of possessiveness
+[TEXT—2.27](*1)          aparihārye    —    for that which is unavoidable
+[TEXT—16.11-12](*1)          aparimeyām    —    unmeasurable
+[TEXT—1.10](*1)          aparyāptam    —    immeasurable
+[TEXT—7.5](*1)          aparā    —    inferior
+[TEXT—1.16-18](*1)          aparājitaḥ    —    who were never vanquished before
+[TEXT—16.13-15](*1)          aparān    —    others
+[TEXT—2.22](*1)          aparāṇi    —    other
+[TEXT—11.13](*1)          apaśyat    —    could see
+[TEXT—1.26](*1)          apaśyat    —    he could see
+[TEXT—17.11](*1)          aphala-kāñkṣibhiḥ    —    devoid of desire for result
+[TEXT—18.23](*1)          aphala-prepsunā    —    without fruitive result
+[TEXT—17.17](*1)          aphala-ākāṅkṣibhiḥ    —    without desires for fruits
+[TEXT—12.1](*1)          api    —    again
+[TEXT—18.44,18.43,18.19,17.12,17.8-10,17.7,16.13-15,16.7,13.26,13.20,13.18,12.11,11.43,11.39,11.29,11.26-27,10.37,9.32,9.25,9.23,8.6,6.47,6.46,6.44,5.5,4.17,4.16,3.5,2.72,2.31](*30)          api    —    also
+[TEXT—18.56,18.48,15.11,11.37,4.22,4.15,4.13,4.6,3.36,3.33,2.40](*11)          api    —    although
+[TEXT—4.30](*1)          api    —    although apparently different
+[TEXT—2.59](*1)          api    —    although there is
+[TEXT—15.18](*1)          api    —    better than that
+[TEXT—18.71,18.6,16.13-15,13.3,11.34,9.29,9.15,1.37-38](*8)          api    —    certainly
+[TEXT—18.60,12.10,7.30,6.25,4.36,3.31,3.8,2.29,2.8,2.5,1.32-35](*11)          api    —    even
+[TEXT—1.32-35](*1)          api    —    even if
+[TEXT—12.10,5.4](*2)          api    —    even though
+[TEXT—5.11](*1)          api    —    even with
+[TEXT—3.20](*1)          api    —    for the sake of
+[TEXT—13.24,9.30,6.31,5.8-9,4.20,2.60](*6)          api    —    in spite of
+[TEXT—1.26](*1)          api    —    including
+[TEXT—7.3](*1)          api    —    indeed
+[TEXT—10.39](*1)          api    —    may be
+[TEXT—11.41-42](*1)          api    —    others
+[TEXT—2.34](*1)          api    —    over and above
+[TEXT—6.44](*1)          api    —    so
+[TEXT—7.23](*1)          api    —    surely
+[TEXT—2.16](*1)          api    —    verily
+[TEXT—15.8](*1)          api    —    virtually
+[TEXT—11.52](*1)          api asya    —    also this
+[TEXT—13.23](*1)          api uktaḥ    —    is said
+[TEXT—15.15](*1)          apohanam ca    —    and forgetfulness
+[TEXT—3.12](*1)          apradāya    —    without offering
+[TEXT—14.13](*1)          aprakāśaḥ    —    darkness
+[TEXT—11.41-42,11.17](*2)          aprameyam    —    immeasurable
+[TEXT—2.18](*1)          aprameyasya    —    immeasurable
+[TEXT—11.43](*1)          apratima    —    immeasurable
+[TEXT—16.8](*1)          apratiṣṭham    —    without foundation
+[TEXT—6.38](*1)          apratiṣṭhaḥ    —    without any position
+[TEXT—1.45](*1)          apratīkāram    —    without being resistant
+[TEXT—14.13](*1)          apravṛttiḥ    —    inactivity
+[TEXT—5.20](*1)          apriyam    —    unpleasant
+[TEXT—14.22-25](*1)          apriyaḥ    —    undesirable
+[TEXT—6.37](*1)          aprāpya    —    failing
+[TEXT—16.20](*1)          aprāpya    —    without achieving
+[TEXT—9.3](*1)          aprāpya    —    without obtaining
+[TEXT—7.8](*1)          apsu    —    in water
+[TEXT—5.17](*1)          apunaḥ-āvṛttim    —    liberation
+[TEXT—11.2](*1)          apyayau    —    disappearance
+[TEXT—4.29](*1)          apāna    —    air going downward
+[TEXT—15.14](*1)          apāna    —    downgoing air
+[TEXT—4.29](*1)          apānam    —    air going downward
+[TEXT—4.29](*1)          apāne    —    air which acts downward
+[TEXT—17.22](*1)          apātrebhyaḥ    —    to unworthy persons
+[TEXT—2.32](*1)          apāvṛtam    —    wide open
+[TEXT—2.14](*1)          apāyinaḥ    —    disappearing
+[TEXT—13.8-12](*1)          aratiḥ    —    without attachment
+[TEXT—7.21](*1)          arcitum    —    to worship
+[TEXT—11.44](*1)          arhasi    —    You should
+[TEXT—10.16,3.20,2.27,2.26](*4)          arhasi    —    deserve
+[TEXT—6.39](*1)          arhasi    —    requested to do
+[TEXT—2.31,2.25](*2)          arhasi    —    you deserve
+[TEXT—2.17](*1)          arhati    —    able
+[TEXT—1.36](*1)          arhāḥ    —    deserving
+[TEXT—14.22-25](*1)          ari    —    enemy
+[TEXT—2.4](*1)          arisūdana    —    O killer of the enemies
+[TEXT—18.61,18.34,18.9,11.54,11.47,10.42,10.39,10.32,9.19,8.27,8.16,7.26,7.16,6.46,6.32,6.16,4.37,4.9,4.5,3.7,2.2](*21)          arjuna    —    O Arjuna
+[TEXT—11.50](*1)          arjunam    —    unto Arjuna
+[TEXT—18.76](*1)          arjunayoḥ    —    and Arjuna
+[TEXT—3.1,1.46,1.28,1.21-22](*4)          arjunaḥ    —    Arjuna
+[TEXT—18.73,18.1,17.1,14.21,13.1-2,12.1,11.51,11.36,11.15,10.12-13,6.37,6.33,5.1,4.4,3.36,2.54,2.4](*17)          arjunaḥ uvāca    —    Arjuna said
+[TEXT—11.17](*1)          arka    —    sun
+[TEXT—4.24](*1)          arpaṇam    —    contribution
+[TEXT—9.27](*1)          arpaṇam    —    offering
+[TEXT—12.13-14](*1)          arpita    —    engaged
+[TEXT—8.7](*1)          arpita    —    surrender
+[TEXT—2.5](*1)          artha    —    gain
+[TEXT—3.18](*1)          artha    —    purpose
+[TEXT—13.8-12](*1)          artha    —    the object
+[TEXT—16.11-12](*1)          artha    —    wealth
+[TEXT—7.16](*1)          artha-arthī    —    one who desires material gain
+[TEXT—16.11-12](*1)          artham    —    for that purpose
+[TEXT—3.9](*1)          artham    —    for the sake of
+[TEXT—17.12](*1)          artham    —    material benefits
+[TEXT—2.46](*1)          arthaḥ    —    is meant
+[TEXT—3.18](*1)          arthaḥ    —    purpose
+[TEXT—1.32-35](*1)          arthe    —    for the matter of
+[TEXT—2.27](*1)          arthe    —    in the matter of
+[TEXT—17.26-27](*1)          arthīyam    —    are meant
+[TEXT—10.29](*1)          aryamā    —    Aryāma
+[TEXT—18.23](*1)          arāga-dveṣataḥ    —    without love or hatred
+[TEXT—18.49](*1)          asakta-buddhiḥ    —    unattached intelligence
+[TEXT—5.21](*1)          asakta-ātmā    —    one who is not so attached
+[TEXT—13.15](*1)          asaktam    —    without attachment
+[TEXT—9.9](*1)          asaktam    —    without attraction
+[TEXT—3.19](*1)          asaktaḥ    —    nonattachment
+[TEXT—3.25,3.19,3.7](*3)          asaktaḥ    —    without attachment
+[TEXT—13.8-12](*1)          asaktiḥ    —    without attachment
+[TEXT—10.4-5](*1)          asam-mohaḥ    —    freedom from doubt
+[TEXT—12.10](*1)          asamarthaḥ    —    unable
+[TEXT—5.20](*1)          asammūḍhaḥ    —    unbewildered
+[TEXT—15.19](*1)          asammūḍhaḥ    —    without a doubt
+[TEXT—6.2](*1)          asannyasta    —    without giving up
+[TEXT—2.8](*1)          asapatnam    —    without rival
+[TEXT—13.13](*1)          asat    —    effect
+[TEXT—17.28](*1)          asat    —    falls
+[TEXT—9.19](*1)          asat    —    nonbeing
+[TEXT—16.10](*1)          asat    —    nonpermanent
+[TEXT—2.16](*1)          asataḥ    —    of the nonexistent
+[TEXT—17.22](*1)          asatkṛtam    —    without respect
+[TEXT—11.41-42](*1)          asatkṛtaḥ    —    dishonor
+[TEXT—16.8](*1)          asatyam    —    unreal
+[TEXT—16.13-15,11.26-27](*2)          asau    —    that
+[TEXT—10.3](*1)          asaṁmūḍhaḥ    —    without doubt
+[TEXT—6.36](*1)          asaṁyata    —    unbridled
+[TEXT—6.35](*1)          asaṁśayam    —    undoubtedly
+[TEXT—7.1](*1)          asaṁśayam    —    without doubt
+[TEXT—8.7](*1)          asaṁśayaḥ    —    beyond a doubt
+[TEXT—18.68](*1)          asaṁśayaḥ    —    without doubt
+[TEXT—15.3-4](*1)          asaṅga-śastreṇa    —    by the weapon of detachment
+[TEXT—11.43,11.38](*2)          asi    —    You are
+[TEXT—8.2](*1)          asi    —    You can
+[TEXT—11.41-42](*1)          asi    —    have been done
+[TEXT—18.65,16.5,12.11,12.10,11.53,4.36](*6)          asi    —    you are
+[TEXT—4.22](*1)          asiddhau    —    failure
+[TEXT—18.26](*1)          asiddhyoḥ    —    failure
+[TEXT—4.42](*1)          asinā    —    by the weapon of
+[TEXT—10.12-13](*1)          asitaḥ    —    Asita
+[TEXT—11.26-27](*1)          asmadīyaiḥ    —    our
+[TEXT—18.73,16.13-15,15.18,11.51,11.45,11.32,10.38,10.37,10.36,10.33,10.31,10.30,10.29,10.28,10.25,10.24,10.23,10.22,10.21,7.11,7.10,7.9](*22)          asmi    —    I am
+[TEXT—8.2,2.13,1.21-22](*3)          asmin    —    in this
+[TEXT—16.6,13.23,3.3](*3)          asmin    —    this
+[TEXT—1.37-38](*1)          asmābhiḥ    —    by us
+[TEXT—1.10](*1)          asmākam    —    of ours
+[TEXT—1.7](*1)          asmākam    —    our
+[TEXT—1.36](*1)          asmān    —    us
+[TEXT—1.37-38](*1)          asmāt    —    ourselves
+[TEXT—6.26](*1)          asthiram    —    unsteady
+[TEXT—9.29](*1)          asti    —    is
+[TEXT—10.40](*1)          asti    —    isthere
+[TEXT—18.40,16.13-15,11.43,10.39,8.5,7.7,6.16,4.40,4.31,3.22,2.42-43,2.40](*12)          asti    —    there is
+[TEXT—11.39](*1)          astu    —    are being
+[TEXT—2.47](*1)          astu    —    be there
+[TEXT—3.10](*1)          astu    —    let it be
+[TEXT—9.33](*1)          asukham    —    sorrowful
+[TEXT—11.22](*1)          asura- siddha    —    the demons and the perfected demigods
+[TEXT—7.15](*1)          asuram    —    demonic
+[TEXT—2.2](*1)          asvargyam    —    that which does not lead to higher planets
+[TEXT—3.34,2.67,2.65,2.59](*4)          asya    —    his
+[TEXT—3.18](*1)          asya    —    of him
+[TEXT—9.3,2.17](*2)          asya    —    of it
+[TEXT—13.22](*1)          asya    —    of the living entity
+[TEXT—3.40](*1)          asya    —    of the lust
+[TEXT—11.43,11.18,9.17,6.39,2.40](*5)          asya    —    of this
+[TEXT—15.3-4](*1)          asya    —    of this tree
+[TEXT—11.38](*1)          asya    —    this
+[TEXT—2.72](*1)          asyām    —    being so
+[TEXT—2.11](*1)          asūn    —    life
+[TEXT—17.13](*1)          asṛṣṭa-annam    —    without distribution of prasādam
+[TEXT—3.23](*1)          atandritaḥ    —    with great care
+[TEXT—18.67](*1)          atapaskāya    —    one who is not austere
+[TEXT—18.22](*1)          atattva-arthavat    —    without reality
+[TEXT—13.8-12](*1)          ataḥ    —    from this
+[TEXT—15.18,12.8,9.24](*3)          ataḥ    —    therefore
+[TEXT—2.12](*1)          ataḥ param    —    hereafter
+[TEXT—11.40,11.5,1.26](*3)          atha    —    also
+[TEXT—12.11](*1)          atha    —    even though
+[TEXT—3.36](*1)          atha    —    hereafter
+[TEXT—2.26](*1)          atha    —    if, however
+[TEXT—12.9](*1)          atha    —    if, therefore
+[TEXT—18.58,2.33](*2)          atha    —    therefore
+[TEXT—1.20](*1)          atha    —    thereupon
+[TEXT—11.41-42,10.42,6.42](*3)          athavā    —    or
+[TEXT—4.35](*1)          atho    —    or in other words
+[TEXT—18.77](*1)          ati    —    great
+[TEXT—6.11-12](*1)          ati    —    too
+[TEXT—6.16](*1)          ati    —    too much
+[TEXT—17.8-10](*1)          ati-uṣṇa    —    very hot
+[TEXT—16.1-3](*1)          atimānitā    —    expectation of honor
+[TEXT—2.34](*1)          atiricyate    —    becomes more than
+[TEXT—13.26](*1)          atitaranti    —    transcend
+[TEXT—14.21](*1)          ativartate    —    transcend
+[TEXT—6.44](*1)          ativartate    —    transcends
+[TEXT—18.13-14,10.7,8.5,8.2,1.23,1.4](*6)          atra    —    here
+[TEXT—8.4](*1)          atra    —    in this
+[TEXT—4.16](*1)          atra    —    in this matter
+[TEXT—6.28](*1)          atyantam    —    highest
+[TEXT—7.17](*1)          atyartham    —    highly
+[TEXT—8.28](*1)          atyeti    —    surpasses
+[TEXT—18.12](*1)          atyāginām    —    of the renouncer
+[TEXT—6.20-23](*1)          atīndriyam    —    transcendental
+[TEXT—4.22](*1)          atītaḥ    —    surpassed
+[TEXT—14.21](*1)          atītaḥ    —    transcend
+[TEXT—15.18](*1)          atītaḥ    —    transcendental
+[TEXT—14.20](*1)          atītya    —    transcending
+[TEXT—7.26](*1)          atītāni    —    past
+[TEXT—12.20](*1)          atīva    —    very, very
+[TEXT—6.32](*1)          aupamyena    —    by comparison
+[TEXT—9.16](*1)          auṣadham    —    healing herb
+[TEXT—15.13](*1)          auṣadhīḥ    —    all vegetables
+[TEXT—2.30](*1)          avadhyaḥ    —    cannot be killed
+[TEXT—10.41](*1)          avagaccha    —    you must know
+[TEXT—9.2](*1)          avagamam    —    understood
+[TEXT—11.41-42](*1)          avahāsārtham    —    for joking
+[TEXT—17.22](*1)          avajñātam    —    without proper attention
+[TEXT—9.11](*1)          avajānanti    —    deride
+[TEXT—11.26-27](*1)          avanipāla    —    warrior kings
+[TEXT—2.49](*1)          avaram    —    abominable
+[TEXT—15.11](*1)          avasthitam    —    situated
+[TEXT—13.33,9.4](*2)          avasthitaḥ    —    situated
+[TEXT—1.21-22](*1)          avasthitān    —    arrayed on the battlefield
+[TEXT—1.27](*1)          avasthitān    —    situated
+[TEXT—2.6](*1)          avasthitāḥ    —    are situated
+[TEXT—11.32,1.32-35,1.11](*3)          avasthitāḥ    —    situated
+[TEXT—1.30](*1)          avasthātum    —    to stay
+[TEXT—6.5](*1)          avasādayet    —    put into degradation
+[TEXT—6.18](*1)          avatiṣṭhate    —    becomes situated
+[TEXT—2.65](*1)          avatiṣṭhate    —    established
+[TEXT—14.22-25](*1)          avatiṣṭhati    —    remains
+[TEXT—9.8](*1)          avaśam    —    automatically
+[TEXT—8.19](*1)          avaśaḥ    —    automatically
+[TEXT—6.44](*1)          avaśaḥ    —    helpless
+[TEXT—3.5](*1)          avaśaḥ    —    helplessly
+[TEXT—18.60](*1)          avaśaḥ    —    imperceptibly
+[TEXT—7.2](*1)          avaśiṣyate    —    remains to be known
+[TEXT—16.9](*1)          avaṣṭabhya    —    accepting
+[TEXT—9.8](*1)          avaṣṭabhya    —    enter in
+[TEXT—1.23](*1)          avekṣe    —    let me see
+[TEXT—2.31](*1)          avekṣya    —    considering
+[TEXT—18.20](*1)          avibhaktam    —    undivided
+[TEXT—13.17](*1)          avibhaktam    —    without division
+[TEXT—9.23](*1)          avidhi- pūrvakam    —    in a wrong way
+[TEXT—16.17](*1)          avidhi-pūrvakam    —    without following any rules and regulations
+[TEXT—3.25](*1)          avidvāṁsaḥ    —    the ignorant
+[TEXT—13.16](*1)          avijñeyam    —    unknowable
+[TEXT—10.7](*1)          avikalpena    —    without division
+[TEXT—2.25](*1)          avikāryaḥ    —    unchangeable
+[TEXT—13.28](*1)          avinaśyantam    —    not destroyed
+[TEXT—2.17](*1)          avināśi    —    imperishable
+[TEXT—2.21](*1)          avināśinam    —    indestructible
+[TEXT—2.42-43](*1)          avipaścitaḥ    —    men with a poor fund of knowledge
+[TEXT—14.26](*1)          avyabhicāreṇa    —    without fail
+[TEXT—18.33](*1)          avyabhicāriṇyā    —    without any break
+[TEXT—13.8-12](*1)          avyabhicāriṇī    —    constant, unalloyed
+[TEXT—2.28](*1)          avyakta    —    nonmanifested
+[TEXT—8.18](*1)          avyakta    —    the unmanifest
+[TEXT—12.5](*1)          avyakta    —    unmanifested
+[TEXT—9.4](*1)          avyakta-mūrtinā    —    unmanifested form
+[TEXT—7.24](*1)          avyaktam    —    nonmanifested
+[TEXT—13.6-7](*1)          avyaktam    —    the unmanifested
+[TEXT—12.3-4,12.1](*2)          avyaktam    —    unmanifested
+[TEXT—2.25](*1)          avyaktaḥ    —    invisible
+[TEXT—8.20](*1)          avyaktaḥ    —    unmanifest
+[TEXT—8.21](*1)          avyaktaḥ    —    unmanifested
+[TEXT—12.5](*1)          avyaktā    —    unmanifested
+[TEXT—2.28](*1)          avyaktādīni    —    in the beginning unmanifested
+[TEXT—8.20,8.18](*2)          avyaktāt    —    from the unmanifest
+[TEXT—2.41](*1)          avyavasāyinām    —    of those who are not in Kṛṣṇa consciousness
+[TEXT—4.6](*1)          avyaya    —    without deterioration
+[TEXT—4.13](*1)          avyayam    —    being unchangeable
+[TEXT—15.5,15.1,14.5,11.4](*4)          avyayam    —    eternal
+[TEXT—9.2](*1)          avyayam    —    everlasting
+[TEXT—2.21](*1)          avyayam    —    immutable
+[TEXT—18.20,9.18,7.24,4.1](*4)          avyayam    —    imperishable
+[TEXT—11.2,9.13,7.25,7.13](*4)          avyayam    —    inexhaustible
+[TEXT—18.56](*1)          avyayam    —    —imperishable
+[TEXT—14.27](*1)          avyayasya    —    immortal
+[TEXT—2.17](*1)          avyayasya    —    of the imperishable
+[TEXT—13.32](*1)          avyayaḥ    —    inexhaustable
+[TEXT—15.17,11.18](*2)          avyayaḥ    —    inexhaustible
+[TEXT—2.34](*1)          avyayām    —    forever
+[TEXT—2.36](*1)          avācya    —    unkind
+[TEXT—18.56,16.23](*2)          avāpnoti    —    achieves
+[TEXT—15.8](*1)          avāpnoti    —    gets
+[TEXT—12.10](*1)          avāpsyasi    —    achieve
+[TEXT—2.33](*1)          avāpsyasi    —    do gain
+[TEXT—2.53](*1)          avāpsyasi    —    you will achieve
+[TEXT—2.38](*1)          avāpsyasi    —    you will gain
+[TEXT—3.11](*1)          avāpsyatha    —    do you achieve
+[TEXT—3.22](*1)          avāptavyam    —    to be gained
+[TEXT—6.36](*1)          avāptum    —    to achieve
+[TEXT—2.8](*1)          avāpya    —    achieving
+[TEXT—12.5](*1)          avāpyate    —    achieve
+[TEXT—4.31](*1)          ayajñasya    —    of the foolish
+[TEXT—2.58](*1)          ayam    —    all these
+[TEXT—6.20-23](*1)          ayam    —    in this
+[TEXT—3.36](*1)          ayam    —    one
+[TEXT—17.3,15.9,13.32,11.1,8.19,7.25,6.33,4.40,4.31,3.9,2.20,2.19](*12)          ayam    —    this
+[TEXT—2.30,2.25,2.24](*3)          ayam    —    this soul
+[TEXT—1.11](*1)          ayaneṣu    —    in the strategic points
+[TEXT—18.31](*1)          ayathāvat    —    not perfectly
+[TEXT—6.37](*1)          ayatiḥ    —    unsuccessful transcendentalist
+[TEXT—10.4-5](*1)          ayaśaḥ    —    infamy
+[TEXT—5.6](*1)          ayogataḥ    —    without devotional service
+[TEXT—2.66](*1)          ayuktasya    —    of one devoid of Kṛṣṇa consciousness
+[TEXT—2.66](*1)          ayuktasya    —    of one who is not connected (with Kṛṣṇa consciousness)
+[TEXT—5.12](*1)          ayuktaḥ    —    one who is not in Kṛṣṇa consciousness
+[TEXT—18.28](*1)          ayuktaḥ    —    without reference to the scriptural injunctions
+[TEXT—12.11](*1)          aśaktaḥ    —    unable
+[TEXT—14.12](*1)          aśamaḥ    —    uncontrollable
+[TEXT—1.45](*1)          aśastram    —    without being fully equipped
+[TEXT—11.10-11](*1)          aścaryamayam    —    wonderful
+[TEXT—4.35](*1)          aśesāṇi    —    totally
+[TEXT—6.24](*1)          aśeṣatah    —    completely
+[TEXT—18.11](*1)          aśeṣataḥ    —    altogether
+[TEXT—6.39](*1)          aśeṣataḥ    —    completely
+[TEXT—7.2](*1)          aśeṣataḥ    —    in full
+[TEXT—18.63](*1)          aśeṣeṇa    —    fully
+[TEXT—18.29,10.16](*2)          aśeṣeṇa    —    in detail
+[TEXT—3.13](*1)          aśinaḥ    —    eaters
+[TEXT—14.22-25,6.8](*2)          aśma    —    stone
+[TEXT—5.8-9](*1)          aśnan    —    by eating
+[TEXT—9.20](*1)          aśnanti    —    enjoy
+[TEXT—6.16](*1)          aśnataḥ    —    of one who eats so
+[TEXT—3.4](*1)          aśnute    —    achieve
+[TEXT—6.28](*1)          aśnute    —    attains
+[TEXT—14.20,5.21](*2)          aśnute    —    enjoys
+[TEXT—13.13](*1)          aśnute    —    taste
+[TEXT—9.26](*1)          aśnāmi    —    accept
+[TEXT—9.27](*1)          aśnāsi    —    you eat
+[TEXT—2.11](*1)          aśocyān    —    that which is not worthy of lamentation
+[TEXT—2.24](*1)          aśoṣyaḥ    —    cannot be dried
+[TEXT—4.40](*1)          aśraddadhānaḥ    —    without faith in revealed scriptures
+[TEXT—9.3](*1)          aśraddadhānāḥ    —    those who are faithless
+[TEXT—17.28](*1)          aśraddhayā    —    without faith
+[TEXT—18.74](*1)          aśrauṣam    —    heard
+[TEXT—2.1](*1)          aśru-pūrṇa    —    full of tears
+[TEXT—9.28](*1)          aśubha    —    evil
+[TEXT—12.17](*1)          aśubha    —    inauspicious
+[TEXT—2.57](*1)          aśubham    —    evil
+[TEXT—16.19](*1)          aśubhān    —    inauspicious
+[TEXT—4.16](*1)          aśubhāt    —    from ill fortune
+[TEXT—9.1](*1)          aśubhāt    —    from this miserable material existence
+[TEXT—16.16](*1)          aśucau    —    unclean
+[TEXT—16.10](*1)          aśuci    —    unclean
+[TEXT—18.27](*1)          aśuciḥ    —    unclean
+[TEXT—18.67](*1)          aśuśrūṣave    —    one who is not engaged in devotional service
+[TEXT—15.3-4,15.1](*2)          aśvattham    —    banyan tree
+[TEXT—10.26](*1)          aśvatthaḥ    —    the banyan tree
+[TEXT—1.8](*1)          aśvatthāmā    —    Aśvatthāmā
+[TEXT—11.22](*1)          aśvinau    —    the Aśvinīkumāras
+[TEXT—11.6](*1)          aśvinau    —    the two Asvins
+[TEXT—10.27](*1)          aśvānām    —    among horses
+[TEXT—2.66](*1)          aśāntasya    —    of the unpeaceful
+[TEXT—17.5-6](*1)          aśāstra    —    not mentioned in the scriptures
+[TEXT—8.15](*1)          aśāśvatam    —    temporary
+[TEXT—10.41](*1)          aṁśa    —    partly
+[TEXT—15.7](*1)          aṁśaḥ    —    fragmental particles
+[TEXT—10.42](*1)          aṁśena    —    part
+[TEXT—10.21](*1)          aṁśumān    —    radiant
+[TEXT—2.58](*1)          aṅgāni    —    limbs
+[TEXT—8.9](*1)          aṇoḥ    —    of the atom
+[TEXT—8.9](*1)          aṇīyāṁsam    —    smaller than
+[TEXT—7.4](*1)          aṣṭadhā    —    total eight
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [a]:773

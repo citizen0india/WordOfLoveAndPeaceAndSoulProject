@@ -1,0 +1,144 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [u]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—13.20,5.2](*2)          ubhau    —    both
+[TEXT—2.19](*1)          ubhau    —    both of them
+[TEXT—6.38](*1)          ubhaya    —    both
+[TEXT—5.4,1.24](*2)          ubhayoḥ    —    of both
+[TEXT—2.10,1.26](*2)          ubhayoḥ    —    of both parties
+[TEXT—1.21-22](*1)          ubhayoḥ    —    of both the parties
+[TEXT—2.16](*1)          ubhayoḥ    —    of the two
+[TEXT—2.50](*1)          ubhe    —    in both
+[TEXT—1.12](*1)          uccaiḥ    —    very loudly
+[TEXT—10.27](*1)          uccaiḥśravasam    —    Uccaiḥśravā
+[TEXT—17.8-10](*1)          ucchiṣṭam    —    remnants of food eaten by others
+[TEXT—2.8](*1)          ucchoṣaṇam    —    drying up
+[TEXT—6.11-12](*1)          ucchritam    —    high
+[TEXT—3.40](*1)          ucyate    —    called
+[TEXT—18.23,13.13,8.3,8.1,3.6,2.56,2.48](*7)          ucyate    —    is called
+[TEXT—15.16,13.18,6.8,2.55,2.25](*5)          ucyate    —    is said
+[TEXT—18.28,18.26,18.25,17.28,17.16,17.15,17.14,14.22-25,13.21,6.18,6.4,6.3](*12)          ucyate    —    is said to be
+[TEXT—13.21](*1)          ucyate    —    issaid to be
+[TEXT—17.26-27](*1)          ucyate    —    pronounced
+[TEXT—1.41](*1)          udaka    —    water
+[TEXT—2.46](*1)          udapāne    —    in a well of water
+[TEXT—11.16](*1)          udara    —    bellies
+[TEXT—5.23](*1)          udbhavam    —    generated from
+[TEXT—3.15](*1)          udbhavam    —    produced from
+[TEXT—10.34](*1)          udbhavaḥ    —    generation
+[TEXT—10.40](*1)          uddeśataḥ    —    examples
+[TEXT—6.5](*1)          uddharet    —    one must deliver
+[TEXT—17.21](*1)          uddiśya    —    desiring
+[TEXT—12.15](*1)          udvegaiḥ    —    with anxiety
+[TEXT—12.15](*1)          udvijate    —    agītātes
+[TEXT—5.20](*1)          udvijet    —    agitated
+[TEXT—1.20](*1)          udyamya    —    after taking up
+[TEXT—11.10-11](*1)          udyata    —    uplifted
+[TEXT—1.44](*1)          udyatāḥ    —    trying for
+[TEXT—13.6-7](*1)          udāhṛtam    —    exemplified
+[TEXT—18.24,17.22,17.19](*3)          udāhṛtam    —    is said to be
+[TEXT—18.22](*1)          udāhṛtam    —    is spoken
+[TEXT—18.39](*1)          udāhṛtam    —    issaid to be
+[TEXT—15.17](*1)          udāhṛtaḥ    —    said
+[TEXT—17.24](*1)          udāhṛtya    —    indicating
+[TEXT—7.18](*1)          udārāḥ    —    magnanimous
+[TEXT—14.22-25](*1)          udāsīnavat    —    as if neutral
+[TEXT—9.9](*1)          udāsīnavat    —    as neutral
+[TEXT—12.16](*1)          udāsīnaḥ    —    free from care
+[TEXT—16.9](*1)          ugra-karmāṇaḥ    —    in painful activities
+[TEXT—11.31](*1)          ugra-rūpaḥ    —    fierce form
+[TEXT—11.48](*1)          ugraiḥ    —    severe
+[TEXT—11.20](*1)          ugram    —    terrible
+[TEXT—11.30](*1)          ugrāḥ    —    terrible
+[TEXT—16.24](*1)          uktam    —    as declared
+[TEXT—13.19](*1)          uktam    —    describe
+[TEXT—15.20](*1)          uktam    —    disclosed
+[TEXT—12.20,11.41-42,11.1](*3)          uktam    —    said
+[TEXT—1.24](*1)          uktaḥ    —    addressed
+[TEXT—8.21](*1)          uktaḥ    —    said
+[TEXT—11.50,11.9,2.9,1.46](*4)          uktvā    —    saying
+[TEXT—2.9](*1)          uktvā    —    speaking
+[TEXT—11.21](*1)          uktvā    —    speaking like that
+[TEXT—2.18](*1)          uktāḥ    —    it is so said
+[TEXT—3.38](*1)          ulbena    —    by the womb
+[TEXT—5.8-9](*1)          unmiṣan    —    opening
+[TEXT—4.34](*1)          upadekṣyanti    —    initiate
+[TEXT—7.6](*1)          upadhāraya    —    know
+[TEXT—9.6](*1)          upadhāraya    —    try to understand
+[TEXT—13.23](*1)          upadraṣṭā    —    overseer
+[TEXT—3.24](*1)          upahanyām    —    destroy
+[TEXT—2.7](*1)          upahata    —    being inflicted by
+[TEXT—1.37-38](*1)          upahata    —    overpowered
+[TEXT—8.28](*1)          upaiti    —    achieved peace
+[TEXT—8.10](*1)          upaiti    —    achieves
+[TEXT—6.27](*1)          upaiti    —    attains
+[TEXT—9.28](*1)          upaiṣyasi    —    you will attain
+[TEXT—4.25](*1)          upajuhvati    —    worship
+[TEXT—14.2](*1)          upajāyante    —    comes in
+[TEXT—14.11,2.62](*2)          upajāyate    —    develops
+[TEXT—2.65](*1)          upajāyate    —    takes place
+[TEXT—15.3-4](*1)          upalabhyate    —    can be perceived
+[TEXT—13.33](*1)          upalipyate    —    mixes
+[TEXT—18.36-37](*1)          upamam    —    compared to
+[TEXT—13.19](*1)          upapadyate    —    attains
+[TEXT—2.3](*1)          upapadyate    —    is befitting
+[TEXT—18.7](*1)          upapadyate    —    is deserved
+[TEXT—6.39](*1)          upapadyate    —    to be found
+[TEXT—2.32](*1)          upapannam    —    arrived at
+[TEXT—13.8-12](*1)          upapattiṣu    —    having obtained
+[TEXT—6.20-23](*1)          uparamate    —    when one feels transcendental happiness
+[TEXT—6.25](*1)          uparamet    —    hesitated
+[TEXT—2.35](*1)          uparatam    —    ceased
+[TEXT—1.2](*1)          upasaṅgamya    —    approaching nearby
+[TEXT—15.9](*1)          upasevate    —    enjoys
+[TEXT—1.46](*1)          upasthaḥ    —    situated on
+[TEXT—6.11-12](*1)          upaviśya    —    sitting on
+[TEXT—10.10](*1)          upayānti    —    come
+[TEXT—6.37](*1)          upetaḥ    —    engaged
+[TEXT—8.15](*1)          upetya    —    achieving
+[TEXT—8.16](*1)          upetya    —    arriving
+[TEXT—12.2](*1)          upetāḥ    —    engages
+[TEXT—13.26](*1)          upāsate    —    begin to worship
+[TEXT—12.6-7,9.15,9.14](*3)          upāsate    —    worship
+[TEXT—12.2](*1)          upāsate    —    worships
+[TEXT—1.46](*1)          upāviśat    —    sat down again
+[TEXT—6.36](*1)          upāyataḥ    —    appropriate means
+[TEXT—18.57,14.2](*2)          upāśritya    —    taking shelter of
+[TEXT—4.10](*1)          upāśritāḥ    —    being fully situated
+[TEXT—16.11-12](*1)          upāśritāḥ    —    having taken shelter of them
+[TEXT—11.15](*1)          uragān    —    serpents
+[TEXT—14.9,1.39](*2)          uta    —    it is said
+[TEXT—14.11](*1)          uta    —    said
+[TEXT—15.10](*1)          utkrāmantam    —    quitting the body
+[TEXT—15.8](*1)          utkrāmati    —    gives up
+[TEXT—1.43](*1)          utsanna    —    spoiled
+[TEXT—17.19](*1)          utsādanārtham    —    causing annihilation
+[TEXT—1.42](*1)          utsādyante    —    causes devastation
+[TEXT—3.24](*1)          utsīdeyuḥ    —    put into ruin
+[TEXT—17.1,16.23](*2)          utsṛjya    —    giving up
+[TEXT—9.19](*1)          utsṛjāmi    —    send forth
+[TEXT—11.26-27](*1)          uttama-aṅgaiḥ    —    by the head
+[TEXT—14.14](*1)          uttama-vidām    —    of the great sages
+[TEXT—18.6](*1)          uttamam    —    the best
+[TEXT—6.27](*1)          uttamam    —    the highest
+[TEXT—14.1](*1)          uttamam    —    the supreme
+[TEXT—9.2,4.3](*2)          uttamam    —    transcendental
+[TEXT—1.6](*1)          uttamaujāḥ    —    Uttamaujā
+[TEXT—15.18,15.17](*2)          uttamaḥ    —    the best
+[TEXT—8.24](*1)          uttarāyaṇam    —    when the sun passes on the northern side
+[TEXT—18.39](*1)          uttham    —    produced of
+[TEXT—11.12](*1)          utthitā    —    present
+[TEXT—11.33,2.37](*2)          uttiṣṭha    —    get up
+[TEXT—4.42](*1)          uttiṣṭha    —    stand up to fight
+[TEXT—3.10,2.10,1.46,1.28,1.25,1.24,1.21-22,1.1](*8)          uvāca    —    said
+[TEXT—10.37](*1)          uśanā    —    Uśanā
+[TEXT—6.41](*1)          uṣitvā    —    after dwelling
+[TEXT—11.22](*1)          uṣmapāḥ    —    the forefathers
+[TEXT—12.18-19,6.7](*2)          uṣṇa    —    heat
+[TEXT—2.14](*1)          uṣṇa    —    summer
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [u]:135

@@ -1,0 +1,418 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [v]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.73](*1)          vacanam    —    order
+[TEXT—11.35](*1)          vacanam    —    speech
+[TEXT—1.2](*1)          vacanam    —    words
+[TEXT—10.1](*1)          vacaḥ    —    information
+[TEXT—18.64](*1)          vacaḥ    —    instruction
+[TEXT—11.1,2.10](*2)          vacaḥ    —    words
+[TEXT—3.2](*1)          vada    —    please tell
+[TEXT—11.30](*1)          vadanaiḥ    —    by the mouth
+[TEXT—8.11](*1)          vadanti    —    say
+[TEXT—10.14](*1)          vadasi    —    You tell
+[TEXT—2.29](*1)          vadati    —    speak
+[TEXT—2.36](*1)          vadiṣyanti    —    will say
+[TEXT—3.38](*1)          vahniḥ    —    fire
+[TEXT—9.22](*1)          vahāmi    —    carry
+[TEXT—10.30](*1)          vainateyaḥ    —    Garuḍa
+[TEXT—3.37](*1)          vairiṇam    —    greatest enemy
+[TEXT—18.51-53](*1)          vairāgyam    —    detachment
+[TEXT—13.8-12](*1)          vairāgyam    —    renunciation
+[TEXT—6.35](*1)          vairāgyeṇa    —    by detachment
+[TEXT—15.14](*1)          vaiśvānaraḥ    —    by My plenary portion as the digesting fire
+[TEXT—18.44](*1)          vaiśya    —    vaiśya
+[TEXT—9.32](*1)          vaiśyāḥ    —    mercantile people
+[TEXT—10.28](*1)          vajram    —    the thunderbolt
+[TEXT—11.23](*1)          vaktra    —    faces
+[TEXT—11.16,11.10-11](*2)          vaktra    —    mouths
+[TEXT—11.29](*1)          vaktrāṇi    —    in the mouths
+[TEXT—11.28](*1)          vaktrāṇi    —    into the mouths
+[TEXT—11.26-27](*1)          vaktrāṇi    —    mouths
+[TEXT—10.16](*1)          vaktum    —    to say
+[TEXT—8.23](*1)          vakṣyāmi    —    describing
+[TEXT—10.1](*1)          vakṣyāmi    —    say
+[TEXT—7.2](*1)          vakṣyāmi    —    shall explain
+[TEXT—18.64](*1)          vakṣyāmi    —    speaking
+[TEXT—8.4](*1)          vara    —    the Supreme
+[TEXT—4.19](*1)          varjitāḥ    —    are devoid of
+[TEXT—6.31](*1)          vartamānaḥ    —    being situated
+[TEXT—13.24](*1)          vartamānaḥ    —    situated
+[TEXT—7.26](*1)          vartamānāni    —    present
+[TEXT—3.28](*1)          vartante    —    being engaged
+[TEXT—14.22-25](*1)          vartante    —    is situated
+[TEXT—5.8-9](*1)          vartante    —    let them be so engaged
+[TEXT—5.26](*1)          vartate    —    is there
+[TEXT—16.23,6.31](*2)          vartate    —    remains
+[TEXT—3.22](*1)          varte    —    engaged
+[TEXT—6.6](*1)          varteta    —    remains
+[TEXT—3.23](*1)          varteyam    —    thus engage
+[TEXT—4.11,3.23](*2)          vartma    —    path
+[TEXT—9.3](*1)          vartmani    —    on the path of
+[TEXT—10.29](*1)          varuṇaḥ    —    the demigod controlling the water
+[TEXT—11.39](*1)          varuṇaḥ    —    water
+[TEXT—11.5](*1)          varṇa    —    colored
+[TEXT—1.42](*1)          varṇa-saṅkara    —    unwanted children
+[TEXT—1.40](*1)          varṇa-saṅkaraḥ    —    unwanted progeny
+[TEXT—11.24](*1)          varṇam    —    color
+[TEXT—9.19](*1)          varṣam    —    rain
+[TEXT—11.22](*1)          vasavaḥ    —    the Vasus
+[TEXT—11.6](*1)          vasūn    —    the eight Vasus
+[TEXT—10.23](*1)          vasūnām    —    of the Vasus
+[TEXT—1.36](*1)          vayam    —    us
+[TEXT—2.12,1.44](*2)          vayam    —    we
+[TEXT—6.26,3.34](*2)          vaśam    —    control
+[TEXT—2.61](*1)          vaśe    —    in full subjugation
+[TEXT—6.36](*1)          vaśya    —    controlled
+[TEXT—9.8](*1)          vaśāt    —    under obligation
+[TEXT—5.13](*1)          vaśī    —    one who is controlled
+[TEXT—3.12](*1)          vaḥ    —    unto you
+[TEXT—3.11](*1)          vaḥ    —    you
+[TEXT—3.10](*1)          vaḥ    —    your
+[TEXT—11.48](*1)          veda    —    Vedic study
+[TEXT—4.5,2.29](*2)          veda    —    do know
+[TEXT—2.21](*1)          veda    —    in knowledge
+[TEXT—7.26](*1)          veda    —    know
+[TEXT—15.1,7.26](*2)          veda    —    knows
+[TEXT—8.11](*1)          veda-vidaḥ    —    a person conversant with the Vedas
+[TEXT—15.15](*1)          veda-vit    —    the knower of the Vedas
+[TEXT—2.42-43](*1)          veda-vāda-ratāḥ    —    supposed followers of the Vedas
+[TEXT—11.53](*1)          vedaiḥ    —    by study of the Vedas
+[TEXT—15.15](*1)          vedaiḥ    —    by the Vedas
+[TEXT—15.18](*1)          vede    —    in the Vedic literature
+[TEXT—2.46](*1)          vedeṣu    —    Vedic literatures
+[TEXT—7.8](*1)          vedeṣu    —    in the Vedas
+[TEXT—8.28](*1)          vedeṣu    —    in the study of the Vedas
+[TEXT—11.18](*1)          veditavyam    —    to be understood
+[TEXT—18.1,13.1-2](*2)          veditum    —    to understand
+[TEXT—9.17](*1)          vedyam    —    what is to be known
+[TEXT—11.38](*1)          vedyam ca    —    and the knowable
+[TEXT—15.15](*1)          vedyaḥ    —    knowable
+[TEXT—15.15](*1)          vedānta-kṛt    —    the compiler of the Vedānta
+[TEXT—10.22](*1)          vedānām    —    of all the Vedas
+[TEXT—2.45](*1)          vedāḥ    —    Vedic literatures
+[TEXT—17.23](*1)          vedāḥ    —    the Vedic literature
+[TEXT—5.23](*1)          vegam    —    urge
+[TEXT—11.29](*1)          vegāḥ    —    speed
+[TEXT—11.35](*1)          vepamānaḥ    —    trembling
+[TEXT—1.29](*1)          vepathuḥ    —    trembling of the body
+[TEXT—10.15,4.5](*2)          vettha    —    know
+[TEXT—7.3](*1)          vetti    —    does know
+[TEXT—14.19](*1)          vetti    —    know
+[TEXT—18.30,13.1-2,10.7,10.3,6.20-23,4.9,2.19](*7)          vetti    —    knows
+[TEXT—18.21](*1)          vetti    —    one who knows
+[TEXT—13.24](*1)          vetti    —    understands
+[TEXT—11.38](*1)          vettā    —    knower
+[TEXT—13.17](*1)          vibhaktam    —    divided
+[TEXT—18.20](*1)          vibhakteṣu    —    in the numberless divided
+[TEXT—2.63](*1)          vibhramaḥ    —    bewilderment
+[TEXT—6.38](*1)          vibhraṣṭaḥ    —    deviated from
+[TEXT—10.12-13](*1)          vibhum    —    greatest
+[TEXT—5.15](*1)          vibhuḥ    —    the Supreme Lord
+[TEXT—3.28](*1)          vibhāgayoḥ    —    differences
+[TEXT—4.13](*1)          vibhāgaśaḥ    —    in terms of division
+[TEXT—7.9](*1)          vibhāvasau    —    in the fire
+[TEXT—10.16](*1)          vibhūtayaḥ    —    opulences
+[TEXT—10.40](*1)          vibhūteḥ    —    opulences
+[TEXT—10.41](*1)          vibhūti    —    opulences
+[TEXT—10.16](*1)          vibhūtibhiḥ    —    opulences
+[TEXT—10.18](*1)          vibhūtim    —    opulences
+[TEXT—10.7](*1)          vibhūtiṁ    —    opulence
+[TEXT—10.40](*1)          vibhūtīnam    —    opulences
+[TEXT—18.2](*1)          vicakṣaṇāḥ    —    the experienced
+[TEXT—9.12](*1)          vicetasaḥ    —    bewildered
+[TEXT—3.29](*1)          vicālayet    —    try to agitate
+[TEXT—6.20-23](*1)          vicālyate    —    becomes shaken
+[TEXT—14.22-25](*1)          vicālyate    —    is agitated
+[TEXT—7.21](*1)          vidadhāmi    —    give
+[TEXT—8.17](*1)          vidaḥ    —    understand
+[TEXT—7.5](*1)          viddhi    —    just try to understand
+[TEXT—17.12,14.7,13.20,13.3,10.27,3.37](*6)          viddhi    —    know
+[TEXT—2.17](*1)          viddhi    —    know it
+[TEXT—3.32](*1)          viddhi    —    know it well
+[TEXT—14.8](*1)          viddhi    —    knowing
+[TEXT—18.20](*1)          viddhi    —    knows
+[TEXT—18.21](*1)          viddhi    —    must be known
+[TEXT—13.20](*1)          viddhi    —    must know
+[TEXT—3.15](*1)          viddhi    —    one should know
+[TEXT—7.12](*1)          viddhi    —    try to know
+[TEXT—7.10,4.34](*2)          viddhi    —    try to understand
+[TEXT—17.5-6,15.12,10.24](*3)          viddhi    —    understand
+[TEXT—4.13](*1)          viddhi    —    you may know
+[TEXT—6.2](*1)          viddhi    —    you must know
+[TEXT—4.32](*1)          viddhi    —    you should know
+[TEXT—2.64](*1)          vidheyātmā    —    one who follows regulated freedom
+[TEXT—17.11](*1)          vidhi    —    accordingly
+[TEXT—17.13](*1)          vidhi-hīnam    —    without scriptural direction
+[TEXT—16.24](*1)          vidhāna    —    regulations
+[TEXT—17.24](*1)          vidhāna-uktāḥ    —    according to scriptural regulation
+[TEXT—2.44](*1)          vidhīyate    —    does take place
+[TEXT—5.26](*1)          vidita-ātmanām    —    of those who are self-realized
+[TEXT—8.28](*1)          viditvā    —    knowing
+[TEXT—2.25](*1)          viditvā    —    knowing it well
+[TEXT—2.6](*1)          vidmaḥ    —    do know
+[TEXT—10.14](*1)          viduḥ    —    can know
+[TEXT—18.2,16.7,7.30](*3)          viduḥ    —    know
+[TEXT—8.17](*1)          viduḥ    —    know it
+[TEXT—13.35,10.2](*2)          viduḥ    —    knows
+[TEXT—7.29](*1)          viduḥ    —    they know
+[TEXT—4.2](*1)          viduḥ    —    understood
+[TEXT—3.26](*1)          vidvān    —    learned
+[TEXT—3.25](*1)          vidvān    —    the learned
+[TEXT—3.17,2.31](*2)          vidyate    —    exist
+[TEXT—6.40,4.38](*2)          vidyate    —    exists
+[TEXT—8.16](*1)          vidyate    —    takes to
+[TEXT—16.7,2.40,2.16](*3)          vidyate    —    there is
+[TEXT—5.18](*1)          vidyā    —    education
+[TEXT—10.17](*1)          vidyām aham    —    shall I know
+[TEXT—10.32](*1)          vidyānām    —    of all education
+[TEXT—14.11](*1)          vidyāt    —    must know
+[TEXT—6.20-23](*1)          vidyāt    —    you must know
+[TEXT—17.8-10](*1)          vidāhinaḥ    —    burning
+[TEXT—5.27-28](*1)          vigata    —    discarded
+[TEXT—6.28](*1)          vigata    —    is freed from
+[TEXT—6.13-14](*1)          vigata-bhīḥ    —    devoid of fear
+[TEXT—3.30](*1)          vigata-jvaraḥ    —    without being lethargic
+[TEXT—2.56](*1)          vigata-spṛhaḥ    —    without being too interested
+[TEXT—11.1](*1)          vigataḥ    —    iseducated
+[TEXT—3.35](*1)          viguṇaḥ    —    even faulty
+[TEXT—18.47](*1)          viguṇaḥ    —    imperfectly performed
+[TEXT—17.5-6](*1)          vihitam    —    directed
+[TEXT—7.22](*1)          vihitān    —    regulated
+[TEXT—17.23](*1)          vihitāḥ    —    sacrifice
+[TEXT—11.41-42](*1)          vihāra    —    in relaxation
+[TEXT—6.17](*1)          vihārasya    —    recreation
+[TEXT—2.71](*1)          vihāya    —    after giving up
+[TEXT—2.22](*1)          vihāya    —    giving up
+[TEXT—1.31](*1)          vijayam    —    victory
+[TEXT—18.78](*1)          vijayaḥ    —    victory
+[TEXT—6.8](*1)          vijita-indriyaḥ    —    sensually controlled
+[TEXT—5.7](*1)          vijita-ātmā    —    self-controlled
+[TEXT—9.1,6.8](*2)          vijñāna    —    realized knowledge
+[TEXT—3.41](*1)          vijñāna    —    scientific knowledge of the pure soul
+[TEXT—18.42](*1)          vijñānam    —    knowledge
+[TEXT—7.2](*1)          vijñānam    —    noumenal knowledge
+[TEXT—11.31](*1)          vijñātum    —    just to know
+[TEXT—13.19](*1)          vijñāya    —    after understanding
+[TEXT—2.46](*1)          vijānataḥ    —    of one who is in complete knowledge
+[TEXT—2.19](*1)          vijānītaḥ    —    in knowledge
+[TEXT—4.4](*1)          vijānīyām    —    shall I understand
+[TEXT—2.31](*1)          vikampitum    —    to hesitate
+[TEXT—4.17](*1)          vikarmaṇaḥ    —    forbidden work
+[TEXT—1.8](*1)          vikarṇaḥ    —    Vikarṇa
+[TEXT—1.6](*1)          vikrāntaḥ    —    mighty
+[TEXT—13.4](*1)          vikāri    —    changes
+[TEXT—13.20](*1)          vikārān    —    transformation
+[TEXT—11.26-27](*1)          vilagnāḥ    —    being attacked
+[TEXT—4.22](*1)          vimatsaraḥ    —    free from envy
+[TEXT—3.40](*1)          vimohayati    —    bewilders
+[TEXT—16.13-15](*1)          vimohitāḥ    —    deluded by
+[TEXT—5.23](*1)          vimokṣaṇāt    —    giving up
+[TEXT—4.32](*1)          vimokṣyase    —    be liberated
+[TEXT—16.5](*1)          vimokṣāya    —    meant for liberation
+[TEXT—18.51-53](*1)          vimucya    —    being delivered
+[TEXT—2.72](*1)          vimuhyati    —    bewilders
+[TEXT—2.64](*1)          vimuktaiḥ    —    by one who has been free from such things
+[TEXT—14.20](*1)          vimuktaḥ    —    being freed from
+[TEXT—16.21](*1)          vimuktaḥ    —    being liberated
+[TEXT—9.28](*1)          vimuktaḥ    —    liberated
+[TEXT—5.26](*1)          vimuktānām    —    of those who are so liberated
+[TEXT—15.5](*1)          vimuktāḥ    —    liberated
+[TEXT—18.35](*1)          vimuñcati    —    is liberated
+[TEXT—3.6](*1)          vimūḍha    —    foolish
+[TEXT—11.49](*1)          vimūḍha-bhāvaḥ    —    bewilderment
+[TEXT—6.38](*1)          vimūḍhaḥ    —    bewildered
+[TEXT—3.32](*1)          vimūḍhān    —    perfectly befooled
+[TEXT—15.10](*1)          vimūḍhāḥ    —    foolish persons
+[TEXT—18.63](*1)          vimṛśya    —    by deliberation
+[TEXT—1.12](*1)          vinadya    —    vibrating
+[TEXT—5.18](*1)          vinaya    —    gentleness
+[TEXT—8.20](*1)          vinaśyati    —    annihilated
+[TEXT—4.40](*1)          vinaśyati    —    falls back
+[TEXT—13.28](*1)          vinaśyatsu    —    in the destructible
+[TEXT—18.58](*1)          vinaṅkṣyasi    —    then lose yourself
+[TEXT—5.4](*1)          vindate    —    enjoys
+[TEXT—18.46](*1)          vindati    —    achieves
+[TEXT—18.45](*1)          vindati    —    attains, tat—that
+[TEXT—5.21,4.38](*2)          vindati    —    enjoys
+[TEXT—11.24](*1)          vindāmi    —    and have
+[TEXT—17.16](*1)          vinigrahaḥ    —    control
+[TEXT—2.51](*1)          vinirmuktāḥ    —    liberated souls
+[TEXT—2.59](*1)          vinivartante    —    are practiced to be refrained from
+[TEXT—15.5](*1)          vinivṛtta    —    associated
+[TEXT—6.24](*1)          viniyamya    —    regulating
+[TEXT—6.18](*1)          viniyatam    —    particularly disciplined
+[TEXT—13.5](*1)          viniścitaiḥ    —    ascertain
+[TEXT—10.39](*1)          vinā    —    without
+[TEXT—2.17](*1)          vināśam    —    destruction
+[TEXT—6.40](*1)          vināśaḥ    —    destruction
+[TEXT—4.8](*1)          vināśāya    —    for the annihilation
+[TEXT—9.10](*1)          viparivartate    —    is working
+[TEXT—18.15](*1)          viparītam    —    the opposite
+[TEXT—18.32](*1)          viparītān    —    the wrong direction
+[TEXT—1.30](*1)          viparītāni    —    just the opposite
+[TEXT—2.60](*1)          vipaścitaḥ    —    full of discriminating knowledge
+[TEXT—2.53](*1)          vipratipannā    —    without being influenced by the fruitive results of the Vedas
+[TEXT—17.13](*1)          virahitam    —    without
+[TEXT—1.4](*1)          virāṭaḥ    —    Virāṭa
+[TEXT—1.16-18](*1)          virāṭaḥ    —    Virāṭa (the prince who gave shelter to the Pāṇḍavas while they were in disguise)
+[TEXT—8.3](*1)          visargaḥ    —    creation
+[TEXT—18.77](*1)          vismayaḥ    —    wonder
+[TEXT—11.14](*1)          vismayāviṣṭaḥ    —    being overwhelmed with wonder
+[TEXT—11.22](*1)          vismitāḥ    —    in wonder
+[TEXT—10.19](*1)          vistarasya    —    to the extent
+[TEXT—16.6](*1)          vistaraśaḥ    —    at great length
+[TEXT—11.2](*1)          vistaraśaḥ    —    detail
+[TEXT—10.40](*1)          vistaraḥ    —    expanded
+[TEXT—10.18](*1)          vistareṇa    —    in description
+[TEXT—13.31](*1)          vistāram    —    expanded
+[TEXT—5.8-9](*1)          visṛjan    —    by giving up
+[TEXT—1.46](*1)          visṛjya    —    keeping aside
+[TEXT—9.7](*1)          visṛjāmi    —    I create
+[TEXT—9.8](*1)          visṛjāmi    —    create
+[TEXT—4.32](*1)          vitatāḥ    —    widespread
+[TEXT—10.23](*1)          vitteśaḥ    —    the lord of the treasury
+[TEXT—17.8-10](*1)          vivardhanāḥ    —    increasing
+[TEXT—13.15](*1)          vivarjitam    —    being without
+[TEXT—7.11](*1)          vivarjitam    —    devoid of
+[TEXT—4.4](*1)          vivasvataḥ    —    of the sun-god
+[TEXT—4.1](*1)          vivasvate    —    unto the sun-god
+[TEXT—4.1](*1)          vivasvān    —    Vivasvān (the sun-god's name)
+[TEXT—13.5](*1)          vividhaiḥ    —    in various
+[TEXT—17.25](*1)          vividhāḥ    —    varieties
+[TEXT—18.13-14](*1)          vividhāḥ ca    —    varieties
+[TEXT—13.8-12](*1)          vivikta    —    solitary
+[TEXT—18.51-53](*1)          vivikta-sevī    —    living in a secluded place
+[TEXT—14.11](*1)          vivṛddham    —    increased
+[TEXT—14.13](*1)          vivṛddhe    —    is developed
+[TEXT—14.12](*1)          vivṛddhe    —    when there is excess
+[TEXT—6.20-23](*1)          viyogam    —    extermination
+[TEXT—11.29,11.28,11.26-27,11.21](*4)          viśanti    —    entering
+[TEXT—11.29,8.11](*2)          viśanti    —    enters
+[TEXT—9.21](*1)          viśanti    —    fall down
+[TEXT—18.55](*1)          viśate    —    enters
+[TEXT—11.15](*1)          viśeṣa-saṅghān    —    specifically assembled
+[TEXT—3.7](*1)          viśiṣyate    —    by far the better
+[TEXT—7.17](*1)          viśiṣyate    —    especially
+[TEXT—12.12](*1)          viśiṣyate    —    especially considered
+[TEXT—5.2](*1)          viśiṣyate    —    is better
+[TEXT—1.7](*1)          viśiṣṭāḥ    —    especially powerful
+[TEXT—5.7](*1)          viśuddha-ātmā    —    a purified soul
+[TEXT—6.11-12](*1)          viśuddhaye    —    for clarifying
+[TEXT—18.51-53](*1)          viśuddhayā    —    fully purified
+[TEXT—11.46](*1)          viśva-mūrte    —    O universal form
+[TEXT—11.47](*1)          viśvam    —    the entire universe
+[TEXT—11.19](*1)          viśvam    —    this universe
+[TEXT—11.38](*1)          viśvam    —    universe
+[TEXT—11.18](*1)          viśvasya    —    of the universe
+[TEXT—11.38](*1)          viśvasya    —    universe
+[TEXT—11.10-11](*1)          viśvataḥ-mukham    —    all-pervading
+[TEXT—9.15](*1)          viśvataḥ-mukham    —    in the universal form
+[TEXT—10.33](*1)          viśvato-mukhaḥ    —    Brahmā
+[TEXT—11.22](*1)          viśve    —    the Viśvadevas
+[TEXT—11.16](*1)          viśveśvara    —    O Lord of the universe
+[TEXT—11.24](*1)          viśāla    —    very great
+[TEXT—9.21](*1)          viśālam    —    vast
+[TEXT—18.41](*1)          viśām    —    the v aiśyas
+[TEXT—1.9](*1)          viśāradāḥ    —    experienced in military science
+[TEXT—18.38,18.36-37](*2)          viṣam iva    —    like poison
+[TEXT—2.2](*1)          viṣame    —    this hour of crisis
+[TEXT—18.38](*1)          viṣaya    —    objects of sense
+[TEXT—15.2](*1)          viṣaya    —    sense objects
+[TEXT—4.26](*1)          viṣayān    —    objects of sense gratification
+[TEXT—18.51-53,15.9,2.64,2.62](*4)          viṣayān    —    sense objects
+[TEXT—2.59](*1)          viṣayāḥ    —    objects for sense enjoyment
+[TEXT—2.45](*1)          viṣayāḥ    —    on the subject matter
+[TEXT—11.16](*1)          viṣva-rūpa    —    in the form of the universe
+[TEXT—18.35](*1)          viṣādam    —    moroseness
+[TEXT—18.28](*1)          viṣādī    —    morose
+[TEXT—1.27](*1)          viṣīdan    —    while lamenting
+[TEXT—2.1](*1)          viṣīdantam    —    lamenting
+[TEXT—2.10](*1)          viṣīdantam    —    unto the lamenting one
+[TEXT—11.24](*1)          viṣṇo    —    O Lord Viṣṇu
+[TEXT—11.30](*1)          viṣṇo    —    O all-pervading Lord
+[TEXT—10.21](*1)          viṣṇuḥ    —    the Supreme Lord
+[TEXT—10.42](*1)          viṣṭabhya    —    entire
+[TEXT—13.18](*1)          viṣṭhitam    —    situated
+[TEXT—18.66](*1)          vraja    —    go
+[TEXT—2.54](*1)          vrajeta    —    walk
+[TEXT—16.10](*1)          vratāḥ    —    avowed
+[TEXT—1.19](*1)          vyadārayat    —    shattered
+[TEXT—2.28](*1)          vyakta    —    manifested
+[TEXT—8.18](*1)          vyaktayaḥ    —    living entities
+[TEXT—7.24](*1)          vyaktim    —    personality
+[TEXT—10.14](*1)          vyaktim    —    revelation
+[TEXT—3.18](*1)          vyapa-āśrayaḥ    —    taking shelter of
+[TEXT—11.49](*1)          vyapetabhīḥ    —    just become free from all fear
+[TEXT—18.56](*1)          vyapāśrayah    —    protection
+[TEXT—9.32](*1)          vyapāśrītya    —    particularly taking shelter
+[TEXT—14.2](*1)          vyathanti    —    disturbed
+[TEXT—2.15](*1)          vyathayanti    —    are distressing
+[TEXT—11.34](*1)          vyathiṣṭhāḥ    —    be disturbed
+[TEXT—11.49](*1)          vyathā    —    trouble
+[TEXT—2.52](*1)          vyatitariṣyati    —    surpasses
+[TEXT—4.5](*1)          vyatītāni    —    have passed
+[TEXT—9.30](*1)          vyavasitaḥ    —    situated
+[TEXT—1.44](*1)          vyavasitāḥ    —    decided
+[TEXT—16.24](*1)          vyavasthitau    —    in determining
+[TEXT—3.34](*1)          vyavasthitau    —    put under regulations
+[TEXT—16.1-3](*1)          vyavasthitiḥ    —    the situation
+[TEXT—1.20](*1)          vyavasthitān    —    situated
+[TEXT—18.59](*1)          vyavasāyah te    —    your determination
+[TEXT—10.36](*1)          vyavasāyaḥ    —    adventure
+[TEXT—2.44](*1)          vyavasāyātmikā    —    fixed determination
+[TEXT—2.41](*1)          vyavasāyātmikā    —    resolute Kṛṣṇa consciousness
+[TEXT—18.51-53](*1)          vyudasya    —    having laid aside
+[TEXT—13.8-12](*1)          vyādhi    —    disease
+[TEXT—8.13](*1)          vyāharan    —    vibrating
+[TEXT—3.2](*1)          vyāmiśreṇa    —    by equivocal
+[TEXT—11.20](*1)          vyāptam    —    pervaded
+[TEXT—10.16](*1)          vyāpya    —    pervading
+[TEXT—18.75](*1)          vyāsa-prasādāt    —    by the mercy of Vyāsadeva
+[TEXT—10.12-13](*1)          vyāsaḥ    —    Vyāsa
+[TEXT—10.37](*1)          vyāsaḥ    —    Vyāsa, the compiler of allVedic literature
+[TEXT—11.24](*1)          vyāttā    —    open
+[TEXT—1.2](*1)          vyūḍham    —    arranged in military phalanx
+[TEXT—1.3](*1)          vyūḍhām    —    arranged
+[TEXT—8.6,2.37,2.26,2.20,2.6,1.32-35](*6)          vā    —    either
+[TEXT—18.40,18.24,18.15,17.21,17.19,15.10,10.41,6.32,2.37,2.20,2.6](*11)          vā    —    or
+[TEXT—11.41-42](*1)          vāapi    —    either
+[TEXT—2.42-43](*1)          vācam    —    words
+[TEXT—18.67](*1)          vācyam    —    to be spoken
+[TEXT—10.32](*1)          vādaḥ    —    natural conclusion
+[TEXT—2.42-43](*1)          vādinaḥ    —    advocates
+[TEXT—2.36](*1)          vādān    —    fabricated words
+[TEXT—18.15](*1)          vāk    —    speech
+[TEXT—17.15,2.1,1.20](*3)          vākyam    —    words
+[TEXT—3.2](*1)          vākyena    —    words
+[TEXT—15.10](*1)          vāpi    —    either
+[TEXT—3.36,1.40](*2)          vārṣṇeya    —    O descendant of Vṛṣṇi
+[TEXT—10.22](*1)          vāsavaḥ    —    heavenly king
+[TEXT—1.43](*1)          vāsaḥ    —    residence
+[TEXT—18.74](*1)          vāsudevasya    —    of Kṛṣṇa
+[TEXT—11.50](*1)          vāsudevaḥ    —    Kṛṣṇa
+[TEXT—10.37](*1)          vāsudevaḥ    —    Kṛṣṇa in Dvāraka
+[TEXT—7.19](*1)          vāsudevaḥ    —    cause of all causes
+[TEXT—10.28](*1)          vāsukiḥ    —    Vāsuki
+[TEXT—2.22](*1)          vāsāṁsi    —    garments
+[TEXT—6.34](*1)          vāyoḥ    —    of the wind
+[TEXT—15.8,11.39,7.4](*3)          vāyuḥ    —    air
+[TEXT—9.6,2.67](*2)          vāyuḥ    —    wind
+[TEXT—17.15](*1)          vāṅmayaṁ    —    of the voice
+[TEXT—18.44](*1)          vāṇijyam    —    trade
+[TEXT—11.22](*1)          vīkṣante    —    are seeing
+[TEXT—11.19](*1)          vīryam    —    glorious
+[TEXT—1.6,1.5](*2)          vīryavān    —    very powerful
+[TEXT—2.56](*1)          vīta    —    free from
+[TEXT—4.10](*1)          vīta    —    freed from
+[TEXT—8.11](*1)          vīta-rāgāh    —    in the renounced order of life
+[TEXT—4.36](*1)          vṛjinam    —    the ocean of miseries
+[TEXT—1.15](*1)          vṛkodaraḥ    —    the voracious eater (Bhīma)
+[TEXT—14.18](*1)          vṛtti-sthāḥ    —    occupation
+[TEXT—10.37](*1)          vṛṣṇīnām    —    of the descendants of Vṛṣṇi
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [v]:409

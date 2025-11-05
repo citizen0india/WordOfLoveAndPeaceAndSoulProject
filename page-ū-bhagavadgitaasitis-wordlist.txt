@@ -1,0 +1,15 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ū]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—15.1](*1)          ūrdhva- mūlam    —    with roots above
+[TEXT—12.8](*1)          ūrdhvam    —    up
+[TEXT—15.2](*1)          ūrdhvam    —    upward
+[TEXT—14.18](*1)          ūrdhvam    —    upwards
+[TEXT—10.41](*1)          ūrjitam    —    glorious
+[TEXT—11.23](*1)          ūru    —    thighs
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ū]:6

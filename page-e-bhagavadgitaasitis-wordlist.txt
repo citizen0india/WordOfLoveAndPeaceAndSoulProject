@@ -1,0 +1,113 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [e]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—7.13](*1)          ebhiḥ    —    all this
+[TEXT—18.40](*1)          ebhiḥ    —    by this
+[TEXT—7.13](*1)          ebhyaḥ    —    above these
+[TEXT—3.12](*1)          ebhyaḥ    —    to the demigods
+[TEXT—4.37](*1)          edhāṁsi    —    firewood
+[TEXT—10.42](*1)          eka    —    one
+[TEXT—7.17](*1)          eka    —    only one
+[TEXT—8.13](*1)          eka-akṣaram    —    supreme, indestructible
+[TEXT—13.31](*1)          eka-stham    —    situated in one
+[TEXT—5.4](*1)          ekam    —    in one
+[TEXT—18.20,5.5,5.1](*3)          ekam    —    one
+[TEXT—18.66](*1)          ekam    —    only
+[TEXT—3.2](*1)          ekam    —    only one
+[TEXT—18.22](*1)          ekasmin    —    in one
+[TEXT—11.7](*1)          ekastham    —    in one
+[TEXT—11.13](*1)          ekastham    —    one place
+[TEXT—6.31](*1)          ekatvam    —    oneness
+[TEXT—9.15](*1)          ekatvena    —    in oneness
+[TEXT—8.26](*1)          ekayā    —    by one
+[TEXT—11.41-42](*1)          ekaḥ    —    alone
+[TEXT—13.34](*1)          ekaḥ    —    one
+[TEXT—18.3](*1)          eke    —    one group
+[TEXT—11.20](*1)          ekena    —    by one
+[TEXT—2.41](*1)          ekā    —    only one
+[TEXT—6.11-12](*1)          ekāgram    —    one attention
+[TEXT—18.72](*1)          ekāgreṇa    —    with full attention
+[TEXT—6.10](*1)          ekākī    —    alone
+[TEXT—6.16](*1)          ekāntam    —    very low
+[TEXT—2.26](*1)          enam    —    about the soul
+[TEXT—11.50](*1)          enam    —    him
+[TEXT—15.11,15.3-4,6.27,4.42,3.41,3.37,2.19](*7)          enam    —    this
+[TEXT—2.21](*1)          enam    —    this (soul)
+[TEXT—2.29,2.26,2.25](*3)          enam    —    this soul
+[TEXT—2.23](*1)          enam    —    unto this soul
+[TEXT—2.72](*1)          enām    —    this
+[TEXT—1.42](*1)          etaiḥ    —    all these
+[TEXT—3.40](*1)          etaiḥ    —    by all these
+[TEXT—16.21](*1)          etaiḥ    —    by these
+[TEXT—6.33](*1)          etasya    —    of this
+[TEXT—13.19,13.8-12,13.6-7,13.1-2](*4)          etat    —    all this
+[TEXT—2.3](*1)          etat    —    like this
+[TEXT—18.63](*1)          etat    —    that
+[TEXT—17.16](*1)          etat    —    that is
+[TEXT—16.21,10.14](*2)          etat    —    these
+[TEXT—7.6](*1)          etat    —    these two natures
+[TEXT—18.75,18.72,17.26-27,15.20,13.1-2,12.11,11.3,6.42,6.26,4.4,4.3,3.32,2.6](*13)          etat    —    this
+[TEXT—6.39](*1)          etat    —    this is
+[TEXT—11.35](*1)          etat    —    thus
+[TEXT—5.1](*1)          etayoḥ    —    of these two
+[TEXT—18.15,11.33,8.27,8.26,4.30,2.15](*6)          ete    —    all these
+[TEXT—7.18](*1)          ete    —    these
+[TEXT—1.37-38](*1)          ete    —    they
+[TEXT—1.23](*1)          ete    —    those
+[TEXT—3.39](*1)          etena    —    by this
+[TEXT—10.42](*1)          etena    —    by this kind
+[TEXT—1.10](*1)          eteṣām    —    of the Pāṇḍavas
+[TEXT—11.55](*1)          eti    —    comes
+[TEXT—4.9](*1)          eti    —    does attain
+[TEXT—8.6](*1)          eti    —    gets
+[TEXT—10.7](*1)          etām    —    all this
+[TEXT—1.3](*1)          etām    —    this
+[TEXT—16.9](*1)          etām    —    thus
+[TEXT—1.25](*1)          etān    —    all of them
+[TEXT—14.20,1.36,1.32-35,1.21-22](*4)          etān    —    all these
+[TEXT—14.26,14.21](*2)          etān    —    all this
+[TEXT—14.21](*1)          etān    —    these
+[TEXT—18.13-14,15.8](*2)          etāni    —    all these
+[TEXT—18.6,14.12](*2)          etāni    —    all this
+[TEXT—14.13](*1)          etāni    —    these
+[TEXT—16.11-12](*1)          etāvat    —    thus
+[TEXT—7.22](*1)          eva    —    alone
+[TEXT—15.9,13.16,11.35,10.38,10.4-5,9.24,3.20](*7)          eva    —    also
+[TEXT—18.68,18.65,18.62,18.50,18.42,18.35,18.31,18.29,18.19,18.13-14,18.9,18.8,17.26-27,17.18,17.15,17.12,17.11,17.5-6,17.3,16.20,16.19,16.6,16.4,15.16,15.15,15.7,15.3-4,14.17,14.13,13.30,13.26,13.20,13.15,13.8-12,13.6-7,13.5,13.1-2,12.13-14,12.8,12.6-7,12.3-4,11.45,11.33,11.28,11.22,11.8,10.41,10.33,10.32,10.20,10.15,10.12-13,10.11,10.4-5,9.30,9.19,9.17,9.16,9.12,8.28,8.23,8.18,8.10,7.14,7.4,6.44,6.42,6.26,6.24,6.20-23,6.18,6.5,6.3,5.27-28,5.24,5.22,5.19,5.18,5.13,5.8-9,4.36,4.24,4.20,4.15,4.11,3.22,3.21,3.18,3.17,3.12,2.55,2.47,2.29,2.24,2.12,1.41,1.36,1.32-35,1.29,1.26,1.19,1.14,1.13,1.11,1.6](*105)          eva    —    certainly
+[TEXT—9.34](*1)          eva    —    completely
+[TEXT—9.23,3.20](*2)          eva    —    even
+[TEXT—6.16](*1)          eva    —    ever
+[TEXT—2.28](*1)          eva    —    it is all like that
+[TEXT—14.10](*1)          eva    —    like that
+[TEXT—4.25](*1)          eva    —    like this
+[TEXT—3.17](*1)          eva    —    only
+[TEXT—3.4](*1)          eva    —    simply
+[TEXT—8.7,7.21](*2)          eva    —    surely
+[TEXT—18.9,11.49,11.25,4.25](*4)          eva    —    thus
+[TEXT—14.22-25](*1)          eva ca    —    also
+[TEXT—11.40](*1)          eva sarva    —    because You are everything
+[TEXT—6.15](*1)          evam    —    as mentioned above
+[TEXT—18.16,15.19](*2)          evam    —    certainly
+[TEXT—2.38](*1)          evam    —    in this way
+[TEXT—4.35,4.9,2.25](*3)          evam    —    like this
+[TEXT—13.35,11.3](*2)          evam    —    that
+[TEXT—13.26](*1)          evam    —    this
+[TEXT—13.24,12.1,11.48,11.9,9.28,9.21,6.28,4.32,4.15,4.2,3.43,2.9,1.46,1.24](*14)          evam    —    thus
+[TEXT—3.16](*1)          evam    —    thus prescribed
+[TEXT—11.54,11.53](*2)          evam-vidhaḥ    —    like this
+[TEXT—3.37](*1)          eṣaḥ    —    all these
+[TEXT—10.40](*1)          eṣaḥ    —    all this
+[TEXT—3.10](*1)          eṣaḥ    —    certainly
+[TEXT—3.40](*1)          eṣaḥ    —    of this
+[TEXT—18.65,9.34](*2)          eṣyasi    —    come
+[TEXT—8.7](*1)          eṣyasi    —    will attain
+[TEXT—18.68](*1)          eṣyati    —    comes
+[TEXT—2.39](*1)          eṣā    —    all these
+[TEXT—7.14,2.72](*2)          eṣā    —    this
+[TEXT—1.41](*1)          eṣām    —    of them
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [e]:104

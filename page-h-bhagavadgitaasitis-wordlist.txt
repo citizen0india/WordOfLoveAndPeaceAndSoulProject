@@ -1,0 +1,89 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [h]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—2.9](*1)          ha    —    certainly
+[TEXT—16.13-15](*1)          haniṣye    —    I shall kill
+[TEXT—10.19](*1)          hanta    —    yes
+[TEXT—18.17,2.21,2.19](*3)          hanti    —    kills
+[TEXT—1.32-35](*1)          hantum    —    for killing
+[TEXT—1.44,1.36](*2)          hantum    —    to kill
+[TEXT—2.19](*1)          hantāram    —    the killer
+[TEXT—2.20](*1)          hanyamāne    —    being killed
+[TEXT—2.19](*1)          hanyate    —    be killed
+[TEXT—2.20](*1)          hanyate    —    is killed
+[TEXT—1.45](*1)          hanyuḥ    —    may kill
+[TEXT—2.60](*1)          haranti    —    throws forcefully
+[TEXT—2.67](*1)          harati    —    takes away
+[TEXT—18.77](*1)          hareḥ    —    of Lord Kṛṣṇa
+[TEXT—11.9](*1)          hariḥ    —    the Supreme Personality of Godhead, Kṛṣṇa
+[TEXT—12.15](*1)          harṣa    —    happiness
+[TEXT—18.27](*1)          harṣa-śoka-anvitaḥ    —    complicated, with joy and sorrow
+[TEXT—1.12](*1)          harṣam    —    cheerfulness
+[TEXT—5.18](*1)          hastini    —    in the elephant
+[TEXT—1.29](*1)          hastāt    —    from the hands
+[TEXT—2.19](*1)          hatam    —    killed
+[TEXT—2.37](*1)          hataḥ    —    being killed
+[TEXT—16.13-15](*1)          hataḥ    —    has been killed
+[TEXT—2.6,1.36,1.31](*3)          hatvā    —    by killing
+[TEXT—2.5](*1)          hatvā    —    killing
+[TEXT—18.17](*1)          hatvā api    —    even killing
+[TEXT—11.34](*1)          hatān    —    already killed
+[TEXT—4.24](*1)          haviḥ    —    butter
+[TEXT—1.14](*1)          hayaiḥ    —    horses
+[TEXT—11.41-42](*1)          hekrṣṇa    —    O Kṛṣṇa
+[TEXT—11.41-42](*1)          hesakhā iti    —    O my dear friend, ajānatā—without knowing
+[TEXT—18.15](*1)          hetavaḥ    —    causes
+[TEXT—1.32-35](*1)          hetoḥ    —    in exchange
+[TEXT—13.5](*1)          hetumadbhiḥ    —    with cause and effect
+[TEXT—9.10](*1)          hetunā    —    for this reason
+[TEXT—2.47](*1)          hetuḥ    —    cause
+[TEXT—13.21](*1)          hetuḥ    —    instrument
+[TEXT—11.41-42](*1)          heyādava    —    O Yādava
+[TEXT—1.11](*1)          hi    —    and exactly
+[TEXT—18.11,18.4,14.27,13.29,13.22,12.12,12.5,11.31,11.24,11.21,11.20,10.19,10.18,10.16,10.14,10.2,9.30,8.26,7.18,7.17,7.14,6.42,6.40,6.39,6.34,6.27,5.22,5.19,5.3,4.38,4.17,4.12,4.7,3.41,3.23,3.20,3.19,3.12,3.5,2.67,2.65,2.61,2.60,2.51,2.49,2.27,2.15,2.8,1.41,1.36](*50)          hi    —    certainly
+[TEXT—3.34](*1)          hi    —    certainly are
+[TEXT—7.22](*1)          hi    —    for
+[TEXT—6.5,2.41,2.31](*3)          hi    —    indeed
+[TEXT—18.48](*1)          hi    —    is certainly
+[TEXT—9.24,6.44](*2)          hi    —    surely
+[TEXT—3.8](*1)          hi    —    than
+[TEXT—10.25](*1)          himālayaḥ    —    the Himalayan mountains
+[TEXT—13.29](*1)          hinasti    —    degrade
+[TEXT—10.1](*1)          hita-kāmyayā    —    for your benefit
+[TEXT—17.15](*1)          hitam    —    beneficial
+[TEXT—18.64](*1)          hitam    —    benefit
+[TEXT—5.25](*1)          hite    —    in welfare work
+[TEXT—2.33](*1)          hitvā    —    losing
+[TEXT—18.27](*1)          hiṁsā-ātmakaḥ    —    and always envious
+[TEXT—18.25](*1)          hiṁsām    —    violence
+[TEXT—6.44](*1)          hriyate    —    is attracted
+[TEXT—16.1-3](*1)          hrīḥ    —    modesty
+[TEXT—4.24](*1)          hutam    —    offered
+[TEXT—9.16](*1)          hutam    —    offering
+[TEXT—17.28](*1)          hutam    —    performed
+[TEXT—11.19](*1)          hutāśa-vaktram    —    fire coming out of Your mouth
+[TEXT—2.65](*1)          hāniḥ    —    destruction
+[TEXT—18.61](*1)          hṛd-deśe    —    in the location of the heart
+[TEXT—2.3](*1)          hṛdaya    —    heart
+[TEXT—1.19](*1)          hṛdayāni    —    hearts
+[TEXT—15.15,13.18,8.12](*3)          hṛdi    —    in the heart
+[TEXT—17.8-10](*1)          hṛdyāḥ    —    pleasing to the heart
+[TEXT—4.42](*1)          hṛt-stham    —    situated in the heart
+[TEXT—7.20](*1)          hṛta    —    distorted
+[TEXT—11.45](*1)          hṛṣitaḥ    —    gladdened
+[TEXT—12.17](*1)          hṛṣyati    —    takes pleasure
+[TEXT—18.76](*1)          hṛṣyāmi    —    taking pleasure
+[TEXT—11.36](*1)          hṛṣīkeśa    —    O master of all senses
+[TEXT—18.1](*1)          hṛṣīkeśa    —    O master of the senses
+[TEXT—2.9](*1)          hṛṣīkeśam    —    unto Kṛṣṇa, the master of the senses
+[TEXT—1.20](*1)          hṛṣīkeśam    —    unto Lord Kṛṣṇa
+[TEXT—1.15](*1)          hṛṣīkeśaḥ    —    Hṛṣīkeśa (Kṛṣṇa, the Lord who directs the senses of the devotees)
+[TEXT—1.24](*1)          hṛṣīkeśaḥ    —    Lord Kṛṣṇa
+[TEXT—2.10](*1)          hṛṣīkeśaḥ    —    the master of the senses, Kṛṣṇa
+[TEXT—11.14](*1)          hṛṣṭa-romā    —    with his bodily hairs standing on end due to his great ecstasy
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [h]:80

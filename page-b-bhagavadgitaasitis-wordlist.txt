@@ -1,0 +1,371 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [b]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—2.9](*1)          babhūva    —    became
+[TEXT—11.23](*1)          babu-daṁṣṭrā    —    many teeth
+[TEXT—16.11-12](*1)          baddhāḥ    —    being bound
+[TEXT—14.6](*1)          badhnāti    —    conditions
+[TEXT—4.14](*1)          badhyate    —    become entangled
+[TEXT—1.9](*1)          bahavaḥ    —    in great numbers
+[TEXT—11.28,4.10](*2)          bahavaḥ    —    many
+[TEXT—5.27-28](*1)          bahiḥ    —    external
+[TEXT—13.16](*1)          bahiḥ    —    outside
+[TEXT—11.23](*1)          bahu    —    many
+[TEXT—2.35](*1)          bahu-mataḥ    —    in great estimation
+[TEXT—11.23](*1)          bahu-udaram    —    many bellies
+[TEXT—4.32](*1)          bahu-vidhāḥ    —    various kinds of
+[TEXT—2.41](*1)          bahu-śākhāḥ    —    various branches
+[TEXT—9.15](*1)          bahudhā    —    diversity
+[TEXT—13.5](*1)          bahudhā    —    in many ways
+[TEXT—18.24](*1)          bahula-āyāsam    —    with great labor
+[TEXT—2.42-43](*1)          bahulām    —    various
+[TEXT—10.42](*1)          bahunā    —    many
+[TEXT—2.36](*1)          bahūn    —    many
+[TEXT—11.6,4.5](*2)          bahūni    —    many
+[TEXT—7.19](*1)          bahūnām    —    many
+[TEXT—17.5-6](*1)          bala    —    force
+[TEXT—17.8-10](*1)          bala    —    strength
+[TEXT—18.51-53](*1)          balam    —    false strength
+[TEXT—16.18,7.11,1.10](*3)          balam    —    strength
+[TEXT—6.34](*1)          balavat    —    strong
+[TEXT—7.11](*1)          balavatām    —    of the strong
+[TEXT—16.13-15](*1)          balavān    —    powerful
+[TEXT—3.36](*1)          balāt    —    by force
+[TEXT—18.30](*1)          bandham    —    obligation
+[TEXT—9.28](*1)          bandhanaiḥ    —    bondage
+[TEXT—6.6,6.5](*2)          bandhuḥ    —    friend
+[TEXT—5.3](*1)          bandhāt    —    from bondage
+[TEXT—1.27](*1)          bandhūn    —    relatives
+[TEXT—1.44](*1)          bata    —    how strange it is
+[TEXT—10.14](*1)          bhagavan    —    O Personality of Godhead
+[TEXT—10.17](*1)          bhagavan    —    O Supreme
+[TEXT—2.5](*1)          bhaikṣyam    —    begging
+[TEXT—10.8](*1)          bhajante    —    becomes devoted
+[TEXT—7.16](*1)          bhajante    —    render services
+[TEXT—7.28](*1)          bhajante    —    worship
+[TEXT—9.13](*1)          bhajanti    —    render service
+[TEXT—9.29](*1)          bhajanti    —    render transcendental service
+[TEXT—9.33](*1)          bhajasva    —    are engaged in loving service
+[TEXT—9.30](*1)          bhajate    —    engaged in devotional service
+[TEXT—6.47](*1)          bhajate    —    renders transcendental loving service
+[TEXT—15.19](*1)          bhajati    —    renders devotional service
+[TEXT—6.31](*1)          bhajati    —    serves in devotional service
+[TEXT—10.10](*1)          bhajatām    —    in devotional service
+[TEXT—4.11](*1)          bhajāmi    —    do I reward
+[TEXT—9.34,9.31,7.21,4.3](*4)          bhaktaḥ    —    devotee
+[TEXT—18.68](*1)          bhakteṣu    —    amongst devotees of
+[TEXT—9.26](*1)          bhakti-upahṛtam    —    offered in devotion
+[TEXT—14.26](*1)          bhakti-yogena    —    by devotional service
+[TEXT—18.68](*1)          bhaktim    —    devotional service
+[TEXT—12.17](*1)          bhaktimān    —    devotee
+[TEXT—12.18-19](*1)          bhaktimān    —    engaged in devotion
+[TEXT—13.8-12](*1)          bhaktiḥ    —    devotion
+[TEXT—7.17](*1)          bhaktiḥ    —    devotional service
+[TEXT—11.54,8.22](*2)          bhaktyā    —    by devotional service
+[TEXT—18.55](*1)          bhaktyā    —    by pure devotional service
+[TEXT—9.29,9.14](*2)          bhaktyā    —    in devotion
+[TEXT—8.10](*1)          bhaktyā    —    in full devotion
+[TEXT—9.26](*1)          bhaktyā    —    with devotion
+[TEXT—12.20,12.1,9.33,9.23,7.23](*5)          bhaktāḥ    —    devotees
+[TEXT—18.4](*1)          bharata-sattama    —    O best of the Bhāratas
+[TEXT—17.12](*1)          bharata-śreṣṭha    —    O chief of the Bhāratas
+[TEXT—18.36-37](*1)          bharatarṣabha    —    O best amongst the Bhāratas
+[TEXT—8.23](*1)          bharatarṣabha    —    O best of the Bhāratas
+[TEXT—3.41](*1)          bharatarṣabha    —    O chief amongst the descendants of Bharata
+[TEXT—13.27](*1)          bharatarṣabha    —    O chief of the Bhāratas
+[TEXT—14.12](*1)          bharatarṣabha    —    O chief of the descendants of Bharata
+[TEXT—7.16](*1)          bharatarṣabha    —    O great one amongst the descendants of Bharata
+[TEXT—7.11](*1)          bharatarṣabha    —    O lord of the Bhāratas
+[TEXT—13.23](*1)          bhartā    —    master
+[TEXT—9.18](*1)          bhartā    —    sustainer
+[TEXT—4.37](*1)          bhasmasāt    —    to ashes
+[TEXT—4.37](*1)          bhasmasāt    —    turns into ashes
+[TEXT—11.2](*1)          bhava    —    appearance
+[TEXT—2.45](*1)          bhava    —    be
+[TEXT—11.33,9.34](*2)          bhava    —    become
+[TEXT—18.65,18.57,11.46,8.27,6.46](*5)          bhava    —    just become
+[TEXT—12.10](*1)          bhava    —    you become
+[TEXT—11.31](*1)          bhavantam    —    You
+[TEXT—1.11](*1)          bhavantaḥ    —    all of you
+[TEXT—16.1-3,10.4-5](*2)          bhavanti    —    become
+[TEXT—3.14](*1)          bhavanti    —    grow
+[TEXT—4.4](*1)          bhavataḥ    —    Your
+[TEXT—14.17](*1)          bhavataḥ    —    develops
+[TEXT—17.2,14.21](*2)          bhavati    —    become
+[TEXT—18.12,17.3,14.3,9.31,7.23,6.17,6.2](*7)          bhavati    —    becomes
+[TEXT—3.14](*1)          bhavati    —    becomes possible
+[TEXT—14.10](*1)          bhavati    —    becomes prominent
+[TEXT—1.43](*1)          bhavati    —    it so becomes
+[TEXT—4.7](*1)          bhavati    —    manifested, becomes
+[TEXT—6.42](*1)          bhavati    —    takes birth
+[TEXT—2.63](*1)          bhavati    —    takes place
+[TEXT—17.7](*1)          bhavati    —    there are
+[TEXT—10.4-5](*1)          bhavaḥ    —    birth
+[TEXT—1.45](*1)          bhavet    —    become
+[TEXT—11.12](*1)          bhavet    —    there were
+[TEXT—18.69](*1)          bhavitā    —    will become
+[TEXT—2.20](*1)          bhavitā    —    will come to be
+[TEXT—11.32](*1)          bhaviṣyanti    —    will be
+[TEXT—16.13-15](*1)          bhaviṣyati    —    will increase in the future
+[TEXT—10.34](*1)          bhaviṣyatām    —    of the future
+[TEXT—2.12](*1)          bhaviṣyāmaḥ    —    shall exist
+[TEXT—7.26](*1)          bhaviṣyāṇi    —    future
+[TEXT—12.6-7](*1)          bhavāmi    —    become
+[TEXT—11.31](*1)          bhavān    —    You
+[TEXT—10.12-13](*1)          bhavān    —    Yourself
+[TEXT—1.8](*1)          bhavān    —    yourself
+[TEXT—5.27-28,4.10,2.56](*3)          bhaya    —    fear
+[TEXT—18.30](*1)          bhaya    —    fearful
+[TEXT—12.15](*1)          bhaya    —    fearfulness
+[TEXT—3.35](*1)          bhaya-āvahaḥ    —    dangerous
+[TEXT—10.4-5](*1)          bhayam    —    fear
+[TEXT—18.35](*1)          bhayam    —    fearfulness
+[TEXT—11.45](*1)          bhayena    —    out of fear
+[TEXT—11.26-27](*1)          bhayānakāni    —    very fearful
+[TEXT—2.40](*1)          bhayāt    —    from danger
+[TEXT—18.8](*1)          bhayāt    —    out of
+[TEXT—2.35](*1)          bhayāt    —    out of fear
+[TEXT—18.29,17.7](*2)          bhedam    —    differences
+[TEXT—1.13](*1)          bheryaḥ    —    bugles
+[TEXT—7.4](*1)          bhinnā    —    separated
+[TEXT—2.44](*1)          bhoga    —    material enjoyment
+[TEXT—16.11-12,2.42-43](*2)          bhoga    —    sense enjoyment
+[TEXT—1.32-35](*1)          bhogaiḥ    —    enjoyment
+[TEXT—16.16](*1)          bhogeṣu    —    sense gratification
+[TEXT—2.5](*1)          bhogān    —    enjoyable things
+[TEXT—3.12](*1)          bhogān    —    necessities of life
+[TEXT—5.22](*1)          bhogāḥ    —    enjoyment
+[TEXT—1.32-35](*1)          bhogāḥ    —    material enjoyment
+[TEXT—16.13-15](*1)          bhogī    —    the enjoyer
+[TEXT—17.8-10](*1)          bhojanam    —    eating
+[TEXT—11.41-42](*1)          bhojaneṣu    —    or while eating together
+[TEXT—2.5](*1)          bhoktum    —    to enjoy life
+[TEXT—9.24](*1)          bhoktā    —    enjoyer
+[TEXT—13.23](*1)          bhoktā    —    supreme enjoyer
+[TEXT—5.29](*1)          bhoktāram    —    beneficiary
+[TEXT—13.21](*1)          bhoktṛtve    —    in enjoyment
+[TEXT—2.37](*1)          bhokṣyase    —    you enjoy
+[TEXT—1.30](*1)          bhramati    —    forgetting
+[TEXT—8.10](*1)          bhruvoḥ    —    between the two eyebrows
+[TEXT—5.27-28](*1)          bhruvoḥ    —    of the eyebrows
+[TEXT—18.61](*1)          bhrāmayan    —    causing to travel
+[TEXT—1.26](*1)          bhrātṝn    —    brothers
+[TEXT—9.21](*1)          bhuktvā    —    enjoying
+[TEXT—8.16](*1)          bhuvanāt    —    from the planetary systems
+[TEXT—18.69](*1)          bhuvi    —    in this world
+[TEXT—3.13](*1)          bhuñjate    —    enjoy
+[TEXT—15.10](*1)          bhuñjānam    —    enjoying
+[TEXT—2.5](*1)          bhuñjīya    —    has to enjoy
+[TEXT—13.22,3.12](*2)          bhuṅkte    —    enjoys
+[TEXT—11.33](*1)          bhuṅkṣva    —    enjoy
+[TEXT—2.10](*1)          bhārata    —    O Dhṛtarāṣṭra, descendant of Bharata
+[TEXT—11.6](*1)          bhārata    —    O best of the Bhāratas
+[TEXT—4.42,4.7,3.25,2.30,2.28,2.18,1.24](*7)          bhārata    —    O descendant of Bharata
+[TEXT—2.14](*1)          bhārata    —    O descendant of the Bhārata dynasty
+[TEXT—7.27](*1)          bhārata    —    O scion of Bharata
+[TEXT—18.62,16.1-3,15.20,15.19,14.10,14.9,14.8,14.3,13.34](*9)          bhārata    —    O son of Bharata
+[TEXT—17.3](*1)          bhārata    —    O son of Bhārata
+[TEXT—15.12,15.6](*2)          bhāsayate    —    illuminates
+[TEXT—11.12](*1)          bhāsaḥ    —    effulgence
+[TEXT—11.30](*1)          bhāsaḥ    —    illuminating
+[TEXT—10.11](*1)          bhāsvatā    —    glowing
+[TEXT—17.16](*1)          bhāva    —    nature
+[TEXT—8.6](*1)          bhāva    —    state of being
+[TEXT—10.8](*1)          bhāva- samanvitāḥ    —    with great attention
+[TEXT—7.13](*1)          bhāvaiḥ    —    state of being
+[TEXT—9.11,8.6,7.15](*3)          bhāvam    —    nature
+[TEXT—18.20](*1)          bhāvam    —    situation
+[TEXT—7.24](*1)          bhāvam    —    state of being
+[TEXT—2.66](*1)          bhāvanā    —    mind fixed in happiness
+[TEXT—10.11](*1)          bhāvasthaḥ    —    themselves
+[TEXT—3.11](*1)          bhāvayantaḥ    —    pleasing one another
+[TEXT—3.11](*1)          bhāvayantu    —    will please
+[TEXT—3.11](*1)          bhāvayata    —    having been pleased
+[TEXT—2.16](*1)          bhāvaḥ    —    endurance
+[TEXT—18.43,18.17,8.20](*3)          bhāvaḥ    —    nature
+[TEXT—10.17](*1)          bhāveṣu    —    nature
+[TEXT—8.6](*1)          bhāvitaḥ    —    remembering
+[TEXT—10.4-5](*1)          bhāvāḥ    —    natures
+[TEXT—7.12](*1)          bhāvāḥ    —    states of being
+[TEXT—11.12](*1)          bhāḥ    —    light
+[TEXT—2.11](*1)          bhāṣase    —    speaking
+[TEXT—2.54](*1)          bhāṣā    —    language
+[TEXT—1.10](*1)          bhīma    —    by Bhīma
+[TEXT—1.4](*1)          bhīma-arjuna    —    Bhīma and Arjuna
+[TEXT—1.15](*1)          bhīma-karmā    —    one who performs Herculean tasks
+[TEXT—11.35](*1)          bhīta- bhītaḥ    —    fearful
+[TEXT—11.50](*1)          bhītam    —    fearful
+[TEXT—11.36](*1)          bhītāni    —    out of fear
+[TEXT—11.21](*1)          bhītāḥ    —    out of fear
+[TEXT—1.25](*1)          bhīṣma    —    Grandfather Bhīṣma
+[TEXT—1.10](*1)          bhīṣma    —    by Grandfather Bhīṣma
+[TEXT—2.4](*1)          bhīṣmam    —    unto Bhīṣma
+[TEXT—1.11](*1)          bhīṣmam    —    unto Grandfather Bhīṣma
+[TEXT—11.34](*1)          bhīṣmam ca    —    also Bhīṣma
+[TEXT—11.26-27](*1)          bhīṣmaḥ    —    Bhīṣmadeva
+[TEXT—1.8](*1)          bhīṣmaḥ    —    Grandfather Bhīṣma
+[TEXT—2.8](*1)          bhūmau    —    on the earth
+[TEXT—7.4](*1)          bhūmiḥ    —    earth
+[TEXT—9.13](*1)          bhūta    —    creation
+[TEXT—9.11](*1)          bhūta    —    everything that be
+[TEXT—13.31,11.15](*2)          bhūta    —    living entities
+[TEXT—13.35](*1)          bhūta    —    living entity
+[TEXT—9.5](*1)          bhūta- bhāvanaḥ    —    isthe source of all manifestations
+[TEXT—9.5](*1)          bhūta- sthaḥ    —    in the cosmic manifestation
+[TEXT—13.17](*1)          bhūta-bhartṛ    —    maintainer of all living entities
+[TEXT—8.3](*1)          bhūta-bhāva- udbhava-karaḥ    —    action producing the material bodies of the living entities
+[TEXT—10.15](*1)          bhūta-bhāvana    —    O origin of everything
+[TEXT—9.5](*1)          bhūta-bhṛt    —    maintainer of all living entities
+[TEXT—17.4](*1)          bhūta-gaṇān    —    ghosts
+[TEXT—9.8](*1)          bhūta-grāmam    —    all these cosmic manifestations
+[TEXT—8.19](*1)          bhūta-grāmaḥ    —    the aggregate of all living entities
+[TEXT—16.6](*1)          bhūta-sargau    —    created living beings
+[TEXT—17.5-6](*1)          bhūtagrāmam    —    combination of material elements
+[TEXT—10.39](*1)          bhūtam    —    created
+[TEXT—9.25](*1)          bhūtejyāḥ    —    worshipers of ghosts and spirits
+[TEXT—10.15](*1)          bhūteśa    —    O Lord of everything
+[TEXT—7.11](*1)          bhūteṣu    —    in all beings
+[TEXT—13.17](*1)          bhūteṣu    —    in every living being
+[TEXT—18.21,13.28,7.9](*3)          bhūteṣu    —    living entities
+[TEXT—18.54](*1)          bhūteṣu    —    living entity
+[TEXT—8.20](*1)          bhūteṣu    —    manifestation
+[TEXT—16.1-3](*1)          bhūteṣu    —    towards all living entities
+[TEXT—18.78](*1)          bhūtiḥ    —    exceptional power
+[TEXT—15.14,15.13](*2)          bhūtvā    —    becoming
+[TEXT—2.20](*1)          bhūtvā    —    came into being
+[TEXT—2.48](*1)          bhūtvā    —    having become
+[TEXT—3.30](*1)          bhūtvā    —    so being
+[TEXT—2.35](*1)          bhūtvā    —    will become
+[TEXT—8.19](*1)          bhūtvā bhūtvā    —    taking birth
+[TEXT—11.50](*1)          bhūtvā punaḥ    —    becoming again
+[TEXT—2.69](*1)          bhūtāni    —    all beings
+[TEXT—9.5](*1)          bhūtāni    —    all creation
+[TEXT—4.35,3.33](*2)          bhūtāni    —    all living entities
+[TEXT—2.34](*1)          bhūtāni    —    all people
+[TEXT—2.28](*1)          bhūtāni    —    all that are created
+[TEXT—8.22](*1)          bhūtāni    —    all this material manifestation
+[TEXT—6.29](*1)          bhūtāni    —    entities
+[TEXT—7.6](*1)          bhūtāni    —    everything created
+[TEXT—15.16,15.13,7.27,7.26](*4)          bhūtāni    —    living entities
+[TEXT—2.30](*1)          bhūtāni    —    living entities (that are born)
+[TEXT—3.14](*1)          bhūtāni    —    the material bodies
+[TEXT—9.25](*1)          bhūtāni    —    to ghosts and spirits
+[TEXT—10.20](*1)          bhūtānām    —    all living entities
+[TEXT—4.6](*1)          bhūtānām    —    all those who are born
+[TEXT—18.46,13.16,11.2,10.22](*4)          bhūtānām    —    of all living entities
+[TEXT—10.4-5,2.69](*2)          bhūtānām    —    of living entities
+[TEXT—5.29](*1)          bhūtānām    —    of the living entities
+[TEXT—18.64,15.3-4,14.1,13.24,11.50,11.39,11.35,10.18,6.43](*9)          bhūyaḥ    —    again
+[TEXT—7.2](*1)          bhūyaḥ    —    further
+[TEXT—2.20](*1)          bhūyaḥ    —    or has come to be
+[TEXT—2.47](*1)          bhūḥ    —    become
+[TEXT—10.25](*1)          bhṛguḥ    —    Bhṛgu
+[TEXT—15.17](*1)          bibharti    —    maintaining
+[TEXT—4.17](*1)          boddhavyam    —    should be understood
+[TEXT—4.17](*1)          boddhavyam    —    to be understood
+[TEXT—10.9](*1)          bodhayantaḥ    —    preaching
+[TEXT—8.3,8.1,7.29](*3)          brahma    —    Brahman
+[TEXT—5.6](*1)          brahma    —    Supreme
+[TEXT—3.15](*1)          brahma    —    Transcendence
+[TEXT—8.13](*1)          brahma    —    absolute
+[TEXT—18.42](*1)          brahma    —    of a brāhmaṇa
+[TEXT—13.13](*1)          brahma    —    spirit
+[TEXT—4.24](*1)          brahma    —    spiritual
+[TEXT—4.24](*1)          brahma    —    spiritual kingdom
+[TEXT—4.24](*1)          brahma    —    spiritual nature
+[TEXT—14.4,14.3](*2)          brahma    —    supreme
+[TEXT—13.31,8.24](*2)          brahma    —    the Absolute
+[TEXT—4.25](*1)          brahma    —    the Absolute Truth
+[TEXT—18.50,5.19,4.24](*3)          brahma    —    the Supreme
+[TEXT—3.15](*1)          brahma    —    the Vedas
+[TEXT—4.30](*1)          brahma    —    the supreme
+[TEXT—10.12-13](*1)          brahma    —    truth
+[TEXT—5.26](*1)          brahma- nirvāṇam    —    liberation in the Supreme
+[TEXT—13.5](*1)          brahma- sūtra    —    the Vedānta
+[TEXT—6.27](*1)          brahma-bhūtam    —    liberated by identification with the Absolute
+[TEXT—18.54](*1)          brahma-bhūtaḥ    —    being one with the Absolute
+[TEXT—5.24](*1)          brahma-bhūtaḥ    —    self-realized
+[TEXT—14.26](*1)          brahma-bhūyāya    —    to be elevated on the Brahman platform
+[TEXT—18.51-53](*1)          brahma-bhūyāya    —    to become self-realized
+[TEXT—17.14](*1)          brahma-caryam    —    celibacy
+[TEXT—5.24](*1)          brahma-nirvāṇam    —    liberated in the Supreme
+[TEXT—5.25](*1)          brahma-nirvāṇam    —    liberation in the Supreme
+[TEXT—2.72](*1)          brahma-nirvāṇam    —    spiritual (kingdom of God)
+[TEXT—6.28](*1)          brahma-saṁsparśam    —    being in constant touch with the Supreme
+[TEXT—8.24](*1)          brahma-vidaḥ    —    one who knows the Absolute
+[TEXT—17.24](*1)          brahma-vādinām    —    of the transcendentalists
+[TEXT—5.21](*1)          brahma-yoga    —    concentrated in Brahman
+[TEXT—8.11](*1)          brahmacaryam    —    celibacy
+[TEXT—6.13-14](*1)          brahmacāri-vrate    —    in the vow of celibacy
+[TEXT—5.20](*1)          brahmavit    —    one who knows the Supreme perfectly
+[TEXT—11.37](*1)          brahmaṇaḥ    —    Brahmā
+[TEXT—8.17](*1)          brahmaṇaḥ    —    of Brahmā
+[TEXT—6.38](*1)          brahmaṇaḥ    —    of Transcendence
+[TEXT—4.32](*1)          brahmaṇaḥ    —    of the Vedas
+[TEXT—14.27](*1)          brahmaṇaḥ    —    of the impersonal brahmajyoti
+[TEXT—17.23](*1)          brahmaṇaḥ    —    the brāhmaṇas
+[TEXT—5.19](*1)          brahmaṇi    —    in the Supreme
+[TEXT—5.20](*1)          brahmaṇi    —    in the Transcendence
+[TEXT—5.10](*1)          brahmaṇi    —    the Supreme Personality of Godhead
+[TEXT—4.24](*1)          brahmaṇā    —    by the spirit soul
+[TEXT—11.15](*1)          brahmāṇam    —    Lord Brahmā
+[TEXT—1.7](*1)          bravīmi    —    I am speaking
+[TEXT—10.12-13](*1)          bravīṣi    —    explaining
+[TEXT—18.41](*1)          brāhmaṇa    —    the brāhmaṇas
+[TEXT—2.46](*1)          brāhmaṇasya    —    of the man who knows the Supreme Brahman
+[TEXT—5.18](*1)          brāhmaṇe    —    in the brāhmaṇa
+[TEXT—17.23](*1)          brāhmaṇāḥ    —    of the Supreme
+[TEXT—2.72](*1)          brāhmī    —    spiritual
+[TEXT—5.1](*1)          brūhi    —    please tell
+[TEXT—2.7](*1)          brūhi    —    tell
+[TEXT—2.49](*1)          buddhau    —    in such consciousness
+[TEXT—2.41](*1)          buddhayaḥ    —    intelligence
+[TEXT—3.42](*1)          buddheḥ    —    more than the intelligence
+[TEXT—18.29,3.43](*2)          buddheḥ    —    of intelligence
+[TEXT—18.36-37,6.20-23](*2)          buddhi    —    intelligence
+[TEXT—3.26](*1)          buddhi-bhedam    —    disrupt the intelligence
+[TEXT—2.63](*1)          buddhi-nāśaḥ    —    loss of intelligence
+[TEXT—2.63](*1)          buddhi-nāśāt    —    and from loss of intelligence
+[TEXT—6.43](*1)          buddhi-saṁyogam    —    revival of such consciousness
+[TEXT—18.57](*1)          buddhi-yogam    —    devotional activities
+[TEXT—10.10](*1)          buddhi-yogam    —    real intelligence
+[TEXT—2.49](*1)          buddhi-yogāt    —    on the strength of Kṛṣṇa consciousness
+[TEXT—2.50](*1)          buddhi-yuktaḥ    —    one who is engaged in devotional service
+[TEXT—2.51](*1)          buddhi-yuktāḥ    —    being done in devotional service
+[TEXT—12.8,3.2](*2)          buddhim    —    intelligence
+[TEXT—7.10](*1)          buddhimatām    —    of the intelligent
+[TEXT—15.20](*1)          buddhimān    —    intelligent
+[TEXT—4.18](*1)          buddhimān    —    is intelligent
+[TEXT—2.44](*1)          buddhiḥ    —    devotional service of the Lord
+[TEXT—8.7](*1)          buddhiḥ    —    intellect
+[TEXT—18.32,18.31,18.17,13.6-7,10.4-5,7.10,7.4,5.27-28,3.42,3.1,2.65,2.53,2.41,2.39](*14)          buddhiḥ    —    intelligence
+[TEXT—12.13-14](*1)          buddhiḥ    —    intelligent
+[TEXT—3.40](*1)          buddhiḥ    —    the intelligence
+[TEXT—2.66](*1)          buddhiḥ    —    transcendental intelligence
+[TEXT—2.52](*1)          buddhiḥ    —    transcendental service with intelligence
+[TEXT—18.30](*1)          buddhiḥ    —    understanding
+[TEXT—3.43](*1)          buddhvā    —    so knowing
+[TEXT—15.20](*1)          buddhvā    —    understanding
+[TEXT—6.25,2.39](*2)          buddhyā    —    by intelligence
+[TEXT—18.51-53](*1)          buddhyā    —    by the intelligence
+[TEXT—5.11](*1)          buddhyā    —    with the intelligence
+[TEXT—5.22](*1)          budhaḥ    —    the intelligent
+[TEXT—10.8](*1)          budhāḥ    —    learned
+[TEXT—4.19](*1)          budhāḥ    —    those who know
+[TEXT—11.23](*1)          bāhu    —    arms
+[TEXT—11.19](*1)          bāhum    —    arms
+[TEXT—5.21](*1)          bāhya-sparśeṣu    —    in external sense pleasure
+[TEXT—5.27-28](*1)          bāhyān    —    unnecessary
+[TEXT—11.16](*1)          bāhū    —    arms
+[TEXT—5.4](*1)          bālāḥ    —    less intelligent
+[TEXT—14.4](*1)          bīja-pradaḥ    —    seed-giving
+[TEXT—9.18,7.10](*2)          bījam    —    seed
+[TEXT—10.39](*1)          bījam    —    the seed
+[TEXT—10.24](*1)          bṛhaspatim    —    Bṛhaspati
+[TEXT—10.35](*1)          bṛhat-sāma    —    the Bṛhat-sāma
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [b]:362

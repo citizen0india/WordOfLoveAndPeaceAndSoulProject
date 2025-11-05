@@ -1,0 +1,330 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [d]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—1.15,1.12](*2)          dadhmau    —    blew
+[TEXT—1.16-18](*1)          dadhmuḥ    —    blew
+[TEXT—14.3](*1)          dadhāmi    —    create
+[TEXT—11.8,10.10](*2)          dadāmi    —    I give
+[TEXT—9.27](*1)          dadāsi    —    you give away
+[TEXT—4.19](*1)          dagdha    —    being burnt by
+[TEXT—2.23](*1)          dahati    —    burns
+[TEXT—10.30](*1)          daityānām    —    of the demons
+[TEXT—4.25](*1)          daivam    —    in worshiping the demigods
+[TEXT—18.13-14](*1)          daivam    —    the Supreme
+[TEXT—16.6](*1)          daivaḥ    —    divine
+[TEXT—16.6](*1)          daivaḥ    —    godly
+[TEXT—16.5,7.14](*2)          daivī    —    transcendental
+[TEXT—9.13](*1)          daivīm    —    divine
+[TEXT—16.5,16.1-3](*2)          daivīm    —    transcendental
+[TEXT—12.16](*1)          dakṣaḥ    —    expert
+[TEXT—8.25](*1)          dakṣiṇa-ayanam    —    when the sun passes on the southern side
+[TEXT—10.38](*1)          damayatām    —    of all separation
+[TEXT—10.4-5](*1)          damaḥ    —    control of the senses
+[TEXT—18.42](*1)          damaḥ    —    self-control
+[TEXT—16.1-3](*1)          damaḥ ca    —    and controlling the mind
+[TEXT—17.12,17.5-6,16.10](*3)          dambha    —    pride
+[TEXT—16.4](*1)          dambhaḥ    —    pride
+[TEXT—16.17](*1)          dambhena    —    out of pride
+[TEXT—17.18](*1)          dambhena    —    with pride
+[TEXT—18.51-53](*1)          darpam    —    false pride
+[TEXT—16.18](*1)          darpam    —    pride
+[TEXT—16.4](*1)          darpaḥ    —    arrogance
+[TEXT—11.52](*1)          darśana- kāṅkṣiṇaḥ    —    always aspire to see
+[TEXT—13.8-12](*1)          darśanam    —    philosophy
+[TEXT—11.10-11](*1)          darśanam    —    sight
+[TEXT—11.45](*1)          darśaya    —    show
+[TEXT—11.50,11.9](*2)          darśayāmāsa    —    showed
+[TEXT—2.16](*1)          darśibhiḥ    —    by the seers
+[TEXT—4.34](*1)          darśinaḥ    —    the seers
+[TEXT—11.47](*1)          darśitam    —    shown
+[TEXT—17.28](*1)          dattam    —    given
+[TEXT—3.12](*1)          dattān    —    things given
+[TEXT—2.3](*1)          daurbalyam    —    weakness
+[TEXT—16.1-3](*1)          dayā    —    mercy
+[TEXT—13.6-7](*1)          daśa ekam    —    eleven
+[TEXT—11.26-27](*1)          daśanāntareṣu    —    between the teeth
+[TEXT—11.26-27,11.25](*2)          daṁṣṭrā    —    teeth
+[TEXT—10.38](*1)          daṇḍaḥ    —    punishment
+[TEXT—14.20](*1)          deha    —    body
+[TEXT—14.14](*1)          deha-bhṛt    —    embodied
+[TEXT—18.11](*1)          deha-bhṛtā    —    of the embodied
+[TEXT—8.4](*1)          deha-bhṛtām    —    of the embodied
+[TEXT—15.14](*1)          deham    —    body
+[TEXT—8.13,4.9](*2)          deham    —    this body
+[TEXT—12.5](*1)          dehavadbhiḥ    —    of the embodiments
+[TEXT—8.4](*1)          dehe    —    body
+[TEXT—13.33,11.15,8.2,2.30,2.13](*5)          dehe    —    in the body
+[TEXT—14.5,13.23,11.7](*3)          dehe    —    in this body
+[TEXT—14.11](*1)          dehe asmin    —    in this body
+[TEXT—6.43](*1)          dehikam    —    bodily consciousness
+[TEXT—14.7](*1)          dehinam    —    of the embodied
+[TEXT—3.40](*1)          dehinam    —    the embodied
+[TEXT—14.5](*1)          dehinam    —    the living entity
+[TEXT—2.59](*1)          dehinaḥ    —    for the embodied
+[TEXT—2.13](*1)          dehinaḥ    —    of the embodied
+[TEXT—17.2](*1)          dehinām    —    of the embodied
+[TEXT—2.13](*1)          dehāntara    —    transference of the body
+[TEXT—2.18](*1)          dehāḥ    —    material bodies
+[TEXT—14.20](*1)          dehī    —    body
+[TEXT—2.22](*1)          dehī    —    the embodied
+[TEXT—5.13](*1)          dehī    —    the embodied soul
+[TEXT—2.30](*1)          dehī    —    the owner of the material body
+[TEXT—17.20](*1)          dese    —    in place
+[TEXT—11.45,11.15](*2)          deva    —    O Lord
+[TEXT—11.44](*1)          deva    —    my Lord
+[TEXT—17.14](*1)          deva    —    the Supreme Lord
+[TEXT—9.20](*1)          deva-bhogān    —    pleasures of the gods
+[TEXT—10.15](*1)          deva-deva    —    O Lord of all demigods
+[TEXT—11.13](*1)          deva-devasya    —    of the Supreme Personality of Godhead
+[TEXT—11.31](*1)          deva-vara    —    the great one amongst the demigods
+[TEXT—9.25](*1)          deva-vratāḥ    —    worshipers of demigods
+[TEXT—7.23](*1)          deva-yajaḥ    —    worshipers of demigods
+[TEXT—1.15](*1)          devadattam    —    the conchshell named Devadatta
+[TEXT—10.12-13](*1)          devalaḥ    —    Devala
+[TEXT—11.10-11](*1)          devam    —    shining
+[TEXT—11.14](*1)          devam    —    to the Supreme Personality of Godhead
+[TEXT—10.12-13](*1)          devarṣiḥ    —    the sage among the demigods
+[TEXT—10.26](*1)          devarṣīṇām    —    of all the sages amongst the demigods
+[TEXT—9.23](*1)          devatā    —    demigods
+[TEXT—7.20](*1)          devatāḥ    —    demigods
+[TEXT—4.12](*1)          devatāḥ    —    the demigods
+[TEXT—10.14](*1)          devaḥ    —    the demigods
+[TEXT—11.25](*1)          deveśa    —    O Lord of all lords
+[TEXT—11.45](*1)          deveśa    —    O Lord of lords
+[TEXT—18.40](*1)          deveṣu    —    amongst the demigods
+[TEXT—11.15](*1)          devān    —    all the demigods
+[TEXT—17.4,3.11](*2)          devān    —    demigods
+[TEXT—7.23](*1)          devān    —    demigods' planets
+[TEXT—9.25](*1)          devān    —    to demigods
+[TEXT—10.22](*1)          devānām    —    of all the demigods
+[TEXT—10.2](*1)          devānām    —    of the demigods
+[TEXT—11.52,3.12,3.11](*3)          devāḥ    —    the demigods
+[TEXT—13.8-12](*1)          deśa    —    place
+[TEXT—6.11-12](*1)          deśe    —    in the land
+[TEXT—16.17](*1)          dhana-māna    —    wealth and false prestige
+[TEXT—16.13-15](*1)          dhanam    —    wealth
+[TEXT—12.9](*1)          dhanañjaya    —    O Arjuna
+[TEXT—2.48](*1)          dhanañjaya    —    O Dhanañjaya
+[TEXT—9.9,4.41](*2)          dhanañjaya    —    O conquerer of riches
+[TEXT—7.7](*1)          dhanañjaya    —    O conquerer of wealth
+[TEXT—2.49](*1)          dhanañjaya    —    O conqueror of wealth
+[TEXT—18.72](*1)          dhanañjaya    —    O conqueror of wealth (Arjuna)
+[TEXT—18.29](*1)          dhanañjaya    —    O winner of wealth
+[TEXT—11.14,10.37](*2)          dhanañjayaḥ    —    Arjuna
+[TEXT—1.15](*1)          dhanañjayaḥ    —    Dhanañjaya (Arjuna, the winner of wealth)
+[TEXT—18.78](*1)          dhanur-dharaḥ    —    the carrier of the bow and arrow
+[TEXT—1.20](*1)          dhanuḥ    —    bow
+[TEXT—1.32-35](*1)          dhanāni    —    riches
+[TEXT—4.8](*1)          dharma    —    principles of religion
+[TEXT—2.7](*1)          dharma    —    religion
+[TEXT—7.11](*1)          dharma-aviruddha    —    not against the religious principles
+[TEXT—18.34](*1)          dharma-kāma-arthān    —    for religiosity and economic development
+[TEXT—1.1](*1)          dharma-kṣetre    —    in the place of pilgrimage
+[TEXT—9.31](*1)          dharma-ātmā    —    righteous
+[TEXT—9.21](*1)          dharmam    —    doctrines
+[TEXT—18.31](*1)          dharmam    —    principles of religion
+[TEXT—18.32](*1)          dharmam    —    religion
+[TEXT—4.7](*1)          dharmasya    —    of religion
+[TEXT—14.27](*1)          dharmasya    —    of the constitutional position
+[TEXT—2.40](*1)          dharmasya    —    of this occupation
+[TEXT—9.3](*1)          dharmasya    —    of this process of religion
+[TEXT—1.39](*1)          dharme    —    in religion
+[TEXT—12.20](*1)          dharmya    —    generosity
+[TEXT—2.33](*1)          dharmyam    —    religious duty
+[TEXT—9.2](*1)          dharmyam    —    the principle of religion
+[TEXT—18.70](*1)          dharmyaṁ    —    sacred
+[TEXT—2.31](*1)          dharmyāt    —    from religious principles
+[TEXT—10.28](*1)          dhenūnām    —    of cows
+[TEXT—12.3-4](*1)          dhruvam    —    fixed
+[TEXT—2.27](*1)          dhruvam    —    it is also a fact
+[TEXT—2.27](*1)          dhruvaḥ    —    a fact
+[TEXT—18.78](*1)          dhruvā    —    certainly
+[TEXT—18.51-53](*1)          dhyāna-yoga-paraḥ    —    always absorbed in trance
+[TEXT—12.12](*1)          dhyānam    —    meditation
+[TEXT—13.25](*1)          dhyānena    —    by meditation
+[TEXT—12.12](*1)          dhyānāt    —    from meditation
+[TEXT—12.6-7](*1)          dhyāyantaḥ    —    meditating
+[TEXT—2.62](*1)          dhyāyataḥ    —    while contemplating
+[TEXT—11.38](*1)          dhāma    —    refuge
+[TEXT—10.12-13](*1)          dhāma    —    sustenance
+[TEXT—5.8-9](*1)          dhārayan    —    considering
+[TEXT—6.13-14](*1)          dhārayan    —    holding
+[TEXT—18.34](*1)          dhārayate    —    in such terms
+[TEXT—18.33](*1)          dhārayate    —    is sustained
+[TEXT—15.13](*1)          dhārayāmi    —    sustaining
+[TEXT—1.23](*1)          dhārtarāṣṭrasya    —    the son of Dhṛtarāṣṭra
+[TEXT—1.36,1.32-35,1.20](*3)          dhārtarāṣṭrān    —    the sons of Dhṛtarāṣṭra
+[TEXT—2.6,1.45](*2)          dhārtarāṣṭrāḥ    —    the sons of Dhṛtarāṣṭra
+[TEXT—1.19](*1)          dhārtarāṣṭrāṇām    —    of the sons of Dhṛtarāṣṭra
+[TEXT—7.5](*1)          dhāryate    —    being utilized or exploited
+[TEXT—10.33](*1)          dhātā    —    creator
+[TEXT—9.17](*1)          dhātā    —    supporter
+[TEXT—8.9](*1)          dhātāram    —    maintainer
+[TEXT—1.3](*1)          dhīmatā    —    very intelligent
+[TEXT—6.42](*1)          dhīmatām    —    of those who are endowed with great wisdom
+[TEXT—2.15](*1)          dhīram    —    patient
+[TEXT—14.22-25](*1)          dhīraḥ    —    steadily
+[TEXT—2.13](*1)          dhīraḥ    —    the sober
+[TEXT—8.25](*1)          dhūmaḥ    —    smoke
+[TEXT—3.38](*1)          dhūmena    —    by smoke
+[TEXT—18.48](*1)          dhūmena    —    with smoke
+[TEXT—11.26-27](*1)          dhṛtarāṣṭasya    —    of Dhṛtarāṣṭra
+[TEXT—1.1](*1)          dhṛtarāṣṭraḥ    —    King Dhṛtarāṣṭra
+[TEXT—18.29](*1)          dhṛteḥ    —    of steadiness
+[TEXT—6.25](*1)          dhṛti-gṛhītayā    —    carrying the conviction
+[TEXT—18.26](*1)          dhṛti-utsāha    —    with great enthusiasm
+[TEXT—11.24](*1)          dhṛtim    —    steadiness
+[TEXT—13.6-7](*1)          dhṛtiḥ    —    conviction
+[TEXT—18.43,18.35,18.34](*3)          dhṛtiḥ    —    determination
+[TEXT—10.34](*1)          dhṛtiḥ    —    faithfulness
+[TEXT—16.1-3](*1)          dhṛtiḥ    —    fortitude
+[TEXT—18.33](*1)          dhṛtiḥ    —    such determination
+[TEXT—18.34](*1)          dhṛtyā    —    by determination
+[TEXT—18.51-53,18.33](*2)          dhṛtyā    —    determination
+[TEXT—1.16-18](*1)          dhṛṣṭadyumnaḥ    —    Dhṛṣṭadyumna (the son of King Drupada)
+[TEXT—1.5](*1)          dhṛṣṭaketuḥ    —    Dhṛṣṭaketu
+[TEXT—9.20](*1)          divi    —    in heaven
+[TEXT—18.40](*1)          divi    —    in the higher planetary system
+[TEXT—11.12](*1)          divi    —    in the sky
+[TEXT—11.10-11](*1)          divya    —    divine
+[TEXT—11.8](*1)          divyam    —    divine
+[TEXT—8.10](*1)          divyam    —    in the spiritual kingdom
+[TEXT—10.12-13,8.8,4.9](*3)          divyam    —    transcendental
+[TEXT—1.14](*1)          divyau    —    transcendental
+[TEXT—10.16](*1)          divyā    —    divine
+[TEXT—9.20](*1)          divyān    —    celestial
+[TEXT—11.15](*1)          divyān    —    divine
+[TEXT—11.5](*1)          divyāni    —    divine
+[TEXT—10.40](*1)          divyānām    —    divine
+[TEXT—10.19](*1)          divyāḥ    —    divine
+[TEXT—6.13-14](*1)          diśaḥ    —    all sides
+[TEXT—11.36,11.25,11.20](*3)          diśaḥ    —    directions
+[TEXT—13.8-12](*1)          doṣa    —    fault
+[TEXT—2.7](*1)          doṣa    —    weakness
+[TEXT—1.42](*1)          doṣaiḥ    —    by such faults
+[TEXT—1.37-38](*1)          doṣam    —    crime
+[TEXT—1.37-38](*1)          doṣam    —    fault
+[TEXT—18.3](*1)          doṣavat    —    as an evil
+[TEXT—18.48](*1)          doṣeṇa    —    with fault
+[TEXT—15.5](*1)          doṣāḥ    —    faulty
+[TEXT—4.35](*1)          drakṣyasi    —    you will see
+[TEXT—1.16-18,1.6](*2)          draupadeyāḥ    —    the sons of Draupadī
+[TEXT—11.36](*1)          dravanti    —    fleeing
+[TEXT—11.28](*1)          dravanti    —    gliding
+[TEXT—4.28](*1)          dravya-yajñāḥ    —    sacrificing one's possessions
+[TEXT—4.33](*1)          dravyamayāt    —    than the sacrifice of material possessions
+[TEXT—11.54,11.53,11.48,11.46,11.8,11.7,11.3](*7)          draṣṭum    —    to see
+[TEXT—14.19](*1)          draṣṭā anupaśyati    —    he who sees properly
+[TEXT—1.25](*1)          droṇa    —    the teacher Droṇa
+[TEXT—2.4](*1)          droṇam    —    unto Droṇa
+[TEXT—11.34](*1)          droṇam ca    —    also Droṇa
+[TEXT—11.26-27](*1)          droṇaḥ    —    Droṇācārya
+[TEXT—1.3](*1)          drupada-putreṇa    —    by the son of Drupada
+[TEXT—1.4](*1)          drupadaḥ    —    Drupada
+[TEXT—1.16-18](*1)          drupadaḥ    —    Drupada, the King of Pāñcāla
+[TEXT—7.14](*1)          duratyayā    —    very difficult to overcome
+[TEXT—1.23](*1)          durbuddheḥ    —    evil-minded
+[TEXT—6.40](*1)          durgatim    —    degradation
+[TEXT—18.58](*1)          durgāṇi    —    impediments
+[TEXT—6.42](*1)          durlabhataram    —    very rare
+[TEXT—18.16](*1)          durmatiḥ    —    foolish
+[TEXT—18.35](*1)          durmedhāḥ    —    unintelligent
+[TEXT—6.35](*1)          durnigraham    —    difficult to curb
+[TEXT—11.17](*1)          durnirīkṣyam    —    difficult to see
+[TEXT—1.2](*1)          duryodhanaḥ    —    King Duryodhana
+[TEXT—3.43](*1)          durāsadam    —    formidable
+[TEXT—18.36-37,17.8-10,13.8-12,5.22,2.15](*5)          duḥkha    —    distress
+[TEXT—14.22-25](*1)          duḥkha    —    in distress
+[TEXT—8.15](*1)          duḥkha- ālayam    —    place of miseries
+[TEXT—2.14](*1)          duḥkha-dāḥ    —    giving pain
+[TEXT—6.17](*1)          duḥkha-hā    —    diminishing pains
+[TEXT—6.20-23](*1)          duḥkha-saṁyoga    —    miseries of material contact
+[TEXT—14.20](*1)          duḥkhaiḥ    —    distresses
+[TEXT—13.6-7,10.4-5,6.32,5.6](*4)          duḥkham    —    distress
+[TEXT—14.16](*1)          duḥkham    —    misery
+[TEXT—18.8](*1)          duḥkham    —    unhappy
+[TEXT—2.36](*1)          duḥkhataram    —    more painful
+[TEXT—12.13-14](*1)          duḥkhaḥ    —    distress
+[TEXT—2.38](*1)          duḥkhe    —    in distress
+[TEXT—6.20-23](*1)          duḥkhena    —    by miseries
+[TEXT—12.18-19](*1)          duḥkheṣu    —    distress
+[TEXT—6.7](*1)          duḥkheṣu    —    in distress
+[TEXT—2.56](*1)          duḥkheṣu    —    in the threefold miseries
+[TEXT—2.65](*1)          duḥkhānām    —    material miseries
+[TEXT—13.21](*1)          duḥkhānām    —    of distresses
+[TEXT—7.15](*1)          duṣkṛtinaḥ    —    miscreants
+[TEXT—4.8](*1)          duṣkṛtām    —    of the miscreants
+[TEXT—6.36](*1)          duṣprāpaḥ    —    difficult to obtain
+[TEXT—16.10](*1)          duṣpūram    —    insatiable
+[TEXT—3.39](*1)          duṣpūreṇa    —    never to be satisfied
+[TEXT—1.40](*1)          duṣṭāsu    —    being so polluted
+[TEXT—5.25](*1)          dvaidhāḥ    —    duality
+[TEXT—7.28,7.27,4.22](*3)          dvandva    —    duality
+[TEXT—15.5](*1)          dvandvaiḥ    —    with duality
+[TEXT—10.33](*1)          dvandvaḥ    —    dual
+[TEXT—16.6,15.16](*2)          dvau    —    two
+[TEXT—2.64](*1)          dveṣa    —    detachment
+[TEXT—7.27](*1)          dveṣa    —    hate
+[TEXT—3.34](*1)          dveṣau    —    also in detachment
+[TEXT—18.51-53](*1)          dveṣau    —    hatred
+[TEXT—13.6-7](*1)          dveṣaḥ    —    hatred
+[TEXT—9.29](*1)          dveṣyaḥ    —    hateful
+[TEXT—5.3](*1)          dveṣṭi    —    abhors
+[TEXT—2.57](*1)          dveṣṭi    —    envies
+[TEXT—12.17](*1)          dveṣṭi    —    grieves
+[TEXT—18.10](*1)          dveṣṭi    —    hates
+[TEXT—3.3](*1)          dvi-vidhā    —    two kinds of
+[TEXT—17.14](*1)          dvija    —    the brāhmaṇa
+[TEXT—1.7](*1)          dvijottama    —    the best of the brāhmaṇas
+[TEXT—16.19](*1)          dviṣataḥ    —    envious
+[TEXT—2.32](*1)          dvāram    —    door
+[TEXT—16.21](*1)          dvāram    —    gate
+[TEXT—11.20](*1)          dyau    —    in outer space
+[TEXT—11.17](*1)          dyutim    —    sunshine
+[TEXT—10.36](*1)          dyūtam    —    gambling
+[TEXT—18.43](*1)          dākṣyam    —    resourcefulness
+[TEXT—18.5,18.3,17.25,17.24](*4)          dāna    —    charity
+[TEXT—18.5,17.22,17.21,17.20,17.7,16.1-3,10.4-5](*7)          dānam    —    charity
+[TEXT—18.43](*1)          dānam    —    generosity
+[TEXT—10.14](*1)          dānavāḥ    —    the demons
+[TEXT—17.26-27](*1)          dāne    —    charity
+[TEXT—11.53](*1)          dānena    —    by charity
+[TEXT—8.28](*1)          dāneṣu    —    in giving charities
+[TEXT—13.8-12](*1)          dāra    —    wife
+[TEXT—3.12](*1)          dāsyante    —    award
+[TEXT—16.13-15](*1)          dāsyāmi    —    I shall give in charity
+[TEXT—17.20](*1)          dātavyam    —    worth giving
+[TEXT—6.19](*1)          dīpaḥ    —    a lamp
+[TEXT—10.11](*1)          dīpena    —    with the lamp
+[TEXT—11.19](*1)          dīpta    —    blazing
+[TEXT—11.24](*1)          dīpta    —    glowing
+[TEXT—11.17](*1)          dīpta-anala    —    blazing fire
+[TEXT—11.24](*1)          dīptam    —    glowing
+[TEXT—11.17](*1)          dīptimantam    —    glowing
+[TEXT—18.28](*1)          dīrgha-sūtrī    —    procrastinating
+[TEXT—17.20](*1)          dīyate    —    given
+[TEXT—17.22](*1)          dīyate    —    is given
+[TEXT—17.21](*1)          dīyate    —    is given in charity
+[TEXT—13.16](*1)          dūrasthaṁ    —    far away
+[TEXT—2.49](*1)          dūreṇa    —    by discarding it at a long distance
+[TEXT—12.13-14](*1)          dṛdḥaniścayaḥ    —    with determination
+[TEXT—9.14,7.28](*2)          dṛḍha-vratāḥ    —    with determination
+[TEXT—6.34](*1)          dṛḍham    —    obstinate
+[TEXT—18.64](*1)          dṛḍham    —    very
+[TEXT—15.3-4](*1)          dṛḍhena    —    strong
+[TEXT—17.11](*1)          dṛṣtaḥ    —    direction
+[TEXT—11.53](*1)          dṛṣṭavān    —    seeing
+[TEXT—11.52](*1)          dṛṣṭavān asi    —    as you have seen
+[TEXT—2.16](*1)          dṛṣṭaḥ    —    observed
+[TEXT—16.9](*1)          dṛṣṭim    —    vision
+[TEXT—1.28](*1)          dṛṣṭvā    —    after seeing
+[TEXT—2.59](*1)          dṛṣṭvā    —    by experiencing
+[TEXT—11.49,11.45,11.24,11.20](*4)          dṛṣṭvā    —    by seeing
+[TEXT—1.20](*1)          dṛṣṭvā    —    looking on
+[TEXT—11.51,11.25,11.23](*3)          dṛṣṭvā    —    seeing
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [d]:321

@@ -1,0 +1,84 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [r]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—6.10](*1)          rahasi    —    in a secluded place
+[TEXT—4.3](*1)          rahasyam    —    mystery
+[TEXT—14.17](*1)          rajasaḥ    —    from the mode of passion
+[TEXT—14.16](*1)          rajasaḥ    —    of the mode of passion
+[TEXT—14.15](*1)          rajasi    —    in passion
+[TEXT—14.12](*1)          rajasi    —    in the mode of passion
+[TEXT—17.1](*1)          rajaḥ    —    in passion
+[TEXT—14.10,14.9,14.7,14.5](*4)          rajaḥ    —    mode of passion
+[TEXT—3.37](*1)          rajo-guṇa    —    the mode of passion
+[TEXT—18.44](*1)          rakṣya    —    protection
+[TEXT—11.36](*1)          rakṣāṁsi    —    the demons
+[TEXT—10.9](*1)          ramanti    —    enjoy transcendental bliss
+[TEXT—18.36-37](*1)          ramate    —    enjoyer
+[TEXT—5.22](*1)          ramate    —    take delight
+[TEXT—2.59](*1)          rasa-varjam    —    giving up the taste
+[TEXT—15.13](*1)          rasa-ātmakaḥ    —    supplying the juice
+[TEXT—15.9](*1)          rasanam    —    tongue
+[TEXT—2.59](*1)          rasaḥ    —    sense of enjoyment
+[TEXT—7.8](*1)          rasaḥ    —    taste
+[TEXT—17.8-10](*1)          rasyāḥ    —    juicy
+[TEXT—1.46](*1)          ratha    —    chariot
+[TEXT—1.21-22](*1)          ratham    —    the chariot
+[TEXT—1.24](*1)          rathottamam    —    the finest chariot
+[TEXT—12.3-4,5.25](*2)          ratāḥ    —    engaged
+[TEXT—10.21](*1)          raviḥ    —    the sun
+[TEXT—13.34](*1)          raviḥ    —    the sun, kṣetram—this body
+[TEXT—1.21-22](*1)          raṇa    —    strife
+[TEXT—1.45](*1)          raṇe    —    in the battlefield
+[TEXT—11.34](*1)          raṇe    —    in the fight
+[TEXT—2.35](*1)          raṇāt    —    from the battlefield
+[TEXT—6.5](*1)          ripuḥ    —    enemy
+[TEXT—1.29](*1)          roma-harṣaḥ    —    standing of hair on end
+[TEXT—18.74](*1)          romaharṣaṇam    —    hair standing on end
+[TEXT—4.29](*1)          ruddhvā    —    checking
+[TEXT—2.5](*1)          rudhira    —    blood
+[TEXT—11.22](*1)          rudra    —    manifestations of Lord Śiva
+[TEXT—11.6](*1)          rudrān    —    the eleven forms of Rudra
+[TEXT—10.23](*1)          rudrāṇām    —    of all the Rudras
+[TEXT—17.5-6,7.11,4.10,3.34,2.64,2.56](*6)          rāga    —    attachment
+[TEXT—18.51-53](*1)          rāga    —    attachments
+[TEXT—14.7](*1)          rāga-ātmakam    —    born of desire or lust
+[TEXT—18.27](*1)          rāgī    —    very much attached
+[TEXT—9.2](*1)          rāja-guhyam    —    the king of confidential knowledge
+[TEXT—9.2](*1)          rāja-vidyā    —    the king of education
+[TEXT—18.76,11.9](*2)          rājan    —    O King
+[TEXT—18.77](*1)          rājan    —    O King, hṛṣyāmi— enjoying
+[TEXT—9.33](*1)          rājarṣayaḥ    —    saintly kings
+[TEXT—4.2](*1)          rājarṣayaḥ    —    the saintly kings
+[TEXT—18.21](*1)          rājasam    —    in terms of passion
+[TEXT—18.38,18.24,18.8,17.21,17.18,17.12](*6)          rājasam    —    in the mode of passion
+[TEXT—17.8-10](*1)          rājasasya    —    in the mode of passion
+[TEXT—18.27](*1)          rājasaḥ    —    in the mode of passion
+[TEXT—7.12](*1)          rājasāḥ    —    mode of passion
+[TEXT—14.18](*1)          rājasāḥ    —    those who are situated in the mode of passion
+[TEXT—18.34,18.31](*2)          rājasī    —    in the mode of passion
+[TEXT—17.2](*1)          rājasī    —    mode of passion
+[TEXT—1.44](*1)          rājya    —    kingdom
+[TEXT—11.33,2.8,1.32-35,1.31](*4)          rājyam    —    kingdom
+[TEXT—1.32-35](*1)          rājyasya    —    of the kingdoms
+[TEXT—1.32-35](*1)          rājyena    —    is the kingdom
+[TEXT—1.16-18,1.2](*2)          rājā    —    the king
+[TEXT—9.12](*1)          rākṣasīm    —    demonic
+[TEXT—10.31](*1)          rāmaḥ    —    Rāma
+[TEXT—8.19](*1)          rātri    —    night
+[TEXT—8.18](*1)          rātri-āgame    —    at the fall of night
+[TEXT—8.17](*1)          rātrim    —    night
+[TEXT—8.25](*1)          rātriḥ    —    night
+[TEXT—17.8-10](*1)          rūkṣa    —    dry
+[TEXT—18.77,15.3-4,11.52,11.51,11.50,11.49,11.47,11.23,11.20,11.3,8.9](*11)          rūpam    —    form
+[TEXT—11.45](*1)          rūpam    —    the form
+[TEXT—11.9](*1)          rūpam    —    universal form
+[TEXT—11.52](*1)          rūpasya    —    of the form
+[TEXT—11.48](*1)          rūpaḥ    —    form
+[TEXT—11.46](*1)          rūpeṇa    —    with form
+[TEXT—11.5](*1)          rūpāṇi    —    forms
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [r]:75

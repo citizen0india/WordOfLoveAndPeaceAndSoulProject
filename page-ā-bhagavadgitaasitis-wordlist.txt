@@ -1,0 +1,230 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ā]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—11.10-11](*1)          ābharaṇam    —    ornaments
+[TEXT—13.15](*1)          ābhāsam    —    original source
+[TEXT—8.16](*1)          ābrahma    —    up to the Brahmaloka planet
+[TEXT—3.19](*1)          ācaran    —    performing
+[TEXT—4.23](*1)          ācarataḥ    —    so acting
+[TEXT—3.21](*1)          ācarati    —    does he act
+[TEXT—16.21](*1)          ācarati    —    performs
+[TEXT—16.7,14.21](*2)          ācāraḥ    —    behavior
+[TEXT—1.3](*1)          ācārya    —    O teacher
+[TEXT—13.8-12](*1)          ācārya-upāsanam    —    approaching a bona fide spiritual master
+[TEXT—1.2](*1)          ācāryam    —    the teacher
+[TEXT—1.26](*1)          ācāryān    —    teachers
+[TEXT—1.32-35](*1)          ācāryāḥ    —    teachers
+[TEXT—3.38](*1)          ādarśaḥ    —    mirror
+[TEXT—5.15](*1)          ādatte    —    accepts
+[TEXT—4.4,3.41](*2)          ādau    —    in the beginning
+[TEXT—12.8](*1)          ādhatsva    —    fix
+[TEXT—2.8](*1)          ādhipatyam    —    supremacy
+[TEXT—8.12](*1)          ādhāya    —    fixed
+[TEXT—5.10](*1)          ādhāya    —    resigning unto
+[TEXT—5.22](*1)          ādi    —    in the beginning
+[TEXT—10.12-13](*1)          ādi-devam    —    original Lord
+[TEXT—11.38](*1)          ādi-devaḥ    —    the original Supreme God
+[TEXT—11.37](*1)          ādi-kartre    —    the supreme creator
+[TEXT—11.16](*1)          ādim    —    beginning
+[TEXT—9.13](*1)          ādim    —    original
+[TEXT—15.12](*1)          āditya-gatam    —    in the sunshine
+[TEXT—8.9](*1)          āditya-varṇam    —    illuminated like the sun
+[TEXT—5.16](*1)          ādityavat    —    like the rising sun
+[TEXT—11.6](*1)          ādityān    —    the twelve sons of Aditi
+[TEXT—10.21](*1)          ādityānām    —    of the Ādityas
+[TEXT—11.22](*1)          ādityāḥ    —    the Ādityas
+[TEXT—15.3-4,10.32](*2)          ādiḥ    —    beginning
+[TEXT—10.20](*1)          ādiḥ    —    origin
+[TEXT—10.2](*1)          ādiḥ    —    the origin
+[TEXT—15.3-4,11.47,8.28](*3)          ādyam    —    original
+[TEXT—11.31](*1)          ādyam    —    the original
+[TEXT—3.34](*1)          āgacchet    —    one should come
+[TEXT—2.14](*1)          āgama    —    appearing
+[TEXT—8.19](*1)          āgame    —    on arrival
+[TEXT—14.2](*1)          āgatāḥ    —    attain
+[TEXT—4.10](*1)          āgatāḥ    —    attained
+[TEXT—4.19](*1)          āgni    —    fire
+[TEXT—1.20](*1)          āha    —    said
+[TEXT—11.35](*1)          āhakṛṣṇam    —    said unto Kṛṣṇa
+[TEXT—1.31](*1)          āhave    —    in the fight
+[TEXT—17.1](*1)          āho    —    said
+[TEXT—4.19](*1)          āhuḥ    —    declare
+[TEXT—8.21](*1)          āhuḥ    —    is known
+[TEXT—16.8,3.42](*2)          āhuḥ    —    is said
+[TEXT—14.16](*1)          āhuḥ    —    said
+[TEXT—10.12-13](*1)          āhuḥ    —    say
+[TEXT—6.17](*1)          āhāra    —    eating
+[TEXT—17.7](*1)          āhāraḥ    —    eating
+[TEXT—4.29](*1)          āhārāḥ    —    eating
+[TEXT—17.8-10](*1)          āhārāḥ    —    food
+[TEXT—11.31](*1)          ākhyāhi    —    please explain
+[TEXT—18.63](*1)          ākhyātam    —    described
+[TEXT—2.1](*1)          ākula    —    depressed
+[TEXT—9.6](*1)          ākāśa-sthitaḥ    —    situated in space
+[TEXT—13.33](*1)          ākāśam    —    the sky
+[TEXT—14.8](*1)          ālasya    —    indolence
+[TEXT—18.39](*1)          ālasya    —    laziness
+[TEXT—17.8-10](*1)          āmaya-pradāḥ    —    causing disease
+[TEXT—11.24](*1)          ānanam    —    mouth
+[TEXT—7.24](*1)          āpannam    —    achieved
+[TEXT—16.20](*1)          āpannāḥ    —    gaining
+[TEXT—7.4,2.70,2.23](*3)          āpaḥ    —    water
+[TEXT—18.47](*1)          āpnoti    —    achieve
+[TEXT—18.50,5.12,3.19,2.70](*4)          āpnoti    —    achieves
+[TEXT—4.21](*1)          āpnoti    —    does not acquire
+[TEXT—8.15](*1)          āpnuvanti    —    attain
+[TEXT—3.2](*1)          āpnuyām    —    may have it
+[TEXT—5.6](*1)          āptum    —    to be afflicted with
+[TEXT—12.9](*1)          āptum    —    to get
+[TEXT—11.30](*1)          āpūrya    —    covering
+[TEXT—2.70](*1)          āpūryamāṇam    —    always filled
+[TEXT—11.20](*1)          āpṛthivyoḥ    —    of the earth
+[TEXT—3.7](*1)          ārabhate    —    begins
+[TEXT—18.25](*1)          ārabhyate    —    begun
+[TEXT—14.22-25,14.12](*2)          ārambhaḥ    —    endeavor
+[TEXT—18.42](*1)          ārjavam    —    honesty
+[TEXT—17.14,16.1-3,13.8-12](*3)          ārjavam    —    simplicity
+[TEXT—17.8-10](*1)          ārogya    —    health
+[TEXT—7.16](*1)          ārtaḥ    —    the distressed
+[TEXT—6.3](*1)          ārurukṣoḥ    —    of one who has just begun yoga
+[TEXT—7.22](*1)          ārādhanam    —    worship
+[TEXT—6.3](*1)          ārūḍhasya    —    one who has attained
+[TEXT—18.61](*1)          ārūḍhāni    —    being so placed
+[TEXT—12.5](*1)          āsakta    —    being attached
+[TEXT—7.1](*1)          āsakta-manāḥ    —    mind attached
+[TEXT—2.12](*1)          āsam    —    existed
+[TEXT—11.41-42](*1)          āsana    —    in a resting place
+[TEXT—6.11-12](*1)          āsanam    —    seat
+[TEXT—6.11-12](*1)          āsane    —    on the seat
+[TEXT—5.13,3.6](*2)          āste    —    remains
+[TEXT—5.4](*1)          āsthitaḥ    —    being situated
+[TEXT—8.12,7.18](*2)          āsthitaḥ    —    situated
+[TEXT—6.31](*1)          āsthitaḥ    —    thus situated
+[TEXT—3.20](*1)          āsthitāḥ    —    situated
+[TEXT—7.20](*1)          āsthāya    —    following
+[TEXT—18.42](*1)          āstikyam    —    religiousness
+[TEXT—17.5-6](*1)          āsura    —    demons
+[TEXT—16.6](*1)          āsuram    —    demoniac
+[TEXT—16.6](*1)          āsuraḥ    —    demoniac
+[TEXT—16.7](*1)          āsurāḥ    —    in demoniac quality
+[TEXT—16.5](*1)          āsurī    —    demoniac qualities
+[TEXT—9.12](*1)          āsurīm    —    atheistic
+[TEXT—16.20,16.4](*2)          āsurīm    —    demoniac
+[TEXT—16.19](*1)          āsurīṣu    —    demoniac
+[TEXT—9.20](*1)          āsādya    —    enjoying
+[TEXT—9.9](*1)          āsīnam    —    situated
+[TEXT—14.22-25](*1)          āsīnaḥ    —    situated
+[TEXT—6.13-14](*1)          āsīta    —    being so
+[TEXT—2.61](*1)          āsīta    —    being so situated
+[TEXT—2.54](*1)          āsīta    —    does remain
+[TEXT—1.36](*1)          ātatāyinaḥ    —    aggressors
+[TEXT—4.42](*1)          ātiṣṭha    —    be situated
+[TEXT—10.16](*1)          ātma    —    Yourself
+[TEXT—6.11-12](*1)          ātma    —    heart
+[TEXT—16.18](*1)          ātma    —    one's own
+[TEXT—18.36-37,17.16,6.32,5.11](*4)          ātma    —    self
+[TEXT—10.11](*1)          ātma    —    within
+[TEXT—3.13](*1)          ātma-kāraṇāt    —    for sense enjoyment
+[TEXT—4.6](*1)          ātma-māyayā    —    by My internal energy
+[TEXT—3.17](*1)          ātma-ratiḥ    —    takes pleasure
+[TEXT—16.17](*1)          ātma-sambhāvitāḥ    —    self-complacent
+[TEXT—6.25](*1)          ātma-saṁstham    —    placed in transcendence
+[TEXT—14.22-25](*1)          ātma-saṁstutiḥ    —    in praise of himself
+[TEXT—4.27](*1)          ātma-saṁyama    —    controlling the mind
+[TEXT—3.17](*1)          ātma-tṛptaḥ    —    self-illuminated
+[TEXT—4.41](*1)          ātma-vantam    —    situated in the self
+[TEXT—2.64](*1)          ātma-vaśyaiḥ    —    one who has control over
+[TEXT—10.19](*1)          ātma-vibhūtayaḥ    —    personal opulences
+[TEXT—13.8-12](*1)          ātma-vinigrahaḥ    —    control
+[TEXT—11.47](*1)          ātma-yogāt    —    by My internal potency
+[TEXT—18.44](*1)          ātmakam    —    nature
+[TEXT—10.18](*1)          ātmanaḥ    —    of Yourself
+[TEXT—17.19](*1)          ātmanaḥ    —    of one's own self
+[TEXT—6.5](*1)          ātmanaḥ    —    of the conditioned soul
+[TEXT—6.6,5.16](*2)          ātmanaḥ    —    of the living entity
+[TEXT—4.40](*1)          ātmanaḥ    —    of the person
+[TEXT—18.39,16.21,4.42](*3)          ātmanaḥ    —    of the self
+[TEXT—6.19](*1)          ātmanaḥ    —    on Transcendence
+[TEXT—16.21](*1)          ātmanaḥ    —    self
+[TEXT—6.11-12](*1)          ātmanaḥ    —    self-dependant
+[TEXT—8.12](*1)          ātmanaḥ    —    soul
+[TEXT—4.38,3.17](*2)          ātmani    —    in himself
+[TEXT—6.29](*1)          ātmani    —    in the Self
+[TEXT—4.35](*1)          ātmani    —    in the Supreme Soul
+[TEXT—6.18](*1)          ātmani    —    in the Transcendence
+[TEXT—2.55](*1)          ātmani    —    in the pure state of the soul
+[TEXT—15.11,6.26,6.20-23,5.21](*4)          ātmani    —    in the self
+[TEXT—13.25](*1)          ātmani    —    self
+[TEXT—10.15](*1)          ātmanā    —    by Yourself
+[TEXT—3.43](*1)          ātmanā    —    by deliberate intelligence
+[TEXT—6.6](*1)          ātmanā    —    by the living entity
+[TEXT—13.29,13.25,6.36,6.5](*4)          ātmanā    —    by the mind
+[TEXT—6.20-23](*1)          ātmanā    —    by the pure mind
+[TEXT—2.55](*1)          ātmanā    —    by the purified mind
+[TEXT—2.45](*1)          ātmavān    —    established in the Self
+[TEXT—15.17,9.5](*2)          ātmā    —    Self
+[TEXT—4.6](*1)          ātmā    —    body
+[TEXT—6.8](*1)          ātmā    —    living entity
+[TEXT—6.13-14,6.6,6.5](*3)          ātmā    —    mind
+[TEXT—4.40](*1)          ātmā    —    person
+[TEXT—11.24,10.20,3.6](*3)          ātmā    —    soul
+[TEXT—13.32](*1)          ātmā    —    spirit
+[TEXT—13.33](*1)          ātmā    —    the self
+[TEXT—3.27](*1)          ātmā    —    the spirit soul
+[TEXT—7.18](*1)          ātmā eva    —    just like Myself
+[TEXT—6.6](*1)          ātmā eva    —    the very mind
+[TEXT—13.25](*1)          ātmānam    —    Supersoul
+[TEXT—11.4,10.15](*2)          ātmānam    —    Yourself
+[TEXT—6.15](*1)          ātmānam    —    body, mind and soul
+[TEXT—13.30](*1)          ātmānam    —    himself
+[TEXT—6.10](*1)          ātmānam    —    himself (by the body, mind and self)
+[TEXT—18.51-53,6.28,6.20-23,4.7](*4)          ātmānam    —    self
+[TEXT—6.29](*1)          ātmānam    —    the Supersoul
+[TEXT—6.5](*1)          ātmānam    —    the conditioned soul
+[TEXT—3.43](*1)          ātmānam    —    the mind
+[TEXT—18.16,13.29,11.3](*3)          ātmānam    —    the soul
+[TEXT—9.34](*1)          ātmānam    —    your soul
+[TEXT—16.9](*1)          ātmānaḥ    —    self
+[TEXT—6.20-23](*1)          ātyantikam    —    supreme
+[TEXT—8.26](*1)          āvartate    —    comes back
+[TEXT—8.16](*1)          āvartinaḥ    —    returning
+[TEXT—18.70](*1)          āvayoḥ    —    of ours
+[TEXT—12.6-7](*1)          āveśita    —    fixed
+[TEXT—8.10](*1)          āveśya    —    establishing
+[TEXT—12.2](*1)          āveśya    —    fixing
+[TEXT—15.17,15.13](*2)          āviśya    —    entering
+[TEXT—2.1](*1)          āviṣṭam    —    overwhelmed
+[TEXT—1.27](*1)          āviṣṭaḥ    —    overwhelmed by
+[TEXT—3.38](*1)          āvriyate    —    covered
+[TEXT—5.15,3.39](*2)          āvṛtam    —    covered
+[TEXT—3.38](*1)          āvṛtam    —    is covered
+[TEXT—3.38](*1)          āvṛtaḥ    —    is covered
+[TEXT—8.23](*1)          āvṛttim    —    return
+[TEXT—14.9,3.40](*2)          āvṛtya    —    covering
+[TEXT—18.32](*1)          āvṛtā    —    covered
+[TEXT—18.48](*1)          āvṛtāḥ    —    covered
+[TEXT—10.28](*1)          āyudhānām    —    of all weapons
+[TEXT—17.8-10](*1)          āyuḥ    —    duration of life
+[TEXT—10.20](*1)          āśaya-sthitaḥ    —    situated within
+[TEXT—15.8](*1)          āśayāt    —    from the flower
+[TEXT—2.29](*1)          āścaryavat    —    amazing
+[TEXT—2.29](*1)          āścaryavat    —    similarly amazing
+[TEXT—11.6](*1)          āścaryāṇi    —    all the wonderful
+[TEXT—1.36](*1)          āśrayet    —    must take upon
+[TEXT—9.11](*1)          āśritam    —    assuming
+[TEXT—12.11](*1)          āśritaḥ    —    refuge
+[TEXT—15.14](*1)          āśritaḥ    —    situated
+[TEXT—18.59](*1)          āśritya    —    taking shelter
+[TEXT—16.10,7.29](*2)          āśritya    —    taking shelter of
+[TEXT—7.15](*1)          āśritāḥ    —    accepting
+[TEXT—9.13](*1)          āśritāḥ    —    taken shelter of
+[TEXT—2.65](*1)          āśu    —    very soon
+[TEXT—11.50](*1)          āśvāsayāmāsa    —    also convinced him
+[TEXT—16.11-12](*1)          āśā-pāśa    —    entanglement in the network of hope
+[TEXT—16.13-15](*1)          āḍhyaḥ    —    wealthy
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ā]:221

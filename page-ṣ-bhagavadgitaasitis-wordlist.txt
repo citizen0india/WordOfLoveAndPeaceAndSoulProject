@@ -1,0 +1,12 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [ṣ]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—15.7](*1)          ṣaṣṭhāni    —    six
+[TEXT—8.24](*1)          ṣaṭ-māsāḥ    —    six months
+[TEXT—8.25](*1)          ṣaṭ-māsāḥ    —    the six months
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [ṣ]:3

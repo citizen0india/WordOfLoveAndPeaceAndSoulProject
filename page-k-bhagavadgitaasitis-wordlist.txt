@@ -1,0 +1,429 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [k]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.72,6.38](*2)          kaccit    —    whether
+[TEXT—18.67,2.47](*2)          kadācana    —    at any time
+[TEXT—2.20](*1)          kadācit    —    at any time (past, present or future)
+[TEXT—14.21](*1)          kaiḥ    —    by which
+[TEXT—1.21-22](*1)          kaiḥ    —    with whom
+[TEXT—10.30](*1)          kalayatām    —    of subduers
+[TEXT—8.5](*1)          kalevaram    —    the body
+[TEXT—8.6](*1)          kalevaram    —    this body
+[TEXT—2.52](*1)          kalilam    —    dense forest
+[TEXT—6.28](*1)          kalmaṣaḥ    —    all material contamination
+[TEXT—5.17](*1)          kalmaṣāḥ    —    misgivings
+[TEXT—4.30](*1)          kalmaṣāḥ    —    sinful reactions
+[TEXT—9.7](*1)          kalpa-kṣaye    —    at the end of the millennium
+[TEXT—9.7](*1)          kalpa-ādau    —    in the beginning of the millennium
+[TEXT—14.26](*1)          kalpate    —    is considered
+[TEXT—2.15](*1)          kalpate    —    is considered eligible
+[TEXT—18.51-53](*1)          kalpate    —    is understood
+[TEXT—6.40](*1)          kalyāṇa-kṛt    —    one who is engaged in auspicious activities
+[TEXT—2.21](*1)          kam    —    whom
+[TEXT—7.20](*1)          kamaiḥ    —    by desires
+[TEXT—11.2](*1)          kamala-patrākṣa    —    O lotus-eyed one
+[TEXT—11.15](*1)          kamala-āsana-stham    —    sitting on the lotus flower
+[TEXT—10.28](*1)          kandarpaḥ    —    Cupid
+[TEXT—1.20](*1)          kapi-dhvajaḥ    —    one whose flag is marked with Hanumān
+[TEXT—10.26](*1)          kapilaḥ muniḥ    —    Kapila Muni
+[TEXT—17.15](*1)          karam    —    producing
+[TEXT—2.2](*1)          karam    —    the cause of
+[TEXT—18.18](*1)          karaṇam    —    the senses
+[TEXT—18.13-14](*1)          karaṇam ca    —    and instruments
+[TEXT—2.33](*1)          kariṣyasi    —    perform
+[TEXT—18.60](*1)          kariṣyasi    —    you will act
+[TEXT—3.33](*1)          kariṣyati    —    can do
+[TEXT—18.73](*1)          kariṣye    —    I shall execute
+[TEXT—15.2](*1)          karma    —    according to work
+[TEXT—9.28,4.16](*2)          karma    —    action
+[TEXT—5.11](*1)          karma    —    actions
+[TEXT—18.5,18.2,4.33,4.24,2.49](*5)          karma    —    activities
+[TEXT—18.23](*1)          karma    —    acts
+[TEXT—3.8](*1)          karma    —    duties
+[TEXT—18.44,18.42](*2)          karma    —    duty
+[TEXT—4.18](*1)          karma    —    fruitive action
+[TEXT—8.3,8.1,7.29](*3)          karma    —    fruitive activities
+[TEXT—3.24,3.14](*2)          karma    —    prescribed duties
+[TEXT—4.15](*1)          karma    —    prescribed duty
+[TEXT—18.48,18.47,18.25,18.24,18.19,18.18,18.15,18.11,18.10,18.9,18.8,18.3,17.26-27,16.24,6.3,6.1,4.23,4.21,4.16,4.15,4.13,4.9,3.19,3.15,3.9,3.8,3.5](*27)          karma    —    work
+[TEXT—6.1](*1)          karma- phalam    —    the result of work
+[TEXT—2.39](*1)          karma-bandham    —    bondage of reaction
+[TEXT—3.9](*1)          karma-bandhanaḥ    —    bondage by work
+[TEXT—3.7](*1)          karma-indriyaiḥ    —    by the active sense organs
+[TEXT—3.6](*1)          karma-indriyāṇi    —    the five working sense organs
+[TEXT—2.51](*1)          karma-jam    —    because of fruitive activities
+[TEXT—4.32](*1)          karma-jān    —    born of work
+[TEXT—2.47](*1)          karma-phala    —    in the result of the work
+[TEXT—5.14](*1)          karma-phala    —    results of activities
+[TEXT—18.27](*1)          karma-phala    —    to the fruit of the work
+[TEXT—12.12](*1)          karma-phala-tyāgaḥ    —    renunciation of the results of fruitive action
+[TEXT—4.20](*1)          karma-phala-āsaṅgam    —    attachment for fruitive results
+[TEXT—5.12](*1)          karma-phalam    —    the results of all activities
+[TEXT—4.14](*1)          karma-phale    —    in fruitive action
+[TEXT—5.2](*1)          karma-sannyāsāt    —    in comparison to the renunciation of fruitive work
+[TEXT—14.7](*1)          karma-saṅgena    —    association with fruitive activity
+[TEXT—3.26](*1)          karma-saṅginām    —    attached to fruitive work
+[TEXT—14.15](*1)          karma-saṅgiṣu    —    in the association of fruitive activities
+[TEXT—3.7](*1)          karma-yogam    —    devotion
+[TEXT—5.2](*1)          karma-yogaḥ    —    work in devotion
+[TEXT—13.25](*1)          karma-yogena    —    by activities without fruitive desire
+[TEXT—3.3](*1)          karma-yogena    —    by the linking process of devotion
+[TEXT—4.14](*1)          karmabhiḥ    —    by the reaction of such work
+[TEXT—3.31](*1)          karmabhiḥ    —    from the bondage of the law of fruitive action
+[TEXT—4.12](*1)          karmajā    —    the fruitive worker
+[TEXT—9.9](*1)          karmasu    —    in activities
+[TEXT—2.50](*1)          karmasu    —    in all activities
+[TEXT—6.17](*1)          karmasu    —    in discharging duties
+[TEXT—6.4](*1)          karmasu    —    in fruitive activities
+[TEXT—18.7](*1)          karmaṇaḥ    —    activities
+[TEXT—14.16](*1)          karmaṇaḥ    —    of work
+[TEXT—3.1](*1)          karmaṇaḥ    —    than fruitive action
+[TEXT—18.12](*1)          karmaṇaḥ    —    work
+[TEXT—3.9](*1)          karmaṇaḥ    —    work done
+[TEXT—4.17](*1)          karmaṇaḥ    —    working order
+[TEXT—17.26-27](*1)          karmaṇi    —    activities
+[TEXT—14.9](*1)          karmaṇi    —    fruits of activities
+[TEXT—4.18,3.1](*2)          karmaṇi    —    in action
+[TEXT—4.20](*1)          karmaṇi    —    in activity
+[TEXT—3.22](*1)          karmaṇi    —    in one's prescribed duty
+[TEXT—3.23](*1)          karmaṇi    —    in the performance of prescribed duties
+[TEXT—18.45](*1)          karmaṇi    —    in work
+[TEXT—3.25,2.47](*2)          karmaṇi    —    prescribed duties
+[TEXT—18.60](*1)          karmaṇā    —    activities
+[TEXT—3.20](*1)          karmaṇā    —    by work
+[TEXT—18.2](*1)          karmaṇām    —    activities
+[TEXT—18.13-14](*1)          karmaṇām    —    actuated
+[TEXT—14.12](*1)          karmaṇām    —    of activities
+[TEXT—5.1](*1)          karmaṇām    —    of all activities
+[TEXT—4.12](*1)          karmaṇām    —    of fruitive activities
+[TEXT—3.4](*1)          karmaṇām    —    of the prescribed duties
+[TEXT—7.28](*1)          karmaṇām    —    previous activities
+[TEXT—6.46](*1)          karmibhyaḥ    —    than the fruitive worker
+[TEXT—4.41](*1)          karmāṇam    —    of the performers
+[TEXT—4.19](*1)          karmāṇam    —    the performer
+[TEXT—18.56,18.41,18.6,13.30,12.6-7,9.9,5.14,5.13,3.27](*9)          karmāṇi    —    activities
+[TEXT—18.11](*1)          karmāṇi    —    activities of
+[TEXT—4.14](*1)          karmāṇi    —    all kinds of work
+[TEXT—5.10](*1)          karmāṇi    —    all works
+[TEXT—4.27](*1)          karmāṇi    —    functions
+[TEXT—12.10](*1)          karmāṇi    —    what
+[TEXT—4.41,3.26](*2)          karmāṇi    —    work
+[TEXT—2.48](*1)          karmāṇi    —    your duty
+[TEXT—5.8-9](*1)          karomi    —    do I do
+[TEXT—4.20](*1)          karoti    —    do
+[TEXT—6.1,5.10](*2)          karoti    —    performs
+[TEXT—9.27](*1)          karoṣi    —    you do
+[TEXT—3.22](*1)          kartavyam    —    any prescribed duty
+[TEXT—18.6](*1)          kartavyāni    —    as duty
+[TEXT—3.20](*1)          kartum    —    to act
+[TEXT—18.60,16.24,2.17](*3)          kartum    —    to do
+[TEXT—9.2](*1)          kartum    —    to execute
+[TEXT—12.11,1.44](*2)          kartum    —    to perform
+[TEXT—3.24](*1)          kartā    —    creator
+[TEXT—3.27](*1)          kartā    —    doer
+[TEXT—18.27](*1)          kartā    —    such a worker
+[TEXT—18.18](*1)          kartā    —    the doer
+[TEXT—18.28,18.26,18.19,18.13-14](*4)          kartā    —    worker
+[TEXT—18.16](*1)          kartāram    —    of the worker
+[TEXT—4.13](*1)          kartāram    —    the father
+[TEXT—14.19](*1)          kartāram    —    the performer
+[TEXT—5.14](*1)          kartṛtvam    —    proprietorship
+[TEXT—13.21](*1)          kartṛtve    —    in the matter of creation
+[TEXT—12.13-14](*1)          karuṇaḥ    —    kindly
+[TEXT—11.23](*1)          karālam    —    horrible
+[TEXT—11.25](*1)          karālāni    —    like that
+[TEXT—11.26-27](*1)          karālāni    —    terrible
+[TEXT—11.34](*1)          karṇam    —    also Karṇa
+[TEXT—1.8](*1)          karṇaḥ    —    Karṇa
+[TEXT—15.7](*1)          karṣati    —    struggling hard
+[TEXT—17.5-6](*1)          karṣayantaḥ    —    tormenting
+[TEXT—11.37](*1)          kasmāt    —    why
+[TEXT—5.15](*1)          kasyacit    —    anyone's
+[TEXT—2.6](*1)          katarat    —    which
+[TEXT—10.17,8.2,4.4,2.21,2.4,1.36](*6)          katham    —    how
+[TEXT—14.21](*1)          katham    —    what
+[TEXT—1.37-38](*1)          katham    —    why
+[TEXT—10.18](*1)          kathaya    —    describe
+[TEXT—10.9](*1)          kathayantaḥ ca    —    talking also
+[TEXT—18.75](*1)          kathayataḥ    —    speaking
+[TEXT—2.34](*1)          kathayiṣyanti    —    will speak
+[TEXT—10.19](*1)          kathayiṣyāmi    —    I shall speak
+[TEXT—2.13](*1)          kaumāram    —    boyhood
+[TEXT—18.60,18.50,18.48,16.21,16.20,14.7,14.4,13.32,13.1-2,9.31,9.27,9.10,9.7,8.16,7.8,6.35,5.22,3.39,3.9,2.60,2.37,2.14](*22)          kaunteya    —    O son of Kuntī
+[TEXT—1.27](*1)          kaunteyaḥ    —    the son of Kuntī
+[TEXT—2.50](*1)          kauśalam    —    art
+[TEXT—4.16](*1)          kavayaḥ    —    the intelligent
+[TEXT—18.2](*1)          kavayaḥ    —    the learned
+[TEXT—8.9](*1)          kavim    —    one who knows everything
+[TEXT—10.37](*1)          kaviḥ    —    the thinker
+[TEXT—10.37](*1)          kavīnām    —    of all great thinkers
+[TEXT—8.27,7.26,6.2](*3)          kaścana    —    anyone
+[TEXT—3.18](*1)          kaścana    —    whatever
+[TEXT—3.18](*1)          kaścit    —    any
+[TEXT—18.69,6.40,3.5,2.29](*4)          kaścit    —    anyone
+[TEXT—2.29](*1)          kaścit    —    some
+[TEXT—7.3](*1)          kaścit    —    someone
+[TEXT—2.2](*1)          kaśmalam    —    dirtiness
+[TEXT—11.31,8.2](*2)          kaḥ    —    who
+[TEXT—16.13-15](*1)          kaḥ    —    who else
+[TEXT—17.8-10](*1)          kaṭu    —    bitter
+[TEXT—12.1](*1)          ke    —    who
+[TEXT—13.25](*1)          kecit    —    one
+[TEXT—11.26-27,11.21](*2)          kecit    —    some of them
+[TEXT—3.36](*1)          kena    —    by what
+[TEXT—12.18-19](*1)          kena    —    or other
+[TEXT—5.11](*1)          kevalaiḥ    —    purified
+[TEXT—18.16,4.21](*2)          kevalam    —    only
+[TEXT—18.76](*1)          keśava    —    Lord Kṛṣṇa
+[TEXT—13.1-2,10.14,2.54](*3)          keśava    —    O Kṛṣṇa
+[TEXT—1.30](*1)          keśava    —    O killer of the demon Keśī (Kṛṣṇa)
+[TEXT—11.35](*1)          keśavasya    —    of Kṛṣṇa
+[TEXT—18.1](*1)          keśi-nisūdana    —    O killer of the Keśī demon
+[TEXT—10.17](*1)          keṣu    —    in which
+[TEXT—7.4](*1)          kham    —    ether
+[TEXT—7.8](*1)          khe    —    in the ether
+[TEXT—3.13](*1)          kilbiṣaiḥ    —    sins
+[TEXT—18.47,4.21](*2)          kilbiṣam    —    sinful reactions
+[TEXT—6.45](*1)          kilbiṣaḥ    —    all kinds of sins
+[TEXT—2.54](*1)          kim    —    how
+[TEXT—9.33](*1)          kim    —    how much
+[TEXT—14.21,10.42,8.1,3.33,2.54,1.32-35,1.1](*7)          kim    —    what
+[TEXT—4.16](*1)          kim    —    what is
+[TEXT—2.36](*1)          kim    —    what is there
+[TEXT—1.32-35](*1)          kim    —    what to speak of
+[TEXT—1.32-35](*1)          kim    —    what use
+[TEXT—3.1](*1)          kim    —    why
+[TEXT—16.8](*1)          kim anyat    —    there is no other cause
+[TEXT—11.35](*1)          kirītī    —    Arjuna
+[TEXT—11.46](*1)          kirīṭinam    —    with helmet
+[TEXT—11.17](*1)          kirīṭinam    —    with helmets
+[TEXT—3.22](*1)          kiñcana    —    anything
+[TEXT—13.27,5.8-9,4.20](*3)          kiñcit    —    anything
+[TEXT—6.25](*1)          kiñcit    —    anything else
+[TEXT—7.7](*1)          kiñcit    —    something
+[TEXT—2.3](*1)          klaibyam    —    impotence
+[TEXT—2.23](*1)          kledayanti    —    moistens
+[TEXT—18.8](*1)          kleśa    —    troublesome
+[TEXT—12.5](*1)          kleśaḥ    —    trouble
+[TEXT—9.16](*1)          kratuḥ    —    ritual
+[TEXT—3.27](*1)          kriyamāṇāni    —    all being done
+[TEXT—13.30](*1)          kriyamāṇāni    —    engaged in performing
+[TEXT—17.25](*1)          kriyante    —    done
+[TEXT—17.19](*1)          kriyate    —    is performed
+[TEXT—18.24,18.9,17.18](*3)          kriyate    —    performed
+[TEXT—6.11-12](*1)          kriyaḥ    —    activities
+[TEXT—2.42-43](*1)          kriyā-viśeṣa    —    pompous ceremonies
+[TEXT—11.48](*1)          kriyābhiḥ    —    by pious activities
+[TEXT—18.33,17.25](*2)          kriyāḥ    —    activities
+[TEXT—1.41](*1)          kriyāḥ    —    performance
+[TEXT—17.24](*1)          kriyāḥ    —    performances
+[TEXT—16.4](*1)          krodaḥ    —    anger
+[TEXT—16.11-12,5.26,5.23](*3)          krodha    —    anger
+[TEXT—18.51-53,16.18](*2)          krodham    —    anger
+[TEXT—16.21,5.27-28,2.62,2.56](*4)          krodhaḥ    —    anger
+[TEXT—3.37](*1)          krodhaḥ    —    wrath
+[TEXT—2.63](*1)          krodhāt    —    from anger
+[TEXT—4.10](*1)          krodhāḥ    —    anger
+[TEXT—16.19](*1)          krūrān    —    mischievous
+[TEXT—1.42](*1)          kula- dharmāḥ    —    family tradition
+[TEXT—1.39](*1)          kula-dharmāḥ    —    the family traditions
+[TEXT—1.43](*1)          kula-dharmāṇām    —    of those who have the family traditions
+[TEXT—1.42](*1)          kula-ghnānām    —    of the destroyer of a family
+[TEXT—1.41](*1)          kula-ghnānām    —    of those who are killers of the family
+[TEXT—1.37-38](*1)          kula-kṣaya    —    in killing the family
+[TEXT—1.37-38](*1)          kula-kṣaya    —    the destruction of a dynasty
+[TEXT—1.39](*1)          kula-kṣaye    —    in destroying the family
+[TEXT—1.40](*1)          kula-striyaḥ    —    family ladies
+[TEXT—1.39](*1)          kulam    —    family
+[TEXT—1.41](*1)          kulasya    —    of the family
+[TEXT—6.42](*1)          kule    —    in the family of
+[TEXT—1.5](*1)          kuntibhojaḥ    —    Kuntibhoja
+[TEXT—1.16-18](*1)          kuntī- putraḥ    —    the son of Kuntī
+[TEXT—12.11,3.8](*2)          kuru    —    do
+[TEXT—4.15](*1)          kuru    —    just perform
+[TEXT—18.63,2.48](*2)          kuru    —    perform
+[TEXT—1.1](*1)          kuru-kṣetre    —    in the place named Kurukṣetra
+[TEXT—2.41](*1)          kuru-nandana    —    O beloved child of the Kurus
+[TEXT—14.13,6.43](*2)          kuru-nandana    —    O son of Kuru
+[TEXT—11.48](*1)          kuru-pravīra    —    O best among the Kuru warriors
+[TEXT—4.31](*1)          kuru-sattama    —    O best amongst the Kurus
+[TEXT—1.12](*1)          kuru-vṛddhaḥ    —    the grandsire of the Kuru dynasty (Bhīṣma)
+[TEXT—3.21](*1)          kurute    —    does perform
+[TEXT—4.37](*1)          kurute    —    it so does
+[TEXT—4.37](*1)          kurute    —    so does
+[TEXT—10.19](*1)          kuruśreṣṭha    —    O best of the Kurus
+[TEXT—9.27](*1)          kuruṣva    —    make
+[TEXT—5.13](*1)          kurvan    —    doing anything
+[TEXT—4.21](*1)          kurvan    —    doing so
+[TEXT—18.47,12.10](*2)          kurvan    —    performing
+[TEXT—5.7](*1)          kurvan api    —    although engaged in work
+[TEXT—3.25](*1)          kurvanti    —    do it
+[TEXT—5.11](*1)          kurvanti    —    they act
+[TEXT—18.56](*1)          kurvāṇaḥ    —    performing
+[TEXT—3.24](*1)          kuryām    —    perform
+[TEXT—3.25](*1)          kuryāt    —    must do
+[TEXT—1.25](*1)          kurūn    —    all the members of the Kuru dynasty
+[TEXT—10.35](*1)          kusumākaraḥ    —    spring
+[TEXT—11.43](*1)          kutaḥ    —    how is it possible
+[TEXT—4.31,2.66](*2)          kutaḥ    —    where is
+[TEXT—2.2](*1)          kutaḥ    —    wherefrom
+[TEXT—18.10](*1)          kuśale    —    in auspicious
+[TEXT—18.12](*1)          kvacit    —    at any time
+[TEXT—2.54,1.32-35](*2)          kā    —    what
+[TEXT—17.1](*1)          kā    —    what is that
+[TEXT—8.23](*1)          kālam    —    time
+[TEXT—11.32,10.33,10.30](*3)          kālaḥ    —    time
+[TEXT—7.30](*1)          kāle    —    at the time
+[TEXT—17.20](*1)          kāle    —    in time
+[TEXT—8.23](*1)          kāle    —    time
+[TEXT—17.22](*1)          kāle    —    unpurified time
+[TEXT—4.38](*1)          kālena    —    in course of time
+[TEXT—4.2](*1)          kālena    —    in the course of time
+[TEXT—8.7](*1)          kāleṣu    —    time
+[TEXT—11.25](*1)          kālānala    —    the fire of death
+[TEXT—6.37](*1)          kām    —    which
+[TEXT—5.23](*1)          kāma    —    desire
+[TEXT—4.19](*1)          kāma    —    desire for sense gratification
+[TEXT—5.26](*1)          kāma    —    desires
+[TEXT—17.5-6,16.16,16.11-12](*3)          kāma    —    lust
+[TEXT—7.11](*1)          kāma    —    passion
+[TEXT—2.42-43](*1)          kāma- ātmānaḥ    —    desirous of sense gratification
+[TEXT—3.10](*1)          kāma-dhuk    —    bestower
+[TEXT—16.8](*1)          kāma-haitukam    —    it is due to lust only
+[TEXT—9.21](*1)          kāma-kāmāḥ    —    desiring sense enjoyments
+[TEXT—2.70](*1)          kāma-kāmī    —    one who desires to fulfill desires
+[TEXT—16.23](*1)          kāma-kārataḥ    —    acting whimsically in lust
+[TEXT—5.12](*1)          kāma-kāreṇa    —    for enjoying the result of work
+[TEXT—3.43](*1)          kāma-rūpam    —    the form of lust
+[TEXT—3.39](*1)          kāma-rūpeṇa    —    in the form of lust
+[TEXT—16.11-12](*1)          kāma-upabhoga    —    sense gratification
+[TEXT—18.24](*1)          kāma-īpsunā    —    with fruitive result
+[TEXT—10.28](*1)          kāmadhuk    —    the surabhi cows
+[TEXT—18.51-53,16.18,16.10](*3)          kāmam    —    lust
+[TEXT—2.62](*1)          kāmaḥ    —    desire
+[TEXT—16.21,3.37](*2)          kāmaḥ    —    lust
+[TEXT—7.11](*1)          kāmaḥ    —    sex-life
+[TEXT—6.18](*1)          kāmebhyaḥ    —    material desires
+[TEXT—18.2](*1)          kāmyānām    —    with desire
+[TEXT—2.71](*1)          kāmān    —    all material desires for sense gratification
+[TEXT—7.22](*1)          kāmān    —    desires
+[TEXT—2.55](*1)          kāmān    —    desires for sense gratification
+[TEXT—6.24](*1)          kāmān    —    sense gratification
+[TEXT—2.5](*1)          kāmān    —    so desiring
+[TEXT—2.62](*1)          kāmāt    —    from desire
+[TEXT—2.70](*1)          kāmāḥ    —    desires
+[TEXT—15.5](*1)          kāmāḥ    —    lusts
+[TEXT—1.42](*1)          kārakaiḥ    —    by the doers
+[TEXT—5.13](*1)          kārayan    —    causing to be done
+[TEXT—13.21](*1)          kāraṇa    —    cause
+[TEXT—13.22](*1)          kāraṇam    —    cause
+[TEXT—6.3](*1)          kāraṇam    —    the cause
+[TEXT—18.13-14](*1)          kāraṇāni    —    cause
+[TEXT—2.7](*1)          kārpaṇya    —    miserly
+[TEXT—16.24](*1)          kārya    —    duty
+[TEXT—13.21](*1)          kārya    —    effect
+[TEXT—18.30](*1)          kārya    —    work
+[TEXT—3.19](*1)          kāryam    —    as duty
+[TEXT—3.17](*1)          kāryam    —    duty
+[TEXT—18.9,18.5](*2)          kāryam    —    must be done
+[TEXT—6.1](*1)          kāryam    —    obligatory
+[TEXT—18.31](*1)          kāryam    —    work
+[TEXT—3.5](*1)          kāryate    —    forced to work
+[TEXT—18.22](*1)          kārye    —    work
+[TEXT—18.51-53,18.8](*2)          kāya    —    body
+[TEXT—6.13-14](*1)          kāya-śiraḥ    —    body and head
+[TEXT—11.44](*1)          kāyam    —    body
+[TEXT—5.11](*1)          kāyena    —    with the body
+[TEXT—14.22-25,6.8](*2)          kāñcanaḥ    —    gold
+[TEXT—1.5](*1)          kāśirājaḥ    —    Kaśirāja
+[TEXT—1.16-18](*1)          kāśyaḥ    —    the King of Kāśī (Vārāṇasī)
+[TEXT—4.12](*1)          kāṅkṣantaḥ    —    desiring
+[TEXT—18.54,14.22-25,12.17,5.3](*4)          kāṅkṣati    —    desires
+[TEXT—1.31](*1)          kāṅkṣe    —    do I desire
+[TEXT—1.32-35](*1)          kāṅkṣitam    —    desired
+[TEXT—9.14](*1)          kīrtayantaḥ    —    chanting
+[TEXT—2.33](*1)          kīrtim    —    reputation
+[TEXT—10.34](*1)          kīrtiḥ    —    fame
+[TEXT—2.58](*1)          kūrmaḥ    —    tortoise
+[TEXT—12.3-4](*1)          kūṭastham    —    in the center
+[TEXT—15.16](*1)          kūṭasthaḥ    —    in oneness
+[TEXT—6.8](*1)          kūṭasthaḥ    —    spiritually situated
+[TEXT—2.1,1.27](*2)          kṛpayā    —    by compassion
+[TEXT—1.8](*1)          kṛpaḥ    —    Kṛpa
+[TEXT—2.49](*1)          kṛpaṇāḥ    —    the misers
+[TEXT—2.37](*1)          kṛta    —    determination
+[TEXT—15.20](*1)          kṛta-kṛtyaḥ    —    the most perfect
+[TEXT—4.15](*1)          kṛtam    —    as performed
+[TEXT—1.37-38](*1)          kṛtam    —    by so doing
+[TEXT—18.23,1.37-38](*2)          kṛtam    —    done
+[TEXT—17.28,4.15](*2)          kṛtam    —    performed
+[TEXT—3.18](*1)          kṛtena    —    by discharge of duty
+[TEXT—4.18](*1)          kṛtsna-karma-kṛt    —    although engaged in all activities
+[TEXT—3.29](*1)          kṛtsna-vit    —    one who is in factual knowledge
+[TEXT—13.34](*1)          kṛtsnam    —    all
+[TEXT—10.42](*1)          kṛtsnam    —    all manifestations
+[TEXT—11.13,11.7](*2)          kṛtsnam    —    completely
+[TEXT—7.29](*1)          kṛtsnam    —    everything
+[TEXT—13.34](*1)          kṛtsnam    —    the whole
+[TEXT—9.8](*1)          kṛtsnam    —    total
+[TEXT—1.39](*1)          kṛtsnam    —    wholesale
+[TEXT—7.6](*1)          kṛtsnasya    —    all-inclusive
+[TEXT—18.22](*1)          kṛtsnavat    —    all in all
+[TEXT—18.8](*1)          kṛtvā    —    after doing
+[TEXT—4.22](*1)          kṛtvā    —    doing
+[TEXT—6.25,6.11-12,5.27-28,2.38](*4)          kṛtvā    —    doing so
+[TEXT—18.68](*1)          kṛtvā    —    having done
+[TEXT—18.13-14](*1)          kṛtānte    —    after performance
+[TEXT—11.35,11.14](*2)          kṛtāñjaliḥ    —    with folded hands
+[TEXT—18.44](*1)          kṛṣi    —    ploughing
+[TEXT—17.1,6.39,6.37,6.34,5.1,1.40,1.31,1.28](*8)          kṛṣṇa    —    O Kṛṣṇa
+[TEXT—18.78](*1)          kṛṣṇaḥ    —    Lord Krṣna
+[TEXT—8.25](*1)          kṛṣṇaḥ    —    the fortnight of the dark moon
+[TEXT—8.26](*1)          kṛṣṇe    —    darkness
+[TEXT—18.75](*1)          kṛṣṇāt    —    from Kṛṣṇa
+[TEXT—16.1-3,10.4-5](*2)          kṣamā    —    forgiveness
+[TEXT—10.34](*1)          kṣamā    —    patience
+[TEXT—12.13-14](*1)          kṣamī    —    forgiving
+[TEXT—4.30](*1)          kṣapita    —    being cleansed of the result of such performances
+[TEXT—15.18](*1)          kṣaram    —    the fallible
+[TEXT—8.4](*1)          kṣaraḥ    —    constantly changing
+[TEXT—15.16](*1)          kṣaraḥ    —    fallible
+[TEXT—15.16](*1)          kṣaraḥ    —    the fallible
+[TEXT—18.41](*1)          kṣatriya    —    the kṣatriyas
+[TEXT—2.31](*1)          kṣatriyasya    —    of the kṣatriya
+[TEXT—2.32](*1)          kṣatriyāḥ    —    the members of the royal order
+[TEXT—11.32](*1)          kṣaya-kṛt    —    destroyer
+[TEXT—18.25](*1)          kṣayam    —    distracted
+[TEXT—16.9](*1)          kṣayāya    —    for destruction
+[TEXT—3.5](*1)          kṣaṇam    —    even a moment
+[TEXT—1.45](*1)          kṣemataram    —    better
+[TEXT—13.35](*1)          kṣetra    —    body
+[TEXT—13.3](*1)          kṣetra    —    field of activities (the body)
+[TEXT—13.27](*1)          kṣetra    —    the body
+[TEXT—13.27](*1)          kṣetrajña    —    knower of the body
+[TEXT—13.1-2](*1)          kṣetrajñam    —    knower of the body
+[TEXT—13.3](*1)          kṣetrajñam    —    the knower
+[TEXT—13.35](*1)          kṣetrajñayoḥ    —    of the proprietor of the body
+[TEXT—13.3](*1)          kṣetrajñayoḥ    —    the knower of the field
+[TEXT—13.1-2](*1)          kṣetrajñaḥ    —    knower of the body
+[TEXT—13.1-2](*1)          kṣetram    —    body
+[TEXT—13.6-7,13.4](*2)          kṣetram    —    field of activities
+[TEXT—13.19](*1)          kṣetram    —    field of activities (the body)
+[TEXT—13.1-2](*1)          kṣetram    —    the field
+[TEXT—13.3](*1)          kṣetreṣu    —    in bodily fields
+[TEXT—13.34](*1)          kṣetrī    —    the soul
+[TEXT—4.12](*1)          kṣipram    —    very quickly
+[TEXT—9.31](*1)          kṣipram    —    very soon
+[TEXT—16.19](*1)          kṣipāmi    —    put
+[TEXT—2.3](*1)          kṣudram    —    very little
+[TEXT—11.41-42](*1)          kṣāmaye    —    excuse
+[TEXT—18.42,13.8-12](*2)          kṣāntiḥ    —    tolerance
+[TEXT—18.43](*1)          kṣātram-kṣatriya karma    —    duty
+[TEXT—5.25](*1)          kṣīṇa-kalmaṣāḥ    —    who are devoid of all sins
+[TEXT—9.21](*1)          kṣīṇe    —    being exhausted
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [k]:420

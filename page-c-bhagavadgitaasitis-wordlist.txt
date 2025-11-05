@@ -1,0 +1,97 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [c]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.77,18.76,18.74,18.70,18.67,18.51-53,18.39,18.36-37,18.35,18.32,18.31,18.30,18.29,18.28,18.25,18.19,18.13-14,18.9,17.28,17.26-27,17.25,17.23,17.22,17.21,17.20,17.18,17.15,17.14,17.8-10,17.5-6,16.18,16.13-15,16.7,15.15,15.13,15.12,15.11,15.9,15.8,15.3-4,14.27,14.26,14.21,14.17,14.13,14.10,14.6,13.35,13.31,13.30,13.25,13.23,13.20,13.19,13.17,13.16,13.15,13.8-12,13.6-7,13.5,13.4,13.1-2,12.18-19,12.15,12.13-14,12.3-4,11.54,11.53,11.50,11.49,11.48,11.45,11.43,11.41-42,11.39,11.37,11.36,11.26-27,11.25,11.24,11.22,11.15,11.7,10.39,10.34,10.32,10.30,10.29,10.24,10.23,10.22,10.20,10.18,10.17,10.12-13,10.9,10.4-5,9.29,9.15,9.9,9.5,9.4,8.23,8.12,8.10,7.29,7.17,7.16,7.12,7.9,6.46,6.43,6.35,6.30,6.29,6.20-23,6.16,6.13-14,5.27-28,5.20,4.40,4.28,4.22,4.18,4.9,4.8,4.3,3.39,3.38,3.22,2.58,2.52,2.41,2.36,2.35,2.34,2.33,2.32,2.29,2.27,2.26,2.23,2.19,2.12,2.11,2.8,2.6,1.42,1.37-38,1.32-35,1.31,1.30,1.29,1.28,1.19,1.16-18,1.14,1.13,1.11,1.9,1.8](*161)          ca    —    also
+[TEXT—18.69,18.43,18.42,18.41,17.26-27,17.20,17.12,17.8-10,16.11-12,16.7,16.6,16.4,15.20,15.18,15.16,15.15,15.13,15.9,14.27,14.13,13.26,13.24,13.23,13.16,11.22,11.20,11.17,10.38,10.33,10.32,10.30,10.28,10.27,10.26,10.20,10.4-5,9.24,9.19,9.17,9.12,8.2,8.1,7.30,7.22,7.11,7.4,6.30,6.16,5.5,4.40,3.18,3.17,2.66,2.29,2.24,1.30,1.16-18,1.13,1.8,1.6,1.5](*61)          ca    —    and
+[TEXT—4.5](*1)          ca    —    and also
+[TEXT—1.8](*1)          ca    —    as well as
+[TEXT—18.3](*1)          ca    —    certainly
+[TEXT—2.31](*1)          ca    —    indeed
+[TEXT—5.18](*1)          ca    —    respectively
+[TEXT—13.16](*1)          ca antike    —    near also
+[TEXT—17.4](*1)          ca anye    —    and others
+[TEXT—10.31](*1)          ca asmi    —    I am also
+[TEXT—11.25](*1)          ca śarma    —    and grace
+[TEXT—6.11-12](*1)          caila-ajna    —    soft cloth and deerskin
+[TEXT—11.46](*1)          cakra-hastam    —    disc in hand
+[TEXT—3.16](*1)          cakram    —    cycle
+[TEXT—11.17](*1)          cakriṇam    —    with discs
+[TEXT—15.9,11.8,5.27-28](*3)          cakṣuḥ    —    eyes
+[TEXT—17.18,6.35](*2)          calam    —    flickering
+[TEXT—6.20-23](*1)          calati    —    moves
+[TEXT—6.37](*1)          calita    —    deviated
+[TEXT—1.3](*1)          camūm    —    military force
+[TEXT—15.12](*1)          candramasi    —    in the moon
+[TEXT—11.43,11.7](*2)          cara    —    moving
+[TEXT—13.16](*1)          caram    —    moving
+[TEXT—2.64](*1)          caran    —    acting
+[TEXT—8.11](*1)          caranti    —    practices
+[TEXT—3.36](*1)          carati    —    acts
+[TEXT—2.71](*1)          carati    —    lives
+[TEXT—2.67](*1)          caratām    —    while herding over
+[TEXT—9.10](*1)          carācaram    —    moving and nonmoving
+[TEXT—10.39](*1)          carācaram    —    moving and unmoving
+[TEXT—11.46](*1)          catur-bhujena    —    four-handed
+[TEXT—15.14](*1)          catur-vidham    —    four kinds of
+[TEXT—7.16](*1)          catur-vidhāḥ    —    four kinds of
+[TEXT—10.6](*1)          catvāraḥ    —    four
+[TEXT—6.34,6.26](*2)          cañcalam    —    flickering
+[TEXT—6.33](*1)          cañcalatvāt    —    due to being restless
+[TEXT—1.5](*1)          cekitānaḥ    —    Cekitāna
+[TEXT—9.30,3.1](*2)          cet    —    although
+[TEXT—18.58,4.36,3.24,2.33](*4)          cet    —    if
+[TEXT—13.6-7](*1)          cetanā    —    living symptoms
+[TEXT—10.22](*1)          cetanā    —    the living force
+[TEXT—4.23](*1)          cetasaḥ    —    of such wisdom
+[TEXT—1.37-38](*1)          cetasaḥ    —    the hearts
+[TEXT—18.57](*1)          cetasā    —    by intelligence
+[TEXT—18.72](*1)          cetasā    —    by the mind
+[TEXT—8.8](*1)          cetasā    —    by the mind and intelligence
+[TEXT—3.30](*1)          cetasā    —    consciousness
+[TEXT—12.5](*1)          cetasām    —    of those whose minds
+[TEXT—12.6-7](*1)          cetasām    —    of those whose minds are like that
+[TEXT—2.7](*1)          cetāḥ    —    in heart
+[TEXT—6.17](*1)          ceṣṭasya    —    of one who works for maintenance
+[TEXT—3.33](*1)          ceṣṭate    —    tries
+[TEXT—18.13-14](*1)          ceṣṭāḥ    —    endeavor
+[TEXT—10.36](*1)          chalayatām    —    of all cheats
+[TEXT—10.35](*1)          chandasām    —    of all poetry
+[TEXT—13.5](*1)          chandobhiḥ    —    Vedic hymns
+[TEXT—15.1](*1)          chandāṁsi    —    Vedic hymns
+[TEXT—6.39](*1)          chettum    —    to dispel
+[TEXT—6.39](*1)          chettā    —    remover
+[TEXT—2.23](*1)          chindanti    —    can cut into pieces
+[TEXT—18.10](*1)          chinna    —    cut up
+[TEXT—6.38](*1)          chinna    —    fallen
+[TEXT—5.25](*1)          chinna    —    torn off
+[TEXT—15.3-4](*1)          chittvā    —    by cutting
+[TEXT—4.42](*1)          chittvā    —    cutting off
+[TEXT—1.23](*1)          cikīrṣavaḥ    —    wishing
+[TEXT—3.25](*1)          cikīrṣuḥ    —    desiring to
+[TEXT—9.22](*1)          cintayantaḥ    —    concentrating
+[TEXT—6.25](*1)          cintayet    —    be thinking of
+[TEXT—10.17](*1)          cintyaḥ asi    —    You are remembered
+[TEXT—16.11-12](*1)          cintām    —    fears and anxieties
+[TEXT—5.6](*1)          cireṇa    —    delay
+[TEXT—12.18-19](*1)          cit    —    if
+[TEXT—10.26](*1)          citrarathaḥ    —    Citraratha
+[TEXT—16.16](*1)          citta-vibhrāntāḥ    —    perplexed by anxieties
+[TEXT—4.21](*1)          citta-ātmā    —    mind and intelligence
+[TEXT—6.20-23](*1)          cittam    —    mental activities
+[TEXT—12.9](*1)          cittam    —    mind
+[TEXT—6.18](*1)          cittam    —    the mind and its activities
+[TEXT—6.13-14](*1)          cittaḥ    —    concentrated
+[TEXT—18.58](*1)          cittaḥ    —    consciousness
+[TEXT—18.18](*1)          codanā    —    impetus
+[TEXT—9.24](*1)          cyavanti    —    fall down
+[TEXT—8.25](*1)          cāndramasam    —    the moon planet
+[TEXT—1.46](*1)          cāpam    —    the bow
+[TEXT—5.27-28](*1)          cāriṇau    —    blowing
+[TEXT—4.13](*1)          cātur-varṇyam    —    the four divisions of human society
+[TEXT—11.26-27](*1)          cūrṇitaiḥ    —    smashed
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [c]:88

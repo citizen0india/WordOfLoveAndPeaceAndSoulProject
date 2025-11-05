@@ -1,0 +1,14 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [o]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—15.13](*1)          ojasā    —    by My energy
+[TEXT—17.24](*1)          om    —    beginning with om
+[TEXT—17.23](*1)          om    —    indication of the Supreme
+[TEXT—8.13](*1)          om    —    the combination of letters, omkāra
+[TEXT—9.17](*1)          omkāraḥ    —    the syllable om
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [o]:5

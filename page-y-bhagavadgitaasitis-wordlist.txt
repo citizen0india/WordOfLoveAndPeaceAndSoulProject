@@ -1,0 +1,354 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [y]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—1.45](*1)          yadi    —    even if
+[TEXT—11.12,11.4,6.32,3.23,2.6,1.37-38](*6)          yadi    —    if
+[TEXT—2.70](*1)          yadvat    —    as
+[TEXT—14.19,14.14,14.11,13.31,6.18,6.4,2.58,2.55,2.53,2.52](*10)          yadā    —    when
+[TEXT—4.7](*1)          yadā    —    whenever
+[TEXT—4.7](*1)          yadā    —    wherever
+[TEXT—2.32](*1)          yadṛcchayā    —    by its own accord
+[TEXT—4.22](*1)          yadṛcchā    —    out of its own accord
+[TEXT—9.15](*1)          yajantaḥ    —    worshiping
+[TEXT—16.17](*1)          yajante    —    perform sacrifices
+[TEXT—17.4,9.23](*2)          yajante    —    worship
+[TEXT—4.12](*1)          yajante    —    worship by sacrifices
+[TEXT—17.1](*1)          yajante    —    worships
+[TEXT—9.23](*1)          yajanti    —    sacrifice
+[TEXT—9.17](*1)          yajuḥ    —    the Yajur-veda
+[TEXT—18.5,18.3,17.25,17.24,11.48](*5)          yajña    —    sacrifice
+[TEXT—5.29,4.30](*2)          yajña    —    sacrifices
+[TEXT—3.9](*1)          yajña-arthāt    —    only for the sake of Yajña, or Viṣṇu
+[TEXT—3.12](*1)          yajña-bhāvitāḥ    —    being satisfied by the performance of sacrifices
+[TEXT—4.30](*1)          yajña-vidaḥ    —    conversant with the purpose of performing
+[TEXT—4.30](*1)          yajña-śiṣṭa    —    as a result of such performances of yajña
+[TEXT—3.13](*1)          yajña-śiṣṭa    —    food taken after performance of yajña
+[TEXT—9.20](*1)          yajñaiḥ    —    with sacrifices
+[TEXT—16.17](*1)          yajñaiḥ    —    with such a sacrifice
+[TEXT—17.13,17.12,4.25](*3)          yajñam    —    sacrifice
+[TEXT—4.25](*1)          yajñam    —    sacrifices
+[TEXT—3.14](*1)          yajñaḥ    —    performance of yajña
+[TEXT—18.5,17.11,17.7,9.16](*4)          yajñaḥ    —    sacrifice
+[TEXT—16.1-3](*1)          yajñaḥ ca    —    and performance of sacrifice
+[TEXT—3.15](*1)          yajñe    —    in sacrifice
+[TEXT—17.26-27](*1)          yajñe    —    sacrifice
+[TEXT—18.70,4.25](*2)          yajñena    —    by sacrifice
+[TEXT—8.28](*1)          yajñeṣu    —    in the performances of yajña, sacrifice
+[TEXT—10.25](*1)          yajñānām    —    of sacrifices
+[TEXT—9.24](*1)          yajñānām    —    sacrifices
+[TEXT—3.14](*1)          yajñāt    —    from the performance of sacrifice
+[TEXT—4.33](*1)          yajñāt    —    knowledge
+[TEXT—4.23](*1)          yajñāya    —    for the sake of Yajña (Kṛṣṇa)
+[TEXT—17.23](*1)          yajñāḥ    —    sacrifice
+[TEXT—4.32,3.10](*2)          yajñāḥ    —    sacrifices
+[TEXT—11.22](*1)          yakṣa    —    the Yakṣas
+[TEXT—10.23](*1)          yakṣa-rakṣasām    —    of the Yakṣas and Rākṣasas
+[TEXT—17.4](*1)          yakṣa-rakṣāṁsi rājasāḥ    —    those who are in the mode of passion worship demons
+[TEXT—16.13-15](*1)          yakṣye    —    I shall sacrifice
+[TEXT—2.15](*1)          yam    —    one who
+[TEXT—8.21,6.20-23](*2)          yam    —    that which
+[TEXT—2.70](*1)          yam    —    unto one
+[TEXT—6.2](*1)          yam    —    what
+[TEXT—8.6](*1)          yam yam    —    whatever
+[TEXT—11.39](*1)          yamaḥ    —    controller
+[TEXT—10.29](*1)          yamaḥ    —    the controller of death
+[TEXT—18.61](*1)          yantra    —    machine
+[TEXT—6.20-23](*1)          yasmin    —    in which
+[TEXT—15.3-4](*1)          yasmin    —    where
+[TEXT—15.18](*1)          yasmāt    —    because
+[TEXT—12.15](*1)          yasmāt    —    from whom
+[TEXT—8.22](*1)          yasya    —    His
+[TEXT—18.17](*1)          yasya    —    of one who
+[TEXT—2.68](*1)          yasya    —    of one's
+[TEXT—15.1](*1)          yasya    —    of which
+[TEXT—18.17](*1)          yasya    —    one who
+[TEXT—4.19,2.61](*2)          yasya    —    one whose
+[TEXT—2.69](*1)          yasyām    —    in which
+[TEXT—3.21](*1)          yat    —    and whichever
+[TEXT—18.15](*1)          yat    —    anything
+[TEXT—13.4](*1)          yat    —    as
+[TEXT—15.8](*1)          yat    —    as much as
+[TEXT—11.37](*1)          yat    —    because
+[TEXT—8.11,6.20-23](*2)          yat    —    in which
+[TEXT—13.4](*1)          yat    —    one
+[TEXT—1.44](*1)          yat    —    so that
+[TEXT—18.60,18.40,18.38,18.25,17.3,13.13,11.7,10.39,8.17,2.67,2.8](*11)          yat    —    that
+[TEXT—18.39,18.36-37,18.24,18.23,18.22,18.9,18.8,17.28,17.21,17.20,17.12,17.8-10,15.12,15.8,13.8-12,10.1,8.28,8.11,6.42,5.21](*20)          yat    —    that which
+[TEXT—17.22](*1)          yat    —    that which is
+[TEXT—13.3](*1)          yat    —    that which is taught
+[TEXT—18.59](*1)          yat    —    therefore
+[TEXT—11.1,9.27,5.5,2.7,2.6](*5)          yat    —    what
+[TEXT—13.4](*1)          yat    —    what is
+[TEXT—11.41-42,10.39,9.27,3.21](*4)          yat    —    whatever
+[TEXT—15.6](*1)          yat    —    where
+[TEXT—17.19,17.15,14.1,13.13,13.4,11.52,10.14,9.1,7.2,5.1,4.35,4.16](*12)          yat    —    which
+[TEXT—17.18](*1)          yat    —    which is
+[TEXT—3.21](*1)          yat    —    whichever
+[TEXT—18.21](*1)          yat jñānam    —    which knowledge
+[TEXT—11.47](*1)          yat me    —    that which is Mine
+[TEXT—10.41](*1)          yat yat    —    whatever
+[TEXT—5.27-28,4.21](*2)          yata    —    controlled
+[TEXT—5.26](*1)          yata-cetasām    —    of persons who have full control over the mind
+[TEXT—6.11-12](*1)          yata-citta    —    controlling the mind
+[TEXT—6.19](*1)          yata-cittasya    —    whose mind is controlled
+[TEXT—6.10](*1)          yata-cittātmā    —    always careful in mind
+[TEXT—18.51-53](*1)          yata-vāk    —    control of speech
+[TEXT—12.11](*1)          yata-ātmavan    —    self-situated
+[TEXT—5.25](*1)          yata-ātmānaḥ    —    engaged in self- realization
+[TEXT—6.45](*1)          yatamānaḥ    —    one who endeavors
+[TEXT—15.11](*1)          yatantaḥ    —    although endeavoring
+[TEXT—15.11](*1)          yatantaḥ    —    endeavoring
+[TEXT—9.14](*1)          yatantaḥ ca    —    fully endeavoring also
+[TEXT—7.29](*1)          yatanti    —    endeavor
+[TEXT—2.60](*1)          yatataḥ    —    while endeavoring
+[TEXT—6.43](*1)          yatate    —    endeavors
+[TEXT—7.3](*1)          yatati    —    endeavors
+[TEXT—6.36](*1)          yatatā    —    while endeavoring
+[TEXT—7.3](*1)          yatatām    —    of those so endeavoring
+[TEXT—4.28](*1)          yatayaḥ    —    enlightened
+[TEXT—8.11](*1)          yatayaḥ    —    great sages
+[TEXT—13.4](*1)          yataḥ    —    from which
+[TEXT—18.46,15.3-4](*2)          yataḥ    —    from whom
+[TEXT—6.26](*1)          yataḥ    —    whatever
+[TEXT—6.26](*1)          yataḥ    —    wherever
+[TEXT—18.50,18.45,13.34,13.33,12.20,11.53,11.29,11.28,6.19,4.11,2.13](*11)          yathā    —    as
+[TEXT—2.22](*1)          yathā    —    as it is
+[TEXT—9.6,7.1,3.25](*3)          yathā    —    as much as
+[TEXT—18.63](*1)          yathā    —    as you
+[TEXT—4.37,3.38](*2)          yathā    —    just as
+[TEXT—1.11](*1)          yathābhāgam    —    as they are differently arranged
+[TEXT—11.3](*1)          yathāttha    —    as it is
+[TEXT—18.19](*1)          yathāvat    —    as they act
+[TEXT—8.5](*1)          yati    —    achieves
+[TEXT—8.23,6.20-23](*2)          yatra    —    in that
+[TEXT—6.20-23](*1)          yatra    —    in that state of affairs
+[TEXT—18.78,18.36-37](*2)          yatra    —    where
+[TEXT—6.20-23](*1)          yatra    —    wherein
+[TEXT—12.13-14](*1)          yatā-atmā    —    endeavoring
+[TEXT—5.26](*1)          yatīnām    —    of the saintly persons
+[TEXT—2.13](*1)          yauvanam    —    youth
+[TEXT—18.35,18.34,18.33,18.31,2.39](*5)          yayā    —    by which
+[TEXT—7.5](*1)          yayā    —    by whom
+[TEXT—11.33,10.4-5](*2)          yaśaḥ    —    fame
+[TEXT—18.68,18.67,18.16,17.11,17.3,16.23,15.19,13.28,13.24,13.1-2,12.16,12.15,10.7,10.3,8.14,8.13,5.24,2.19](*18)          yaḥ    —    anyone
+[TEXT—13.30,4.9,3.6](*3)          yaḥ    —    anyone who
+[TEXT—18.70](*1)          yaḥ    —    he
+[TEXT—8.5,6.32,6.31,3.12](*4)          yaḥ    —    he who
+[TEXT—13.4](*1)          yaḥ    —    one
+[TEXT—3.42](*1)          yaḥ    —    one which
+[TEXT—15.17,14.22-25,12.17,12.13-14,11.55,8.9,6.47,6.1,5.27-28,5.24,5.23,5.5,4.18,4.14,3.17,3.16,3.7,2.57,2.21](*19)          yaḥ    —    one who
+[TEXT—12.17](*1)          yaḥ    —    one who: na— never
+[TEXT—14.26](*1)          yaḥ    —    person
+[TEXT—8.20,7.21](*2)          yaḥ    —    that
+[TEXT—2.71](*1)          yaḥ    —    the person
+[TEXT—6.33](*1)          yaḥ    —    the system
+[TEXT—18.71,12.15,5.10,5.3](*4)          yaḥ    —    who
+[TEXT—9.26,6.30](*2)          yaḥ    —    whoever
+[TEXT—18.55](*1)          yaḥ ca asmi    —    as I am
+[TEXT—18.11](*1)          yaḥ tu    —    anyone who
+[TEXT—17.11](*1)          yaṣṭavyam    —    must be performed
+[TEXT—4.11](*1)          ye    —    all of them
+[TEXT—11.22,7.29,7.12](*3)          ye    —    all those
+[TEXT—7.12](*1)          ye    —    although
+[TEXT—9.32](*1)          ye    —    anyone
+[TEXT—13.35,12.20,12.6-7](*3)          ye    —    one who
+[TEXT—17.5-6,17.1,12.3-4,12.1,9.29,9.23,7.30,7.14,5.22,3.32,3.31,3.13,1.7](*13)          ye    —    those
+[TEXT—11.32,9.22,1.23](*3)          ye    —    who
+[TEXT—10.10,4.35,3.2](*3)          yena    —    by which
+[TEXT—18.46,18.20,8.22,6.6,2.17](*5)          yena    —    by whom
+[TEXT—12.18-19](*1)          yena    —    somehow
+[TEXT—1.32-35](*1)          yeṣām    —    for whom
+[TEXT—10.6](*1)          yeṣām    —    of them
+[TEXT—5.19,5.16](*2)          yeṣām    —    of those
+[TEXT—2.35](*1)          yeṣām    —    of those who
+[TEXT—7.28](*1)          yeṣām    —    whose
+[TEXT—1.21-22](*1)          yoddhavyam    —    to fight with
+[TEXT—1.21-22](*1)          yoddhu-kāmān    —    desiring to fight
+[TEXT—11.26-27](*1)          yodha-mukhyaiḥ    —    chief among the warriors
+[TEXT—11.34](*1)          yodha-vīrān    —    great warriors
+[TEXT—11.32](*1)          yodhāḥ    —    the soldiers
+[TEXT—4.38](*1)          yoga    —    devotion
+[TEXT—4.41](*1)          yoga    —    devotional service in karma-yoga
+[TEXT—6.3](*1)          yoga    —    eightfold yoga
+[TEXT—4.27](*1)          yoga    —    linking process
+[TEXT—16.1-3](*1)          yoga    —    of linking up
+[TEXT—9.28](*1)          yoga    —    the yoga
+[TEXT—8.10](*1)          yoga- balena    —    by the power of mystic yoga
+[TEXT—6.4](*1)          yoga- ārūḍhaḥ    —    elevated in yoga
+[TEXT—6.41](*1)          yoga-bhraṣṭaḥ    —    one who is fallen from the path of self-realization
+[TEXT—8.12](*1)          yoga-dhāraṇām    —    the yogic situation
+[TEXT—9.22](*1)          yoga-kṣemam    —    requirements
+[TEXT—7.25](*1)          yoga-māyā    —    internal potency
+[TEXT—6.20-23](*1)          yoga-samjñitam    —    trance in yoga
+[TEXT—6.37](*1)          yoga-saṁsiddhim    —    highest perfection in mysticism
+[TEXT—6.20-23](*1)          yoga-sevayā    —    by performance of yoga
+[TEXT—2.48](*1)          yoga-sthaḥ    —    steadfast in yoga
+[TEXT—12.1](*1)          yoga-vittamāḥ    —    the most perfect
+[TEXT—4.28](*1)          yoga-yajñāḥ    —    sacrifice in eightfold mysticism
+[TEXT—6.29](*1)          yoga-yukta-ātmā    —    one who is dovetailed in Kṛṣṇa consciousness
+[TEXT—8.27](*1)          yoga-yuktaḥ    —    being engaged in Kṛṣṇa consciousness
+[TEXT—5.7](*1)          yoga-yuktaḥ    —    engaged in devotional service
+[TEXT—5.6](*1)          yoga-yuktaḥ    —    one engaged in devotional service
+[TEXT—8.8](*1)          yoga-yuktena    —    being engaged in meditation
+[TEXT—5.5](*1)          yogaiḥ    —    by devotional service
+[TEXT—5.5](*1)          yogam    —    action in devotion
+[TEXT—12.11,5.1](*2)          yogam    —    devotional service
+[TEXT—4.42](*1)          yogam    —    in yoga
+[TEXT—6.2](*1)          yogam    —    linking with the Supreme
+[TEXT—6.19](*1)          yogam    —    meditation
+[TEXT—10.18](*1)          yogam    —    mystic power
+[TEXT—18.75](*1)          yogam    —    mysticism
+[TEXT—7.1,2.53](*2)          yogam    —    self-realization
+[TEXT—6.3](*1)          yogam    —    the eightfold yoga system
+[TEXT—4.1](*1)          yogam    —    the science of one's relationship to the Supreme
+[TEXT—6.11-12](*1)          yogam    —    yoga practice
+[TEXT—11.8,9.5](*2)          yogam aiśvaram    —    inconceivable mystic power
+[TEXT—10.7](*1)          yogam ca    —    also mystic power
+[TEXT—6.44](*1)          yogasya    —    of yoga
+[TEXT—5.4](*1)          yogau    —    work in devotional service
+[TEXT—2.50](*1)          yogaḥ    —    Kṛṣṇa consciousness
+[TEXT—6.24](*1)          yogaḥ    —    in such practice
+[TEXT—6.16](*1)          yogaḥ    —    linking with the Supreme
+[TEXT—6.33](*1)          yogaḥ    —    mysticism
+[TEXT—6.17](*1)          yogaḥ    —    practice of yoga
+[TEXT—6.36](*1)          yogaḥ    —    self-realization
+[TEXT—4.2](*1)          yogaḥ    —    the science of one's relationship with the Supreme
+[TEXT—4.3](*1)          yogaḥ    —    the science of yoga
+[TEXT—2.39](*1)          yoge    —    work without fruitive result
+[TEXT—12.9](*1)          yogena    —    by devotional service
+[TEXT—12.6-7](*1)          yogena    —    by practice of such bhakti-yoga
+[TEXT—13.25](*1)          yogena    —    by the yoga system
+[TEXT—18.33](*1)          yogena    —    by yoga practice
+[TEXT—10.7](*1)          yogena    —    in devotional service
+[TEXT—11.4](*1)          yogeśvara    —    the Lord of all mystic power
+[TEXT—18.78](*1)          yogeśvaraḥ    —    the master of mysticism
+[TEXT—18.75](*1)          yogeśvarāt    —    from the master of all mysticism
+[TEXT—10.17](*1)          yogin    —    O supreme mystic
+[TEXT—6.27](*1)          yoginam    —    the yogī
+[TEXT—8.23](*1)          yoginaḥ    —    of different kinds of mystics
+[TEXT—8.14](*1)          yoginaḥ    —    of the devotee
+[TEXT—6.19](*1)          yoginaḥ    —    of the yogī
+[TEXT—5.11](*1)          yoginaḥ    —    the Kṛṣṇa conscious persons
+[TEXT—4.25](*1)          yoginaḥ    —    the mystics
+[TEXT—15.11](*1)          yoginaḥ    —    transcendentalists
+[TEXT—6.47](*1)          yoginām    —    of all yogīs
+[TEXT—6.42](*1)          yoginām    —    of learned transcendentalists
+[TEXT—3.3](*1)          yoginām    —    of the devotees
+[TEXT—6.37](*1)          yogāt    —    from the mystic link
+[TEXT—2.50](*1)          yogāya    —    for the sake of devotional service
+[TEXT—6.2](*1)          yogī    —    a mystic transcendentalist
+[TEXT—6.46,6.10](*2)          yogī    —    a transcendentalist
+[TEXT—12.13-14](*1)          yogī    —    engaged in devotion
+[TEXT—6.1,5.24](*2)          yogī    —    mystic
+[TEXT—6.28](*1)          yogī    —    one who is in touch with the Supreme Self
+[TEXT—6.45](*1)          yogī    —    such a transcendentalist
+[TEXT—8.28](*1)          yogī    —    the devotee
+[TEXT—8.27](*1)          yogī    —    the devotees of the Lord
+[TEXT—6.8](*1)          yogī    —    the mystic
+[TEXT—6.15](*1)          yogī    —    the mystic transcendentalist
+[TEXT—6.46](*1)          yogī    —    the yogī
+[TEXT—6.32,6.31](*2)          yogī    —    transcendentalist
+[TEXT—6.24](*1)          yoktavyaḥ    —    must be practiced
+[TEXT—5.22](*1)          yonayaḥ    —    sources of
+[TEXT—13.22](*1)          yoni    —    species of life
+[TEXT—16.20](*1)          yonim    —    species
+[TEXT—14.3](*1)          yoniḥ    —    source of birth
+[TEXT—16.19](*1)          yoniṣu    —    in the wombs
+[TEXT—14.15](*1)          yoniṣu    —    species
+[TEXT—7.6](*1)          yonīni    —    source of birth
+[TEXT—18.59](*1)          yotsya    —    shall fight
+[TEXT—1.23](*1)          yotsyamānān    —    those who will be fighting
+[TEXT—1.9](*1)          yuddha    —    battle
+[TEXT—2.32](*1)          yuddham    —    war
+[TEXT—18.43](*1)          yuddhe    —    in battle
+[TEXT—1.23](*1)          yuddhe    —    in the fight
+[TEXT—1.32-35](*1)          yuddhe    —    in this battlefield
+[TEXT—2.31](*1)          yuddhāt    —    of fighting
+[TEXT—2.38](*1)          yuddhāya    —    for the sake of fighting
+[TEXT—2.37](*1)          yuddhāya    —    to fight
+[TEXT—1.4](*1)          yudhi    —    in the fight
+[TEXT—1.16-18](*1)          yudhiṣṭhiraḥ    —    Yudhiṣṭhira
+[TEXT—8.7](*1)          yudhya    —    fight
+[TEXT—3.30,2.18](*2)          yudhyasva    —    fight
+[TEXT—11.34](*1)          yudhyasva    —    just fight
+[TEXT—1.6](*1)          yudhāmanyuḥ    —    Yudhāmanyu
+[TEXT—8.17](*1)          yuga    —    millenniums
+[TEXT—11.12](*1)          yugapat    —    simultaneously
+[TEXT—4.8](*1)          yuge    —    after millennium
+[TEXT—4.8](*1)          yuge    —    millennium
+[TEXT—2.50](*1)          yujyasva    —    be so engaged
+[TEXT—2.38](*1)          yujyasva    —    do fight
+[TEXT—10.7](*1)          yujyate    —    engaged
+[TEXT—17.26-27](*1)          yujyate    —    is used
+[TEXT—6.17](*1)          yukta    —    regulated
+[TEXT—5.21](*1)          yukta- ātmā    —    self-connected
+[TEXT—7.30](*1)          yukta-cetasaḥ    —    with steadfast mind
+[TEXT—7.18](*1)          yukta-ātmā    —    engaged in devotional service
+[TEXT—9.28](*1)          yukta-ātmā    —    having the mind firmly set on
+[TEXT—17.17](*1)          yuktaiḥ    —    engaged
+[TEXT—8.14](*1)          yuktasya    —    engaged
+[TEXT—6.47](*1)          yuktatamaḥ    —    the greatest yogī
+[TEXT—12.2](*1)          yuktatamāḥ    —    most perfect
+[TEXT—6.13-14](*1)          yuktaḥ    —    actual yogī
+[TEXT—3.26](*1)          yuktaḥ    —    all engaged
+[TEXT—2.61](*1)          yuktaḥ    —    being engaged
+[TEXT—6.8](*1)          yuktaḥ    —    competent for self-realization
+[TEXT—2.39](*1)          yuktaḥ    —    dovetailed
+[TEXT—7.22](*1)          yuktaḥ    —    endowed
+[TEXT—8.10](*1)          yuktaḥ    —    engaged
+[TEXT—5.8-9](*1)          yuktaḥ    —    engaged in the divine consciousness
+[TEXT—5.23](*1)          yuktaḥ    —    in trance
+[TEXT—4.18](*1)          yuktaḥ    —    is in the transcendental position
+[TEXT—5.12](*1)          yuktaḥ    —    one who is engaged in devotional service
+[TEXT—18.51-53](*1)          yuktaḥ    —    such engagement
+[TEXT—6.18](*1)          yuktaḥ    —    well situated in yoga
+[TEXT—1.14](*1)          yukte    —    being yoked with
+[TEXT—9.34](*1)          yuktvā evam    —    being absorbed
+[TEXT—12.2,12.1](*2)          yuktāḥ    —    engaged
+[TEXT—1.4](*1)          yuyudhānaḥ    —    Yuyudhāna
+[TEXT—1.1](*1)          yuyutsavaḥ    —    desiring to fight
+[TEXT—1.28](*1)          yuyutsum    —    all in fighting spirit
+[TEXT—6.15](*1)          yuñjan    —    practicing like this
+[TEXT—7.1](*1)          yuñjan    —    so practicing
+[TEXT—6.28](*1)          yuñjan    —    thus being engaged in yoga practice
+[TEXT—6.19](*1)          yuñjataḥ    —    constantly engaged in
+[TEXT—6.11-12](*1)          yuñjyāt    —    execute
+[TEXT—6.10](*1)          yuñjīta    —    must concentrate in Kṛṣṇa consciousness
+[TEXT—18.30](*1)          yā    —    that which
+[TEXT—2.69](*1)          yā    —    what
+[TEXT—18.50,18.32](*2)          yā    —    which
+[TEXT—10.16](*1)          yābhiḥ    —    by which
+[TEXT—10.29](*1)          yādasām    —    of all aquatics
+[TEXT—13.4](*1)          yādṛk    —    as it is
+[TEXT—9.25](*1)          yājinaḥ    —    devotees
+[TEXT—9.34](*1)          yājī    —    worshiper
+[TEXT—7.21](*1)          yām    —    which
+[TEXT—2.42-43](*1)          yām imām    —    all these
+[TEXT—2.6](*1)          yān    —    those
+[TEXT—9.25,7.23](*2)          yānti    —    achieve
+[TEXT—13.35](*1)          yānti    —    approaches
+[TEXT—7.23](*1)          yānti    —    attain
+[TEXT—8.23](*1)          yānti    —    departs
+[TEXT—4.30](*1)          yānti    —    do approach
+[TEXT—9.7](*1)          yānti    —    enter
+[TEXT—9.32,9.25,7.27](*3)          yānti    —    go
+[TEXT—16.20](*1)          yānti    —    goes
+[TEXT—3.33](*1)          yānti    —    undergo
+[TEXT—2.35](*1)          yāsyasi    —    will go
+[TEXT—4.35](*1)          yāsyasi    —    you shall go
+[TEXT—17.8-10](*1)          yāta-yāmam    —    food cooked three hours before being eaten
+[TEXT—8.13,8.8](*2)          yāti    —    achieves
+[TEXT—6.45](*1)          yāti    —    attains
+[TEXT—16.21,14.14,8.26](*3)          yāti    —    goes
+[TEXT—3.8](*1)          yātrā    —    maintenance
+[TEXT—1.21-22](*1)          yāvat    —    as long as
+[TEXT—13.27](*1)          yāvat    —    whatever
+[TEXT—2.46](*1)          yāvān    —    all that
+[TEXT—18.55](*1)          yāvān    —    as much as
+[TEXT—14.4](*1)          yāḥ    —    which
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [y]:345

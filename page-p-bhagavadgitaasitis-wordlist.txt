@@ -1,0 +1,595 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [p]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—3.13](*1)          pacanti    —    prepare food
+[TEXT—15.14](*1)          pacāmi    —    digest
+[TEXT—13.5](*1)          padaiḥ    —    aphorism
+[TEXT—18.56](*1)          padam    —    abode
+[TEXT—2.51](*1)          padam    —    position
+[TEXT—15.5,15.3-4,8.11](*3)          padam    —    situation
+[TEXT—5.10](*1)          padma-patram    —    lotus leaf
+[TEXT—14.22-25](*1)          pakṣayoḥ    —    in party
+[TEXT—10.30](*1)          pakṣiṇām    —    of birds
+[TEXT—16.18](*1)          para-deheṣu    —    in other bodies
+[TEXT—3.35](*1)          para-dharmaḥ    —    duties prescribed for others
+[TEXT—18.47](*1)          para-dharmāt    —    another's occupation
+[TEXT—3.35](*1)          para-dharmāt    —    from duties mentioned for others
+[TEXT—13.35](*1)          param    —    Supreme
+[TEXT—13.18](*1)          param    —    beyond
+[TEXT—13.32](*1)          param    —    beyond material nature
+[TEXT—2.59](*1)          param    —    far superior things
+[TEXT—4.4,3.43,3.42](*3)          param    —    superior
+[TEXT—11.18,10.12-13,8.28,7.24](*4)          param    —    supreme
+[TEXT—15.17,7.13,3.19](*3)          param    —    the Supreme
+[TEXT—18.75,3.11](*2)          param    —    the supreme
+[TEXT—11.38](*1)          param    —    transcenddental
+[TEXT—14.19,11.47,9.11,8.10](*4)          param    —    transcendental
+[TEXT—11.38](*1)          param ca    —    and transcendental
+[TEXT—11.9](*1)          paramam    —    divine
+[TEXT—18.68](*1)          paramam    —    most
+[TEXT—15.6,11.18,10.12-13,8.21](*4)          paramam    —    supreme
+[TEXT—8.8](*1)          paramam    —    the Supreme
+[TEXT—18.64](*1)          paramam    —    the supreme
+[TEXT—8.3](*1)          paramam    —    transcendental
+[TEXT—6.32](*1)          paramaḥ    —    perfect
+[TEXT—12.10](*1)          paramaḥ    —    supreme
+[TEXT—10.1](*1)          paramaṁ    —    supreme
+[TEXT—11.3](*1)          parameśvara    —    the Supreme Lord
+[TEXT—13.28](*1)          parameśvaram    —    the Supersoul
+[TEXT—1.16-18](*1)          parameṣvāsaḥ    —    the great archer
+[TEXT—4.2](*1)          paramparā    —    disciplic succession
+[TEXT—18.49,8.13](*2)          paramām    —    supreme
+[TEXT—8.21,8.15](*2)          paramām    —    ultimate
+[TEXT—13.23](*1)          paramātmā    —    Supersoul
+[TEXT—6.7](*1)          paramātmā    —    the Supersoul
+[TEXT—16.11-12](*1)          paramāḥ    —    the highest goal of life
+[TEXT—4.2](*1)          parantapa    —    O Arjuna, subduer of the enemies
+[TEXT—2.3](*1)          parantapa    —    O chastiser of the enemies
+[TEXT—4.33](*1)          parantapa    —    O chastiser of the enemy
+[TEXT—7.27](*1)          parantapa    —    O conquerer of enemies
+[TEXT—10.40](*1)          parantapa    —    O conquerer of the enemies
+[TEXT—9.3](*1)          parantapa    —    O killer of the enemies
+[TEXT—11.54](*1)          parantapa    —    O mighty-armed one
+[TEXT—18.41](*1)          parantapa    —    O subduer of the enemies
+[TEXT—4.5](*1)          parantapa    —    O subduer of the enemy
+[TEXT—2.9](*1)          parantapaḥ    —    the chastiser of the enemies
+[TEXT—10.9](*1)          parasparam    —    among themselves
+[TEXT—3.11](*1)          parasparam    —    mutual
+[TEXT—8.9](*1)          parastāt    —    transcendental
+[TEXT—17.19](*1)          parasya    —    to others
+[TEXT—7.7](*1)          parataram    —    superior
+[TEXT—3.42](*1)          parataḥ    —    superior
+[TEXT—1.27](*1)          parayā    —    of a high grade
+[TEXT—17.17,12.2](*2)          parayā    —    transcendental
+[TEXT—4.40](*1)          paraḥ    —    next life
+[TEXT—8.22](*1)          paraḥ    —    the Supreme, than whom no one is greater
+[TEXT—13.23,8.20](*2)          paraḥ    —    transcendental
+[TEXT—6.13-14](*1)          paraḥ    —    ultimate goal
+[TEXT—2.65](*1)          pari    —    sufficiently
+[TEXT—17.17](*1)          pari-cakṣate    —    is called
+[TEXT—17.13](*1)          paricakṣate    —    is to be considered
+[TEXT—18.44](*1)          paricaryā    —    service
+[TEXT—10.17](*1)          paricintayan    —    thinking
+[TEXT—1.29](*1)          paridahyate    —    burning
+[TEXT—2.28](*1)          paridevanā    —    lamentation
+[TEXT—18.51-53](*1)          parigraham    —    acceptance of material things
+[TEXT—4.21](*1)          parigrahaḥ    —    sense of proprietorship over all possessions
+[TEXT—18.18](*1)          parijñātā    —    the knower
+[TEXT—17.21](*1)          parikliṣṭam    —    grudgingly
+[TEXT—18.7](*1)          parikīrtitaḥ    —    declared
+[TEXT—18.27](*1)          parikīrtitaḥ    —    is declared
+[TEXT—15.3-4](*1)          parimārgitavyam    —    has to be searched out
+[TEXT—3.34](*1)          paripanthinau    —    stumbling blocks
+[TEXT—4.34](*1)          paripraśnena    —    by submissive inquiries
+[TEXT—4.33](*1)          parisamāpyate    —    ends in
+[TEXT—4.8](*1)          paritrāṇāya    —    for the deliverance
+[TEXT—18.66](*1)          parityajya    —    abandoning
+[TEXT—18.7](*1)          parityāgaḥ    —    renunciation
+[TEXT—14.22-25,12.17,12.16](*3)          parityāgī    —    renouncer
+[TEXT—1.28](*1)          pariśuṣyati    —    drying up
+[TEXT—18.38,18.36-37](*2)          pariṇāme    —    at the end
+[TEXT—3.14](*1)          parjanyaḥ    —    rains
+[TEXT—3.14](*1)          parjanyāt    —    from rains
+[TEXT—12.20,12.3-4](*2)          paryupāsate    —    completely engages
+[TEXT—12.1,9.22](*2)          paryupāsate    —    properly worship
+[TEXT—4.25](*1)          paryupāsate    —    worship perfectly
+[TEXT—17.8-10](*1)          paryuṣitam    —    decomposed
+[TEXT—1.10](*1)          paryāptam    —    limited
+[TEXT—3.42](*1)          parā    —    superior
+[TEXT—18.50](*1)          parā    —    transcendental
+[TEXT—6.45](*1)          parām    —    highest
+[TEXT—7.5](*1)          parām    —    superior
+[TEXT—16.21,9.32](*2)          parām    —    supreme
+[TEXT—16.23](*1)          parām    —    the supreme
+[TEXT—13.29](*1)          parām    —    the transcendental
+[TEXT—18.68,18.62,18.54,14.1,4.39](*5)          parām    —    transcendental
+[TEXT—5.27-28](*1)          parāyaṇaḥ    —    being so destined
+[TEXT—16.11-12](*1)          parāyaṇāḥ    —    always situated in that mentality
+[TEXT—4.29](*1)          parāyaṇāḥ    —    so inclined
+[TEXT—3.42](*1)          parāṇi    —    superior
+[TEXT—15.1](*1)          parṇāni    —    the leaves
+[TEXT—11.17](*1)          pasyāmi    —    I see
+[TEXT—1.41](*1)          patanti    —    fall down
+[TEXT—16.16](*1)          patanti    —    glides down
+[TEXT—11.29](*1)          pataṅgāḥ    —    moths
+[TEXT—6.38](*1)          pathi    —    on the path
+[TEXT—9.26](*1)          patram    —    a leaf
+[TEXT—7.8](*1)          pauruṣam    —    ability
+[TEXT—18.25](*1)          pauruṣam    —    distressing to others
+[TEXT—6.43](*1)          paurva    —    previous
+[TEXT—1.26](*1)          pautrān    —    grandsons
+[TEXT—1.32-35](*1)          pautrāḥ    —    grandsons
+[TEXT—1.15](*1)          pauṇḍram    —    the conch named Pauṇḍram
+[TEXT—10.31](*1)          pavanaḥ    —    the wind
+[TEXT—10.31](*1)          pavatām    —    of all that purifies
+[TEXT—10.12-13](*1)          pavitram    —    purest
+[TEXT—4.38](*1)          pavitram    —    sanctified
+[TEXT—9.17](*1)          pavitram    —    that which purifies
+[TEXT—9.2](*1)          pavitram    —    the purest
+[TEXT—18.15,18.13-14,13.6-7](*3)          pañca    —    five
+[TEXT—18.13-14](*1)          pañcamam    —    five
+[TEXT—1.3](*1)          paśya    —    behold
+[TEXT—1.25](*1)          paśya    —    just behold
+[TEXT—11.5,9.5](*2)          paśya    —    just see
+[TEXT—11.8,11.7,11.6](*3)          paśya    —    see
+[TEXT—11.6](*1)          paśya    —    there see
+[TEXT—5.8-9](*1)          paśyan    —    by seeing
+[TEXT—6.20-23](*1)          paśyan    —    realizing the position
+[TEXT—13.29](*1)          paśyan    —    seeing
+[TEXT—15.11](*1)          paśyanti    —    can see
+[TEXT—15.10](*1)          paśyanti    —    one can see
+[TEXT—13.25,1.37-38](*2)          paśyanti    —    see
+[TEXT—2.69](*1)          paśyataḥ    —    for the introspective
+[TEXT—13.28,5.5](*2)          paśyati    —    actually sees
+[TEXT—6.30](*1)          paśyati    —    he sees
+[TEXT—13.28,2.29](*2)          paśyati    —    see
+[TEXT—18.16,13.30,6.32,6.30,5.5](*5)          paśyati    —    sees
+[TEXT—13.30](*1)          paśyati    —    sees perfectly
+[TEXT—4.18](*1)          paśyet    —    observes
+[TEXT—1.30](*1)          paśyāmi    —    I foresee
+[TEXT—11.19,11.16,11.15](*3)          paśyāmi    —    I see
+[TEXT—6.33](*1)          paśyāmi    —    see
+[TEXT—1.13](*1)          paṇava-ānaka    —    trumpets and drums
+[TEXT—4.19](*1)          paṇḍitam    —    learned
+[TEXT—5.4,2.11](*2)          paṇḍitāḥ    —    the learned
+[TEXT—18.2](*1)          phala    —    of results
+[TEXT—18.11,12.11](*2)          phala    —    result
+[TEXT—2.49](*1)          phala-hetavaḥ    —    those desiring fruitive action
+[TEXT—18.34](*1)          phala-ākāṅkṣī    —    desiring fruitive result
+[TEXT—9.28](*1)          phalaiḥ    —    results
+[TEXT—9.26](*1)          phalam    —    a fruit
+[TEXT—7.23](*1)          phalam    —    fruits
+[TEXT—18.12,18.9,17.21,14.16,5.4](*5)          phalam    —    result
+[TEXT—17.25](*1)          phalam    —    result of sacrifice
+[TEXT—18.8,2.51](*2)          phalam    —    results
+[TEXT—17.12](*1)          phalam    —    the result
+[TEXT—5.12](*1)          phale    —    in the result
+[TEXT—2.47](*1)          phaleṣu    —    in the fruits
+[TEXT—18.6](*1)          phalāni    —    results
+[TEXT—1.32-35](*1)          pitaraḥ    —    fathers
+[TEXT—1.41](*1)          pitaraḥ    —    forefathers
+[TEXT—14.4,11.43,9.17](*3)          pitā    —    father
+[TEXT—11.44](*1)          pitā iva    —    like a father
+[TEXT—9.17](*1)          pitāmahaḥ    —    grandfather
+[TEXT—1.12](*1)          pitāmahaḥ    —    the grandfather
+[TEXT—1.26](*1)          pitāmahān    —    grandfathers
+[TEXT—1.32-35](*1)          pitāmahāḥ    —    grandfathers
+[TEXT—9.25](*1)          pitṛ-vratāḥ    —    worshipers of ancestors
+[TEXT—1.26](*1)          pitṝn    —    fathers
+[TEXT—9.25](*1)          pitṝn    —    to ancestors
+[TEXT—1.41](*1)          piṇḍa    —    offerings
+[TEXT—10.29](*1)          piṭṝnām    —    of the ancestors
+[TEXT—18.41](*1)          prabhavaiḥ    —    born of
+[TEXT—10.2](*1)          prabhavam    —    opulences
+[TEXT—8.18](*1)          prabhavanti    —    come into being
+[TEXT—16.9](*1)          prabhavanti    —    flourish
+[TEXT—8.19](*1)          prabhavanti    —    manifest
+[TEXT—9.18](*1)          prabhavaḥ    —    creation
+[TEXT—10.8](*1)          prabhavaḥ    —    source of generation
+[TEXT—7.6](*1)          prabhavaḥ    —    source of manifestation
+[TEXT—13.17](*1)          prabhaviṣṇu    —    develops
+[TEXT—6.24](*1)          prabhavān    —    born of
+[TEXT—11.4](*1)          prabho    —    O Lord
+[TEXT—14.21](*1)          prabho    —    my Lord
+[TEXT—9.24,9.18](*2)          prabhuḥ    —    Lord
+[TEXT—5.14](*1)          prabhuḥ    —    the master of the city of the body
+[TEXT—7.8](*1)          prabhā asmi    —    I am the light
+[TEXT—11.43](*1)          prabhāva    —    power
+[TEXT—13.4](*1)          prabhāvaḥ ca    —    influence also
+[TEXT—2.54](*1)          prabhāṣeta    —    speak
+[TEXT—1.14](*1)          pradadhmatuḥ    —    sounded
+[TEXT—2.5](*1)          pradigdhān    —    tainted with
+[TEXT—8.28](*1)          pradiṣṭam    —    directed
+[TEXT—1.40](*1)          praduṣyanti    —    become polluted
+[TEXT—16.18](*1)          pradviṣantaḥ    —    blasphemes
+[TEXT—11.29](*1)          pradīptam    —    blazing
+[TEXT—1.9](*1)          praharaṇāḥ    —    equipped with
+[TEXT—2.10](*1)          prahasan    —    smiling
+[TEXT—10.30](*1)          prahlādaḥ    —    Prahlāda
+[TEXT—2.39](*1)          prahāsyasi    —    you can be released from
+[TEXT—11.36](*1)          prahṛṣyati    —    rejoicing
+[TEXT—5.20](*1)          prahṛṣyet    —    rejoice
+[TEXT—3.41](*1)          prajahi    —    curb
+[TEXT—2.55](*1)          prajahāti    —    gives up
+[TEXT—10.28](*1)          prajanaḥ    —    for begetting children
+[TEXT—2.61,2.58](*2)          prajñā    —    consciousness
+[TEXT—2.68](*1)          prajñā    —    intelligence
+[TEXT—2.57](*1)          prajñā    —    perfect knowledge
+[TEXT—2.11](*1)          prajñā-vādāḥ    —    learned talks
+[TEXT—2.67](*1)          prajñām    —    intelligence
+[TEXT—3.10](*1)          prajā-patiḥ    —    the Lord of creatures
+[TEXT—18.31](*1)          prajānati    —    knows
+[TEXT—11.31](*1)          prajānāmi    —    do I know
+[TEXT—11.39](*1)          prajāpatiḥ    —    Brahmā
+[TEXT—3.10](*1)          prajāḥ    —    generations
+[TEXT—3.24](*1)          prajāḥ    —    living entities
+[TEXT—10.6](*1)          prajāḥ    —    population
+[TEXT—14.6](*1)          prakāśakam    —    illuminating
+[TEXT—14.22-25](*1)          prakāśam ca    —    and illumination
+[TEXT—5.16](*1)          prakāśayati    —    discloses
+[TEXT—13.34](*1)          prakāśayati    —    illuminates
+[TEXT—7.25](*1)          prakāśaḥ    —    manifest
+[TEXT—14.11](*1)          prakāśaḥ    —    quality of illumination
+[TEXT—11.36](*1)          prakīrtya    —    glories
+[TEXT—9.8](*1)          prakṛteḥ    —    by the force of nature
+[TEXT—3.29](*1)          prakṛteḥ    —    impelled by the material modes
+[TEXT—3.33](*1)          prakṛteḥ    —    modes
+[TEXT—3.27](*1)          prakṛteḥ    —    of material nature
+[TEXT—15.7,14.5,13.35,13.20](*4)          prakṛti    —    material nature
+[TEXT—3.5](*1)          prakṛti-jaiḥ    —    out of the modes of material nature
+[TEXT—18.40](*1)          prakṛti-jaiḥ    —    under the influence of material nature
+[TEXT—13.22](*1)          prakṛti-jān    —    produced by the material nature
+[TEXT—13.22](*1)          prakṛti-sthaḥ    —    being situated in the material energy
+[TEXT—7.5](*1)          prakṛtim    —    energy
+[TEXT—13.24,13.20,9.8](*3)          prakṛtim    —    material nature
+[TEXT—11.51](*1)          prakṛtim    —    my own
+[TEXT—13.1-2,9.13,9.12,9.7,3.33](*5)          prakṛtim    —    nature
+[TEXT—4.6](*1)          prakṛtim    —    transcendental form
+[TEXT—7.4](*1)          prakṛtiḥ    —    energies
+[TEXT—18.59,13.21,9.10](*3)          prakṛtiḥ    —    material nature
+[TEXT—7.20](*1)          prakṛtyā    —    by nature
+[TEXT—13.30](*1)          prakṛtyā    —    material nature
+[TEXT—5.8-9](*1)          pralapan    —    by talking
+[TEXT—16.11-12](*1)          pralaya-antām    —    unto the point of death
+[TEXT—14.15,14.14](*2)          pralayam    —    dissolution
+[TEXT—7.6](*1)          pralayaḥ    —    annihilation
+[TEXT—9.18](*1)          pralayaḥ    —    dissolution
+[TEXT—14.2](*1)          pralaye    —    in the annihilation
+[TEXT—14.15](*1)          pralīnaḥ    —    being dissolved
+[TEXT—8.18](*1)          pralīyante    —    are annihilated
+[TEXT—8.19](*1)          pralīyate    —    annihilate
+[TEXT—5.3](*1)          pramucyate    —    completely liberated
+[TEXT—10.3](*1)          pramucyate    —    is delivered
+[TEXT—1.25](*1)          pramukhataḥ    —    in the front of
+[TEXT—2.6](*1)          pramukhe    —    in the front
+[TEXT—18.39](*1)          pramāda    —    illusion
+[TEXT—14.17,14.8](*2)          pramāda    —    madness
+[TEXT—14.13](*1)          pramādaḥ    —    madness
+[TEXT—14.9](*1)          pramāde    —    in madness
+[TEXT—11.41-42](*1)          pramādāt    —    out of foolishness
+[TEXT—6.34](*1)          pramāthi    —    agitating
+[TEXT—2.60](*1)          pramāthīni    —    stimulated
+[TEXT—16.24,3.21](*2)          pramāṇam    —    evidence
+[TEXT—11.41-42](*1)          pranayena    —    out of love
+[TEXT—7.20,7.15,7.14,4.11](*4)          prapadyante    —    surrender
+[TEXT—7.19](*1)          prapadyate    —    surrenders
+[TEXT—15.3-4](*1)          prapadye    —    surrender
+[TEXT—2.7](*1)          prapannam    —    surrendered
+[TEXT—11.49](*1)          prapaśya    —    just see
+[TEXT—1.37-38](*1)          prapaśyadbhiḥ    —    by those who can see
+[TEXT—2.8](*1)          prapaśyāmi    —    I see
+[TEXT—11.39](*1)          prapitāmahaḥ    —    grandfather
+[TEXT—11.41-42](*1)          prasabham    —    temporary
+[TEXT—2.60](*1)          prasabhaṁ    —    by force
+[TEXT—2.44](*1)          prasaktānām    —    those who are so attached
+[TEXT—16.16](*1)          prasaktāḥ    —    attached
+[TEXT—2.65](*1)          prasanna-cetasaḥ    —    of the happy-minded
+[TEXT—18.54](*1)          prasanna-ātmā    —    fully joyful
+[TEXT—11.47](*1)          prasannena    —    happily
+[TEXT—3.10](*1)          prasaviṣyadhvam    —    be more and more prosperous
+[TEXT—18.34](*1)          prasaṅgena    —    for that
+[TEXT—3.8](*1)          prasiddhyet    —    effected
+[TEXT—18.36-37](*1)          prasāda-jam    —    satisfactory
+[TEXT—2.64](*1)          prasādam    —    the mercy of the Lord
+[TEXT—11.44](*1)          prasādaye    —    to beg mercy
+[TEXT—2.65](*1)          prasāde    —    on achievement of the causeless mercy of the Lord
+[TEXT—18.58](*1)          prasādāt    —    My mercy
+[TEXT—18.56](*1)          prasādāt    —    mercy
+[TEXT—11.31](*1)          prasīda    —    be gracious
+[TEXT—11.25](*1)          prasīda    —    be pleased
+[TEXT—11.45](*1)          prasīda    —    just be gracious
+[TEXT—15.3-4](*1)          prasṛtā    —    extension
+[TEXT—15.2](*1)          prasṛtāḥ    —    extended
+[TEXT—11.30](*1)          pratapanti    —    scorching
+[TEXT—15.18](*1)          prathitaḥ    —    celebrated
+[TEXT—2.42-43](*1)          prati    —    towards
+[TEXT—17.21](*1)          prati-upakāra-artham    —    for the sake of getting some return
+[TEXT—18.65](*1)          pratijāne    —    I promise
+[TEXT—9.31](*1)          pratijānīhi    —    justly declare
+[TEXT—14.14](*1)          pratipadyate    —    attains
+[TEXT—2.4](*1)          pratiyotsyāmi    —    shall counterattack
+[TEXT—2.57](*1)          pratiṣṭhita    —    fixed
+[TEXT—3.15](*1)          pratiṣṭhitam    —    situated
+[TEXT—2.68,2.61](*2)          pratiṣṭhitā    —    fixed
+[TEXT—2.58](*1)          pratiṣṭhitā    —    fixed up
+[TEXT—14.27](*1)          pratiṣṭhā    —    the rest
+[TEXT—6.11-12](*1)          pratiṣṭhāpya    —    placing
+[TEXT—9.2](*1)          pratyakṣa    —    directly experienced
+[TEXT—11.32](*1)          pratyanīkeṣu    —    on the opposite side
+[TEXT—2.40](*1)          pratyavāyaḥ    —    diminution
+[TEXT—1.12](*1)          pratāpavān    —    the valiant
+[TEXT—5.4](*1)          pravadanti    —    do talk
+[TEXT—2.42-43](*1)          pravadanti    —    say
+[TEXT—10.32](*1)          pravadatām    —    of arguments
+[TEXT—8.11](*1)          pravakṣye    —    I shall explain
+[TEXT—9.1](*1)          pravakṣyāmi    —    I am speaking
+[TEXT—4.16](*1)          pravakṣyāmi    —    I shall explain
+[TEXT—13.13](*1)          pravakṣyāmi    —    I shall now explain
+[TEXT—14.1](*1)          pravakṣyāmi    —    I shall speak
+[TEXT—17.24](*1)          pravartante    —    begins
+[TEXT—16.10](*1)          pravartante    —    flourish
+[TEXT—5.14](*1)          pravartate    —    acts
+[TEXT—10.8](*1)          pravartate    —    emanates
+[TEXT—3.16](*1)          pravartitam    —    established by the Vedas
+[TEXT—11.54](*1)          praveṣṭum    —    and to enter into
+[TEXT—11.13](*1)          pravibhaktam    —    divided in
+[TEXT—18.41](*1)          pravibhaktāni    —    are divided
+[TEXT—4.23](*1)          pravilīyate    —    merges entirely
+[TEXT—2.70](*1)          praviśanti    —    enter
+[TEXT—11.45,11.20](*2)          pravyathitam    —    perturbed
+[TEXT—11.24](*1)          pravyathitā    —    perturbed
+[TEXT—11.23](*1)          pravyathitāḥ    —    perturbed
+[TEXT—15.2](*1)          pravālāḥ    —    twigs
+[TEXT—11.32](*1)          pravṛddhaḥ    —    to engage
+[TEXT—14.14](*1)          pravṛddhe    —    in development
+[TEXT—15.2](*1)          pravṛddhāḥ    —    developed
+[TEXT—11.32](*1)          pravṛttaḥ    —    to engage
+[TEXT—1.20](*1)          pravṛtte    —    while about to be engaged
+[TEXT—18.30](*1)          pravṛttim    —    deserving
+[TEXT—11.31](*1)          pravṛttim    —    mission
+[TEXT—16.7](*1)          pravṛttim    —    proper action
+[TEXT—14.22-25](*1)          pravṛttim ca    —    and attachment
+[TEXT—15.3-4](*1)          pravṛttiḥ    —    beginning
+[TEXT—18.46](*1)          pravṛttiḥ    —    emanation
+[TEXT—14.12](*1)          pravṛttiḥ    —    hankering
+[TEXT—9.26](*1)          prayacchati    —    offers
+[TEXT—8.17](*1)          prayantam    —    including
+[TEXT—9.26](*1)          prayata-ātmanaḥ    —    of one in pure consciousness
+[TEXT—6.45](*1)          prayatnāt    —    by rigid practice
+[TEXT—17.26-27](*1)          prayujyate    —    is used
+[TEXT—3.36](*1)          prayuktaḥ    —    impelled
+[TEXT—8.5](*1)          prayāti    —    goes
+[TEXT—8.13](*1)          prayāti    —    leaves
+[TEXT—8.24,8.23](*2)          prayātāḥ    —    one who goes
+[TEXT—7.30](*1)          prayāṇa    —    of death
+[TEXT—8.10,8.2](*2)          prayāṇa-kāle    —    at the time of death
+[TEXT—17.26-27](*1)          praśaste    —    bona fide
+[TEXT—6.27](*1)          praśānta    —    mind fixed on the lotus feet of Kṛṣṇa
+[TEXT—6.13-14](*1)          praśānta    —    unagitated
+[TEXT—6.7](*1)          praśāntasya    —    of one who has attained tranquility by such control over the mind
+[TEXT—11.44](*1)          praṇamya    —    after offering obeisances
+[TEXT—11.35,11.14](*2)          praṇamya    —    offering obeisances
+[TEXT—7.8](*1)          praṇavaḥ    —    the three letters A
+[TEXT—1.39](*1)          praṇaśyanti    —    becomes vanquished
+[TEXT—2.63](*1)          praṇaśyati    —    falls down
+[TEXT—6.30](*1)          praṇaśyati    —    is lost
+[TEXT—9.31](*1)          praṇaśyati    —    perishes
+[TEXT—6.30](*1)          praṇaśyāmi    —    am lost
+[TEXT—18.72](*1)          praṇaṣṭaḥ    —    dispelled
+[TEXT—11.44](*1)          praṇidhāya    —    laying down
+[TEXT—4.34](*1)          praṇipātena    —    by approaching a spiritual master
+[TEXT—18.27](*1)          prepsuḥ    —    desiring
+[TEXT—18.12,17.28](*2)          pretya    —    after death
+[TEXT—17.4](*1)          pretān    —    dead spirits
+[TEXT—18.65](*1)          prijaḥ    —    dear
+[TEXT—17.15,14.22-25](*2)          priya    —    dear
+[TEXT—1.23](*1)          priya    —    well
+[TEXT—18.69](*1)          priya-kṛttamaḥ    —    more dear
+[TEXT—17.8-10](*1)          priyam    —    dear
+[TEXT—5.20](*1)          priyam    —    pleasant
+[TEXT—18.69](*1)          priyataraḥ    —    dearer
+[TEXT—17.7,12.18-19,12.17,9.29,7.17](*5)          priyaḥ    —    dear
+[TEXT—11.44](*1)          priyaḥ    —    lover
+[TEXT—12.16,12.15,7.17](*3)          priyaḥ    —    very dear
+[TEXT—11.44](*1)          priyāyāḥ    —    of the dearmost
+[TEXT—12.20](*1)          priyāḥ    —    dear
+[TEXT—17.8-10](*1)          priyāḥ    —    palatable
+[TEXT—18.29](*1)          procyamānam    —    as described by Me
+[TEXT—18.19](*1)          procyate    —    is said
+[TEXT—13.8-12](*1)          proktam    —    declared
+[TEXT—8.1](*1)          proktam    —    is called
+[TEXT—18.36-37,17.18](*2)          proktam    —    is said
+[TEXT—4.4,4.1](*2)          proktavān    —    instructed
+[TEXT—6.33](*1)          proktaḥ    —    described
+[TEXT—16.6](*1)          proktaḥ    —    said
+[TEXT—10.40,4.3](*2)          proktaḥ    —    spoken
+[TEXT—3.3](*1)          proktā    —    was said
+[TEXT—18.13-14](*1)          proktāni    —    said
+[TEXT—7.7](*1)          protam    —    strung
+[TEXT—10.19](*1)          prādhānyataḥ    —    principally
+[TEXT—4.1](*1)          prāha    —    told
+[TEXT—18.2](*1)          prāhuḥ    —    call
+[TEXT—13.1-2](*1)          prāhuḥ    —    is called
+[TEXT—18.3,15.1](*2)          prāhuḥ    —    said
+[TEXT—6.2](*1)          prāhuḥ    —    they say
+[TEXT—17.14](*1)          prājña    —    worshipable personalities
+[TEXT—5.23](*1)          prāk    —    before
+[TEXT—18.28](*1)          prākṛtaḥ    —    materialistic
+[TEXT—12.3-4](*1)          prāpnuvanti    —    achieve
+[TEXT—18.71](*1)          prāpnuyāt    —    attains
+[TEXT—2.37](*1)          prāpsyasi    —    you gain
+[TEXT—18.62](*1)          prāpsyasi    —    you will get
+[TEXT—16.13-15](*1)          prāpsye    —    I shall gain
+[TEXT—4.2](*1)          prāptam    —    received
+[TEXT—18.50](*1)          prāptaḥ    —    achieving
+[TEXT—2.13](*1)          prāptiḥ    —    achievement
+[TEXT—8.25](*1)          prāpya    —    achieves
+[TEXT—5.20,2.72,2.57](*3)          prāpya    —    achieving
+[TEXT—6.41](*1)          prāpya    —    after achieving
+[TEXT—9.33,8.21](*2)          prāpya    —    gaining
+[TEXT—5.20](*1)          prāpya    —    obtaining
+[TEXT—5.5](*1)          prāpyate    —    is achieved
+[TEXT—18.15](*1)          prārabhate    —    begins
+[TEXT—9.20](*1)          prārthayante    —    pray
+[TEXT—11.21](*1)          prāñjalayaḥ    —    with folded hands
+[TEXT—4.29](*1)          prāṇa    —    air going outward
+[TEXT—18.33](*1)          prāṇa    —    life
+[TEXT—15.14](*1)          prāṇa    —    outgoing air
+[TEXT—5.27-28](*1)          prāṇa-apānau    —    up-and down-moving air
+[TEXT—4.27](*1)          prāṇa-karmāṇi    —    functions of the life breath
+[TEXT—4.29](*1)          prāṇam    —    air which acts outward
+[TEXT—8.12,8.10](*2)          prāṇam    —    the life air
+[TEXT—4.29](*1)          prāṇe    —    in the air going outward
+[TEXT—4.29](*1)          prāṇeṣu    —    in the outgoing air
+[TEXT—15.14](*1)          prāṇinām    —    of all living entities
+[TEXT—1.32-35](*1)          prāṇān    —    lives
+[TEXT—4.29](*1)          prāṇān    —    outgoing air
+[TEXT—4.29](*1)          prāṇāyāma    —    trance induced by stopping all breathing
+[TEXT—11.49](*1)          prīta-manāḥ    —    be pleased in mind
+[TEXT—17.8-10](*1)          prīti    —    satisfaction
+[TEXT—10.10](*1)          prīti-pūrvakam    —    in loving ecstasy
+[TEXT—1.32-35](*1)          prītiḥ    —    pleasure
+[TEXT—10.1](*1)          prīyamāṇāya    —    thinking you dear to Me
+[TEXT—2.71](*1)          pumān    —    a person
+[TEXT—18.40,18.24,17.21,16.13-15,11.49,9.33,9.7,8.26,8.16,8.15,5.1,4.35,4.9](*13)          punaḥ    —    again
+[TEXT—11.39](*1)          punaḥ ca    —    and again
+[TEXT—8.16](*1)          punaḥ janma    —    rebirth
+[TEXT—9.8](*1)          punaḥ punaḥ    —    again, again
+[TEXT—18.77](*1)          punaḥ punaḥ    —    repeatedly
+[TEXT—11.40](*1)          purastāt    —    from the front
+[TEXT—5.13](*1)          pure    —    in the city
+[TEXT—10.24](*1)          purodhasām    —    of all priests
+[TEXT—1.5](*1)          purujit    —    Purujit
+[TEXT—18.4](*1)          puruṣa-vyāghra    —    O tiger among human beings
+[TEXT—3.4](*1)          puruṣah    —    man
+[TEXT—8.10,8.8](*2)          puruṣam    —    Personality of Godhead
+[TEXT—13.20](*1)          puruṣam    —    livingentities
+[TEXT—10.12-13](*1)          puruṣam    —    personality
+[TEXT—15.3-4](*1)          puruṣam    —    the Personality of Godhead
+[TEXT—13.1-2](*1)          puruṣam    —    the enjoyer
+[TEXT—13.24](*1)          puruṣam    —    the living entities
+[TEXT—2.15](*1)          puruṣam    —    to a person
+[TEXT—2.15](*1)          puruṣarṣabha    —    is best among men
+[TEXT—2.60](*1)          puruṣasya    —    of the man
+[TEXT—15.16](*1)          puruṣau    —    living entities
+[TEXT—11.18](*1)          puruṣaḥ    —    Supreme Personality
+[TEXT—13.23](*1)          puruṣaḥ    —    enjoyer
+[TEXT—17.3](*1)          puruṣaḥ    —    living entity
+[TEXT—2.21](*1)          puruṣaḥ    —    person
+[TEXT—15.17,11.38](*2)          puruṣaḥ    —    personality
+[TEXT—8.22](*1)          puruṣaḥ    —    the Supreme Personality
+[TEXT—13.21](*1)          puruṣaḥ    —    the living entities
+[TEXT—13.22](*1)          puruṣaḥ    —    the living entity
+[TEXT—8.4](*1)          puruṣaḥ    —    the universal form
+[TEXT—8.1](*1)          puruṣottama    —    O Supreme Person
+[TEXT—11.3](*1)          puruṣottama    —    O best of personalities
+[TEXT—10.15](*1)          puruṣottama    —    O greatest of all persons
+[TEXT—15.19](*1)          puruṣottamam    —    the Supreme Personality of Godhead
+[TEXT—15.18](*1)          puruṣottamaḥ    —    as the Supreme Personality
+[TEXT—9.3](*1)          puruṣāḥ    —    such persons
+[TEXT—3.10](*1)          purā    —    anciently
+[TEXT—17.23,3.3](*2)          purā    —    formerly
+[TEXT—4.3](*1)          purātanaḥ    —    very old
+[TEXT—8.9](*1)          purāṇam    —    the oldest
+[TEXT—11.38](*1)          purāṇaḥ    —    old
+[TEXT—2.20](*1)          purāṇaḥ    —    the oldest
+[TEXT—15.3-4](*1)          purāṇī    —    very old
+[TEXT—13.8-12](*1)          putra    —    son
+[TEXT—11.44](*1)          putrasya    —    of a son
+[TEXT—1.26](*1)          putrān    —    sons
+[TEXT—11.26-27,1.32-35](*2)          putrāḥ    —    sons
+[TEXT—2.62](*1)          puṁsaḥ    —    of the person
+[TEXT—7.28](*1)          puṇya    —    pious
+[TEXT—18.71](*1)          puṇya- karmaṇām    —    of the past
+[TEXT—8.28](*1)          puṇya- phalam    —    the result of pious work
+[TEXT—6.41](*1)          puṇya-kṛtām    —    of those who performed pious activities
+[TEXT—18.76](*1)          puṇyam    —    pious
+[TEXT—9.20](*1)          puṇyam    —    virtue
+[TEXT—7.9](*1)          puṇyaḥ    —    original
+[TEXT—9.21](*1)          puṇye    —    merits
+[TEXT—9.33](*1)          puṇyāḥ    —    righteous
+[TEXT—11.21](*1)          puṣkalābhiḥ    —    Vedic hymns
+[TEXT—9.26](*1)          puṣpam    —    a flower
+[TEXT—2.42-43](*1)          puṣpitām    —    flowery
+[TEXT—15.13](*1)          puṣṇāmi    —    nourishing
+[TEXT—13.14,11.23](*2)          pādam    —    legs
+[TEXT—9.32](*1)          pāpa- yonayaḥ    —    born of a lower family
+[TEXT—4.36](*1)          pāpa-kṛttamaḥ    —    the greatest sinner
+[TEXT—7.28,5.15](*2)          pāpam    —    sin
+[TEXT—2.38,2.33](*2)          pāpam    —    sinful reaction
+[TEXT—3.36,1.44](*2)          pāpam    —    sins
+[TEXT—1.36](*1)          pāpam    —    vices
+[TEXT—18.66](*1)          pāpebhyaḥ    —    from sinful reactions
+[TEXT—4.36](*1)          pāpebhyaḥ    —    of sinners
+[TEXT—5.10](*1)          pāpena    —    by sin
+[TEXT—3.41](*1)          pāpmānam    —    the great symbol of sin
+[TEXT—1.37-38](*1)          pāpāt    —    from sins
+[TEXT—3.13](*1)          pāpāḥ    —    sinners
+[TEXT—9.20](*1)          pāpāḥ    —    sins
+[TEXT—2.21](*1)          pārtha    —    O Pārtha (Arjuna)
+[TEXT—1.25](*1)          pārtha    —    O Pārtha (son of Pṛthā)
+[TEXT—6.40](*1)          pārtha    —    O son of Prthā
+[TEXT—2.42-43](*1)          pārtha    —    O son of Pṛtha
+[TEXT—18.72,18.35,18.34,18.33,18.32,18.31,18.30,18.6,17.28,17.26-27,16.6,16.4,12.6-7,11.5,10.24,9.32,9.13,8.27,8.22,8.19,8.14,8.8,7.10,4.33,4.11,3.23,3.22,2.72,2.55,2.39,2.32](*31)          pārtha    —    O son of Pṛthā
+[TEXT—3.16](*1)          pārtha    —    O son of Pṛthā (Arjuna)
+[TEXT—18.74](*1)          pārthasya    —    of Arjuna
+[TEXT—1.26](*1)          pārthaḥ    —    Arjuna
+[TEXT—18.78](*1)          pārthaḥ    —    the son of Pṛthā
+[TEXT—11.9](*1)          pārthāya    —    unto Arjuna
+[TEXT—16.4](*1)          pāruṣyam    —    harshness
+[TEXT—1.37-38](*1)          pātakam    —    sinful reactions
+[TEXT—17.20](*1)          pātre    —    suitable person
+[TEXT—10.23,2.23](*2)          pāvakaḥ    —    fire
+[TEXT—15.6](*1)          pāvakaḥ    —    fire, electricity
+[TEXT—18.5](*1)          pāvanāni    —    purifying
+[TEXT—1.15](*1)          pāñcajanyam    —    the conchshell named Pāñcajanya
+[TEXT—13.14](*1)          pāṇi    —    hands
+[TEXT—16.5](*1)          pāṇḍava    —    O son of Pandu
+[TEXT—14.22-25,11.55,6.2,4.35](*4)          pāṇḍava    —    O son of Pāṇḍu
+[TEXT—1.2](*1)          pāṇḍava- anīkam    —    the soldiers of the Pāṇḍavas
+[TEXT—11.13](*1)          pāṇḍavaḥ    —    Arjuna
+[TEXT—1.14](*1)          pāṇḍavaḥ    —    Arjuna (the son of Pāṇḍu)
+[TEXT—1.20](*1)          pāṇḍavaḥ    —    the son of Pāṇḍu (Arjuna)
+[TEXT—10.37](*1)          pāṇḍavānām    —    of the Pāṇḍavas
+[TEXT—1.1](*1)          pāṇḍavāḥ    —    the sons of Pāṇḍu
+[TEXT—1.3](*1)          pāṇḍu-putrāṇām    —    of the sons of Pāṇḍu
+[TEXT—17.19](*1)          pīḍayā    —    by torture
+[TEXT—17.14](*1)          pūjanam    —    worship
+[TEXT—11.43](*1)          pūjyaḥ    —    worshipable
+[TEXT—2.4](*1)          pūjā-arhau    —    those who are worshipable
+[TEXT—17.18](*1)          pūjā-artham    —    for worship
+[TEXT—3.36,3.19](*2)          pūruṣaḥ    —    a man
+[TEXT—6.44](*1)          pūrva    —    previous
+[TEXT—4.15](*1)          pūrvaiḥ    —    by past authorities
+[TEXT—4.15](*1)          pūrvaiḥ    —    by the predecessors
+[TEXT—11.33](*1)          pūrvam eva    —    by previous elements
+[TEXT—4.15](*1)          pūrvataram    —    ancient predecessors
+[TEXT—10.6](*1)          pūrve    —    before
+[TEXT—11.6](*1)          pūrvāṇi    —    before
+[TEXT—9.20](*1)          pūta    —    purified
+[TEXT—17.8-10](*1)          pūti    —    bad smelling
+[TEXT—4.10](*1)          pūtāḥ    —    being purified
+[TEXT—2.7](*1)          pṛcchāmi    —    I am asking
+[TEXT—5.4](*1)          pṛthak    —    different
+[TEXT—18.1](*1)          pṛthak    —    differently
+[TEXT—18.13-14](*1)          pṛthak    —    separately
+[TEXT—13.5](*1)          pṛthak    —    variously
+[TEXT—1.16-18](*1)          pṛthak pṛthak    —    each separately
+[TEXT—13.31](*1)          pṛthak-bhāvam    —    separated entities
+[TEXT—18.13-14](*1)          pṛthak-vidham    —    different kinds
+[TEXT—18.21](*1)          pṛthak-vidhān    —    differently
+[TEXT—10.4-5](*1)          pṛthak-vidhāḥ    —    differently arranged
+[TEXT—18.21](*1)          pṛthaktvena    —    because of division
+[TEXT—18.29](*1)          pṛthaktvena    —    differently
+[TEXT—9.15](*1)          pṛthaktvena    —    in duality
+[TEXT—7.9](*1)          pṛthivyām    —    in the earth
+[TEXT—18.40](*1)          pṛthivyām    —    within the universe
+[TEXT—1.16-18](*1)          pṛthivī-pate    —    O King
+[TEXT—1.19](*1)          pṛthivīm    —    the surface of the earth
+[TEXT—11.40](*1)          pṛṣṭhataḥ    —    from behind
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [p]:586

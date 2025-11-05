@@ -1,0 +1,131 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [g]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—18.62](*1)          gaccha    —    go
+[TEXT—5.8-9](*1)          gacchan    —    by going
+[TEXT—15.5](*1)          gacchanti    —    attains
+[TEXT—14.18](*1)          gacchanti    —    go
+[TEXT—14.18,5.17](*2)          gacchanti    —    goes
+[TEXT—8.24](*1)          gacchanti    —    passes away
+[TEXT—2.51](*1)          gacchanti    —    reach
+[TEXT—6.37](*1)          gacchati    —    achieves
+[TEXT—6.40](*1)          gacchati    —    going
+[TEXT—11.46](*1)          gadinam    —    with club
+[TEXT—11.17](*1)          gadinam    —    with maces
+[TEXT—4.17](*1)          gahanā    —    very difficult
+[TEXT—10.27](*1)          gajendrāṇām    —    of elephants
+[TEXT—2.3](*1)          gamaḥ    —    go in
+[TEXT—5.5](*1)          gamyate    —    one can attain
+[TEXT—11.10-11](*1)          gandha    —    fragrance
+[TEXT—11.22](*1)          gandharva    —    the Gandharvas
+[TEXT—10.26](*1)          gandharvā-ṇām    —    the citizens of the Gandharva planet
+[TEXT—7.9](*1)          gandhaḥ    —    fragrance
+[TEXT—15.8](*1)          gandhān    —    smell
+[TEXT—4.24](*1)          gantavyam    —    to be reached
+[TEXT—2.52](*1)          gantāsi    —    you shall go
+[TEXT—14.3](*1)          garbham    —    pregnancy
+[TEXT—3.38](*1)          garbhaḥ    —    embryo
+[TEXT—11.37](*1)          garīyase    —    You are better than
+[TEXT—2.6](*1)          garīyaḥ    —    better
+[TEXT—11.43](*1)          garīyān    —    glorious
+[TEXT—2.11](*1)          gata    —    lost
+[TEXT—18.73](*1)          gata    —    removed
+[TEXT—17.8-10](*1)          gata- rasam    —    tasteless
+[TEXT—9.21](*1)          gata-agatam    —    death and birth
+[TEXT—4.23](*1)          gata-saṅgasya    —    unattached to the modes of material nature
+[TEXT—12.16](*1)          gata-vyathaḥ    —    freed from all distress
+[TEXT—11.51](*1)          gataḥ    —    I am
+[TEXT—16.21,16.20,13.29,9.32,8.21,8.13,7.18,6.45,6.37](*9)          gatim    —    destination
+[TEXT—16.23](*1)          gatim    —    perfectional stage
+[TEXT—2.42-43](*1)          gatim    —    progress
+[TEXT—9.18](*1)          gatiḥ    —    goal
+[TEXT—4.17](*1)          gatiḥ    —    to enter into
+[TEXT—12.5](*1)          gatiḥ duḥkham    —    progress is troublesome
+[TEXT—14.15](*1)          gatvā    —    attaining
+[TEXT—15.6](*1)          gatvā    —    going
+[TEXT—8.15](*1)          gatāḥ    —    achieved
+[TEXT—14.1](*1)          gatāḥ    —    attain
+[TEXT—15.3-4](*1)          gatāḥ    —    going
+[TEXT—4.29](*1)          gatī    —    movement
+[TEXT—8.26](*1)          gatī    —    passing away
+[TEXT—5.18](*1)          gavi    —    in the cow
+[TEXT—6.41](*1)          gehe    —    in the house of
+[TEXT—1.32-35](*1)          ghnataḥ    —    being killed
+[TEXT—17.5-6](*1)          ghoram    —    harmful to others
+[TEXT—11.49](*1)          ghoram    —    horrible
+[TEXT—3.1](*1)          ghore    —    ghastly
+[TEXT—1.19](*1)          ghoṣaḥ    —    vibration
+[TEXT—15.9](*1)          ghrāṇam    —    smelling power
+[TEXT—2.21](*1)          ghātayati    —    hurts
+[TEXT—10.25](*1)          girām    —    of vibrations
+[TEXT—4.7](*1)          glāniḥ    —    discrepancies
+[TEXT—18.44](*1)          go    —    cows
+[TEXT—1.13](*1)          go-mukhāḥ    —    horns
+[TEXT—1.32-35](*1)          govinda    —    O Kṛṣṇa
+[TEXT—2.9](*1)          govindam    —    unto Kṛṣṇa, the giver of pleasure
+[TEXT—11.30](*1)          grasamānaḥ    —    devouring
+[TEXT—13.17](*1)          grasiṣṇu    —    devours
+[TEXT—17.19](*1)          grāheṇa    —    with endeavor
+[TEXT—6.20-23](*1)          grāhyam    —    acceptable
+[TEXT—16.10](*1)          grāhān    —    things
+[TEXT—6.13-14](*1)          grīvam    —    neck
+[TEXT—18.75,18.68,11.1](*3)          guhyam    —    confidential
+[TEXT—9.1](*1)          guhyatamam    —    most confidential
+[TEXT—15.20](*1)          guhyatamam    —    the most confidential
+[TEXT—18.63](*1)          guhyataram    —    still more confidential
+[TEXT—10.38](*1)          guhyānām    —    of secrets
+[TEXT—18.63](*1)          guhyāt    —    confidential
+[TEXT—17.14](*1)          guru    —    the spiritual master
+[TEXT—11.43](*1)          guruḥ    —    master
+[TEXT—6.20-23](*1)          guruṇāpi    —    even though very difficult
+[TEXT—2.5](*1)          gurūn    —    superiors
+[TEXT—2.5](*1)          gurūn    —    the superiors
+[TEXT—11.7,10.20](*2)          guḍākeśa    —    O Arjuna
+[TEXT—2.9](*1)          guḍākeśaḥ    —    Arjuna, the master at curbing ignorance
+[TEXT—1.24](*1)          guḍākeśena    —    by Arjuna
+[TEXT—15.2](*1)          guṇa    —    modes of material nature
+[TEXT—13.15](*1)          guṇa    —    qualities
+[TEXT—14.18,4.13](*2)          guṇa    —    quality
+[TEXT—15.10](*1)          guṇa-anvitam    —    under the spell of the modes of material nature
+[TEXT—14.22-25](*1)          guṇa-atītaḥ    —    transcendental to the material modes of nature
+[TEXT—18.19](*1)          guṇa-bhedataḥ    —    in terms of different modes of material nature
+[TEXT—13.15](*1)          guṇa-bhoktṛ    —    simultaneously master of the guṇas
+[TEXT—3.28](*1)          guṇa-karma    —    works under material influence
+[TEXT—3.29](*1)          guṇa-karmasu    —    in material activities
+[TEXT—3.29](*1)          guṇa-saṁmūḍhāḥ    —    befooled by material identification
+[TEXT—13.22](*1)          guṇa-saṅgaḥ    —    association with the modes of nature
+[TEXT—18.19](*1)          guṇa-saṅkhyāne    —    in terms of different modes
+[TEXT—3.27](*1)          guṇaiḥ    —    by the modes
+[TEXT—18.41](*1)          guṇaiḥ    —    by the modes of material nature
+[TEXT—14.22-25,3.5](*2)          guṇaiḥ    —    by the qualities
+[TEXT—18.40,13.24](*2)          guṇaiḥ    —    modes of material nature
+[TEXT—7.13](*1)          guṇamayaiḥ    —    by the three guṇas
+[TEXT—7.14](*1)          guṇamayī    —    consisting of the three modes of material nature
+[TEXT—18.29](*1)          guṇataḥ    —    by the modes of material nature
+[TEXT—14.19](*1)          guṇebhyaḥ    —    from the qualities
+[TEXT—14.19](*1)          guṇebhyaḥ ca    —    from the modes of nature
+[TEXT—3.28](*1)          guṇeṣu    —    in sense gratification
+[TEXT—14.26](*1)          guṇān    —    all the modes of material nature
+[TEXT—13.22](*1)          guṇān    —    modes of nature
+[TEXT—14.21,14.20](*2)          guṇān    —    qualities
+[TEXT—13.20](*1)          guṇān    —    three modes of nature
+[TEXT—14.5](*1)          guṇāḥ    —    qualities
+[TEXT—3.28](*1)          guṇāḥ    —    senses
+[TEXT—14.22-25](*1)          guṇāḥ    —    the qualities
+[TEXT—15.13](*1)          gām    —    the planets
+[TEXT—1.28](*1)          gātrāṇi    —    limbs of the body
+[TEXT—10.35](*1)          gāyatrī    —    the Gāyatrī hymns
+[TEXT—1.29](*1)          gāṇḍīvam    —    the bow of Arjuna
+[TEXT—13.5](*1)          gītām    —    described
+[TEXT—13.8-12](*1)          gṛha-ādiṣu    —    home, etc
+[TEXT—6.35](*1)          gṛhyate    —    can be so controlled
+[TEXT—16.10,15.8](*2)          gṛhītvā    —    taking
+[TEXT—5.8-9](*1)          gṛhṇan    —    by accepting
+[TEXT—2.22](*1)          gṛhṇāti    —    does accept
+[TEXT—11.21](*1)          gṛṇanti    —    offering prayers unto
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [g]:122

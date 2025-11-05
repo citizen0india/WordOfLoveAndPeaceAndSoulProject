@@ -1,0 +1,315 @@
+
+bhagavadgitaasitis-wordlist.txt
+ [abcdefghijklmnopqrstuvwxyzśḥṛṣṇāīūṁñṭḍṅṝ] Indexed Transliteration-Translation Chapter-Verse Page [t]
+
+[chapter.verse] (number of repetitions)    transliteration    —    translation
+
+[TEXT—5.17](*1)          tad- ātmānaḥ    —    one whose mind is always in the Supreme
+[TEXT—5.17](*1)          tad-buddhayaḥ    —    one whose intelligence is always in the Supreme
+[TEXT—2.70](*1)          tadvat    —    so
+[TEXT—14.14,14.11,13.31,11.13,6.18,6.4,4.7,2.55,2.53,2.52,1.20](*11)          tadā    —    at that time
+[TEXT—5.19,3.12](*2)          taiḥ    —    by them
+[TEXT—7.20](*1)          taiḥ    —    by those
+[TEXT—18.46](*1)          tam    —    Him
+[TEXT—13.1-2,7.21,4.19](*3)          tam    —    him
+[TEXT—17.12,15.1,10.10,9.21,8.23,8.10,7.20,6.43,6.20-23](*9)          tam    —    that
+[TEXT—8.21](*1)          tam    —    that which
+[TEXT—15.3-4](*1)          tam    —    to him
+[TEXT—2.1](*1)          tam    —    unto Arjuna
+[TEXT—18.62](*1)          tam    —    unto Him
+[TEXT—2.10](*1)          tam    —    unto him
+[TEXT—8.6](*1)          tam tam    —    similar
+[TEXT—14.17](*1)          tamasaḥ    —    from the mode of ignorance
+[TEXT—13.18,8.9](*2)          tamasaḥ    —    of the darkness
+[TEXT—14.16](*1)          tamasaḥ    —    of the mode of ignorance
+[TEXT—14.15](*1)          tamasi    —    in ignorance
+[TEXT—14.13](*1)          tamasi    —    of the mode of ignorance
+[TEXT—18.32](*1)          tamasā    —    by illusion
+[TEXT—10.11](*1)          tamaḥ    —    darkness
+[TEXT—17.1](*1)          tamaḥ    —    in ignorance
+[TEXT—14.10,14.8,14.5](*3)          tamaḥ    —    mode of ignorance
+[TEXT—14.9](*1)          tamaḥ    —    the mode of ignorance
+[TEXT—16.21](*1)          tamaḥ-dvāraiḥ    —    the gates of ignorance
+[TEXT—9.11](*1)          tanum    —    body
+[TEXT—7.21](*1)          tanum    —    form of the demigods
+[TEXT—11.19](*1)          tapantam    —    heating
+[TEXT—17.26-27](*1)          tapasi    —    in penance
+[TEXT—6.46](*1)          tapasvibhyaḥ    —    than the ascetic
+[TEXT—7.9](*1)          tapasviṣu    —    in those who practice penance
+[TEXT—9.27](*1)          tapasyasi    —    austerities you perform
+[TEXT—4.10](*1)          tapasā    —    by penance
+[TEXT—11.53](*1)          tapasā    —    by serious penances
+[TEXT—5.29](*1)          tapasām    —    of penances and austerities
+[TEXT—17.5-6](*1)          tapaḥ    —    austerities
+[TEXT—18.42,17.18,17.17,17.16,17.15,17.14,17.7,16.1-3](*8)          tapaḥ    —    austerity
+[TEXT—18.5,18.3,17.28,17.25,17.24,17.19,10.4-5,7.9](*8)          tapaḥ    —    penance
+[TEXT—8.28](*1)          tapaḥsu    —    undergoing different types of austerities
+[TEXT—4.28](*1)          tapo-yajñāḥ    —    sacrifice in austerities
+[TEXT—17.28,17.17](*2)          taptam    —    executed
+[TEXT—17.5-6](*1)          tapyante    —    undergo penances
+[TEXT—9.19](*1)          tapāmi    —    give heat
+[TEXT—7.14](*1)          taranti    —    overcome
+[TEXT—18.58](*1)          tariṣyasi    —    you will overcome
+[TEXT—14.3](*1)          tasmin    —    in that
+[TEXT—8.20](*1)          tasmāt    —    from that
+[TEXT—18.69](*1)          tasmāt    —    than him
+[TEXT—18.69,17.24,16.24,16.21,11.44,11.33,8.27,8.7,6.46,5.19,4.42,4.15,3.41,3.19,3.15,2.68,2.50,2.37,2.30,2.27,2.25,2.18,1.36](*23)          tasmāt    —    therefore
+[TEXT—7.22,6.40,6.30,3.18,3.17,2.68,2.61,2.58,2.57,1.12](*10)          tasya    —    his
+[TEXT—18.15,15.2,6.34](*3)          tasya    —    its
+[TEXT—6.6](*1)          tasya    —    of him
+[TEXT—7.21,4.13](*2)          tasya    —    of that
+[TEXT—18.7](*1)          tasya    —    of which
+[TEXT—11.12](*1)          tasya    —    there is
+[TEXT—8.14](*1)          tasya    —    to him
+[TEXT—2.69](*1)          tasyām    —    in that
+[TEXT—3.9](*1)          tat    —    Him
+[TEXT—7.29](*1)          tat    —    actually that
+[TEXT—11.41-42,8.28](*2)          tat    —    all those
+[TEXT—3.21](*1)          tat    —    and that alone
+[TEXT—18.77,18.60,18.40,18.39,18.38,18.36-37,18.24,18.23,18.22,18.20,18.5,17.28,17.26-27,17.25,17.23,17.22,17.21,17.20,17.19,17.18,17.17,15.12,15.6,15.5,15.3-4,14.8,14.7,13.18,13.17,13.16,13.14,13.13,13.4,13.3,11.49,10.39,9.27,9.26,8.11,6.20-23,5.16,4.38,4.16,3.21,2.67,2.57,2.17,2.7,1.45,1.10](*50)          tat    —    that
+[TEXT—4.34](*1)          tat    —    that knowledge of different sacrifices
+[TEXT—18.55](*1)          tat    —    thereafter
+[TEXT—11.45,3.2,3.1](*3)          tat    —    therefore
+[TEXT—18.38,18.25,13.13](*3)          tat    —    which
+[TEXT—18.21](*1)          tat jñānam    —    that knowledge
+[TEXT—5.16](*1)          tat param    —    in Kṛṣṇa consciousness
+[TEXT—10.41](*1)          tat tat    —    all those
+[TEXT—13.27](*1)          tat viddhi    —    you must know it
+[TEXT—8.21](*1)          tat- dhāma    —    that abode
+[TEXT—13.1-2](*1)          tat- vidaḥ    —    one who knows
+[TEXT—5.17](*1)          tat-niṣṭhāḥ    —    whose mind is only meant for the Supreme
+[TEXT—11.37](*1)          tat-param    —    transcendental
+[TEXT—4.39](*1)          tat-paraḥ    —    very much attached to it
+[TEXT—5.17](*1)          tat-parāyaṇāḥ    —    who has completely taken shelter of Him
+[TEXT—18.62](*1)          tat-prasādāt    —    by His grace
+[TEXT—11.41-42](*1)          tat-samakṣam    —    as Your competitor
+[TEXT—8.22](*1)          tatam    —    distributed
+[TEXT—18.46](*1)          tatam    —    is pervaded
+[TEXT—11.38](*1)          tatam    —    pervaded
+[TEXT—9.4](*1)          tatam    —    spread
+[TEXT—2.17](*1)          tatam    —    widespread
+[TEXT—6.26](*1)          tataḥ    —    and thereafter
+[TEXT—6.20-23](*1)          tataḥ    —    from that
+[TEXT—6.26](*1)          tataḥ    —    from there
+[TEXT—7.22](*1)          tataḥ    —    from which
+[TEXT—11.4,2.33](*2)          tataḥ    —    then
+[TEXT—18.55,16.21,16.20,15.3-4,14.3,11.14,11.9,6.45,6.43,2.38,2.36,1.13](*12)          tataḥ    —    thereafter
+[TEXT—18.64,12.11,12.9](*3)          tataḥ    —    therefore
+[TEXT—11.40](*1)          tataḥ asi    —    therefore You are
+[TEXT—13.31](*1)          tataḥ eva    —    thereafter
+[TEXT—13.29](*1)          tataḥ yāti    —    then reaches
+[TEXT—15.6](*1)          tatdhāma    —    that abode
+[TEXT—12.18-19](*1)          tatha    —    so
+[TEXT—18.13-14,17.26-27,17.7,15.3-4,13.30,13.19,11.34,11.26-27,11.15,11.6,10.35,10.12-13,10.6,9.33,9.32,8.25,6.7](*17)          tathā    —    also
+[TEXT—1.8](*1)          tathā    —    and as
+[TEXT—4.29](*1)          tathā    —    as also
+[TEXT—14.10](*1)          tathā    —    as in this
+[TEXT—16.21,7.6,5.24,1.32-35](*4)          tathā    —    as well as
+[TEXT—2.22](*1)          tathā    —    in the same way
+[TEXT—13.34,11.28,11.23,9.6,4.37,2.13](*6)          tathā    —    similarly
+[TEXT—18.50,4.11](*2)          tathā    —    so
+[TEXT—13.33](*1)          tathā    —    such
+[TEXT—18.63](*1)          tathā    —    that
+[TEXT—11.50](*1)          tathā    —    that way
+[TEXT—2.29](*1)          tathā    —    there
+[TEXT—14.15](*1)          tathā    —    thereafter
+[TEXT—4.28,3.25,2.1](*3)          tathā    —    thus
+[TEXT—1.26](*1)          tathā    —    too, śvaśurān— fathers-in-law
+[TEXT—11.46](*1)          tathā eva    —    in that position
+[TEXT—11.29](*1)          tathā eva    —    similarly
+[TEXT—2.26](*1)          tathāpi    —    still
+[TEXT—18.78,18.16,18.4,11.13,8.25,8.24,8.18,1.26](*8)          tatra    —    there
+[TEXT—14.6](*1)          tatra    —    thereafter
+[TEXT—2.28](*1)          tatra    —    therefore
+[TEXT—6.43,6.11-12,2.13](*3)          tatra    —    thereupon
+[TEXT—4.34,2.16](*2)          tattva    —    truth
+[TEXT—13.8-12](*1)          tattva-jñāna    —    knowledge of the truth
+[TEXT—18.1](*1)          tattvam    —    truth
+[TEXT—18.55](*1)          tattvataḥ    —    by truth
+[TEXT—10.7](*1)          tattvataḥ    —    factually
+[TEXT—6.20-23](*1)          tattvataḥ    —    from the truth
+[TEXT—7.3](*1)          tattvataḥ    —    in fact
+[TEXT—4.9](*1)          tattvataḥ    —    in reality
+[TEXT—18.55](*1)          tattvataḥ    —    in truth
+[TEXT—5.8-9](*1)          tattvavit    —    one who knows the truth
+[TEXT—3.28](*1)          tattvavit    —    the knower of the Absolute Truth
+[TEXT—11.54](*1)          tattvena    —    in fact
+[TEXT—9.24](*1)          tattvena    —    in reality
+[TEXT—2.19](*1)          tau    —    they
+[TEXT—3.34](*1)          tau    —    those
+[TEXT—18.73,11.51,11.41-42,11.36,11.31,11.30,11.28,11.20,11.16,11.15](*10)          tava    —    Your
+[TEXT—4.5](*1)          tava    —    of yours
+[TEXT—11.29](*1)          tava    —    unto You
+[TEXT—11.47](*1)          tava    —    unto you
+[TEXT—10.42](*1)          tava    —    you
+[TEXT—2.36,1.3](*2)          tava    —    your
+[TEXT—5.2](*1)          tayoḥ    —    of the two
+[TEXT—3.34](*1)          tayoḥ    —    of them
+[TEXT—2.44](*1)          tayā    —    by such things
+[TEXT—7.22](*1)          tayā    —    with that
+[TEXT—11.40,11.3](*2)          te    —    You
+[TEXT—11.26-27,11.25,10.14,2.7](*4)          te    —    Your
+[TEXT—3.31,2.6,1.32-35](*3)          te    —    all of them
+[TEXT—18.64](*1)          te    —    for your
+[TEXT—11.23](*1)          te    —    of You
+[TEXT—18.72,2.47](*2)          te    —    of you
+[TEXT—12.20,9.29,7.29](*3)          te    —    such persons
+[TEXT—8.17](*1)          te    —    that
+[TEXT—16.17,16.8,13.35,13.26,12.3-4,12.2,10.10,9.24,9.23,9.21,9.20,7.30,7.28,7.14,7.12,5.19,3.13](*17)          te    —    they
+[TEXT—5.22](*1)          te    —    they are
+[TEXT—3.11](*1)          te    —    those
+[TEXT—18.65,10.1](*2)          te    —    to you
+[TEXT—11.40,11.37,11.31](*3)          te    —    unto You
+[TEXT—18.63,11.49,10.19,9.1,8.11,7.2,4.34,4.16,2.39](*9)          te    —    unto you
+[TEXT—18.67,11.8](*2)          te    —    you
+[TEXT—16.24,3.8,3.1,2.53,2.52,1.7](*6)          te    —    your
+[TEXT—9.32](*1)          te api    —    even they
+[TEXT—10.36](*1)          tejasvinām    —    of everything splendid
+[TEXT—7.10](*1)          tejasvinām    —    of the powerful
+[TEXT—18.43](*1)          tejaḥ    —    power
+[TEXT—7.10](*1)          tejaḥ    —    prowess
+[TEXT—10.36](*1)          tejaḥ    —    splendid
+[TEXT—15.12,10.41](*2)          tejaḥ    —    splendor
+[TEXT—7.9](*1)          tejaḥ    —    temperature
+[TEXT—16.1-3](*1)          tejaḥ    —    vigor
+[TEXT—11.30](*1)          tejobhiḥ    —    by effulgence
+[TEXT—11.47](*1)          tejomayam    —    full of effulgence
+[TEXT—11.17](*1)          tejorāśim    —    effulgence
+[TEXT—18.70,4.24](*2)          tena    —    by him
+[TEXT—11.1,5.15](*2)          tena    —    by that
+[TEXT—3.38](*1)          tena    —    by that lust
+[TEXT—6.44](*1)          tena    —    by the influence of that
+[TEXT—17.23](*1)          tena    —    therefore
+[TEXT—11.46](*1)          tena eva    —    by that
+[TEXT—12.1](*1)          teśām    —    of them
+[TEXT—2.62](*1)          teṣu    —    in the sense objects
+[TEXT—16.7,9.29,9.9,9.4](*4)          teṣu    —    in them
+[TEXT—7.12,5.22](*2)          teṣu    —    in those
+[TEXT—10.11](*1)          teṣām    —    for them
+[TEXT—5.16](*1)          teṣām    —    of their
+[TEXT—17.7,17.1,12.6-7,12.5](*4)          teṣām    —    of them
+[TEXT—7.17](*1)          teṣām    —    out of them
+[TEXT—9.22,7.23](*2)          teṣām    —    their
+[TEXT—10.10](*1)          teṣām    —    unto them
+[TEXT—2.14](*1)          titikṣasva    —    just try to tolerate
+[TEXT—13.28](*1)          tiṣṭhantam    —    residing
+[TEXT—14.18](*1)          tiṣṭhanti    —    dwell
+[TEXT—10.16](*1)          tiṣṭhasi    —    remain
+[TEXT—13.14](*1)          tiṣṭhati    —    exists
+[TEXT—18.61](*1)          tiṣṭhati    —    resides
+[TEXT—3.5](*1)          tiṣṭhati    —    stands
+[TEXT—9.26](*1)          toyam    —    water
+[TEXT—9.20](*1)          trai-vidyāḥ    —    the knowers of the three Vedas
+[TEXT—2.45](*1)          traiguṇya    —    pertaining to the three modes of material nature
+[TEXT—1.32-35](*1)          trailokya    —    of the three worlds
+[TEXT—15.17](*1)          trayam    —    the three divisions
+[TEXT—16.21,11.20](*2)          trayam    —    three
+[TEXT—9.21](*1)          trayī    —    three Vedas
+[TEXT—18.29](*1)          tri-vidham    —    the three kinds of
+[TEXT—18.36-37,18.12,17.17](*3)          tri-vidham    —    three kinds
+[TEXT—16.21](*1)          tri-vidham    —    three kinds of
+[TEXT—18.18,18.4,17.23](*3)          tri-vidhaḥ    —    three kinds
+[TEXT—18.18,17.2](*2)          tri-vidhā    —    three kinds
+[TEXT—18.40](*1)          tribhiḥ    —    by three
+[TEXT—7.13](*1)          tribhiḥ    —    three
+[TEXT—16.21](*1)          tribhiḥ    —    three kinds of
+[TEXT—18.19](*1)          tridhā    —    three kinds
+[TEXT—17.7](*1)          trividhaḥ    —    three kinds
+[TEXT—3.22](*1)          triṣu    —    in the three
+[TEXT—2.40](*1)          trāyate    —    releases
+[TEXT—14.21,14.20](*2)          trīn    —    three
+[TEXT—3.42](*1)          tu    —    also
+[TEXT—18.36-37,18.34,18.24,18.22,18.21,18.16,18.7,17.21,17.12,15.17,14.16,14.14,14.9,14.8,13.26,12.20,12.6-7,12.3-4,11.54,11.8,9.24,9.13,8.23,8.20,7.28,7.26,7.18,7.5,6.45,6.36,6.35,6.16,6.6,5.16,5.14,5.6,5.2,3.42,3.28,3.17,3.13,3.7,2.64,2.39,2.17,2.16,2.12,2.5,1.10,1.7,1.2](*51)          tu    —    but
+[TEXT—17.7](*1)          tu    —    certainly
+[TEXT—3.32](*1)          tu    —    however
+[TEXT—18.6](*1)          tu    —    must
+[TEXT—2.14](*1)          tu    —    only
+[TEXT—10.40](*1)          tu    —    that
+[TEXT—9.29](*1)          tu    —    yet
+[TEXT—12.18-19](*1)          tulya    —    equal
+[TEXT—14.22-25](*1)          tulya    —    equally
+[TEXT—14.22-25](*1)          tulya    —    equally disposed
+[TEXT—14.22-25](*1)          tulyaḥ    —    equally
+[TEXT—1.13](*1)          tumulaḥ    —    tumultuous
+[TEXT—1.19](*1)          tumulaḥ    —    uproarious
+[TEXT—10.9](*1)          tuṣyanti    —    are pleased
+[TEXT—6.20-23](*1)          tuṣyati    —    becomes satisfied
+[TEXT—2.55](*1)          tuṣṭaḥ    —    satisfied
+[TEXT—10.4-5](*1)          tuṣṭiḥ    —    satisfaction
+[TEXT—1.29](*1)          tvak    —    skin
+[TEXT—11.40,11.39,11.38,11.18,10.16,10.15,4.4](*7)          tvam    —    You
+[TEXT—11.43,11.37,11.18](*3)          tvam    —    You are
+[TEXT—18.58,11.49,11.34,10.41,4.15,3.8,2.35,2.33,2.27,2.26,2.11](*11)          tvam    —    you
+[TEXT—4.5,2.30,2.12](*3)          tvam    —    yourself
+[TEXT—11.26-27](*1)          tvaramāṇāḥ    —    fearful
+[TEXT—6.39](*1)          tvat    —    Yourself
+[TEXT—11.48](*1)          tvat    —    you
+[TEXT—11.47](*1)          tvat-anyena    —    besides you
+[TEXT—18.73](*1)          tvat-prasādāt    —    by Your mercy
+[TEXT—11.43](*1)          tvat-samaḥ    —    equal to You
+[TEXT—11.2](*1)          tvattaḥ    —    from You
+[TEXT—2.3](*1)          tvayi    —    unto you
+[TEXT—11.38,11.20,11.1,6.33](*4)          tvayā    —    by You
+[TEXT—18.72](*1)          tvayā    —    by you
+[TEXT—2.2](*1)          tvā    —    unto you
+[TEXT—11.46,11.41-42,11.26-27,11.24,11.22,11.19,11.17,10.17](*8)          tvām    —    You
+[TEXT—12.1,11.21,11.16,10.12-13,2.7](*5)          tvām    —    unto You
+[TEXT—11.44,2.35](*2)          tvām    —    unto you
+[TEXT—18.66,18.59,11.33,11.32](*4)          tvām    —    you
+[TEXT—8.13](*1)          tyajan    —    quitting
+[TEXT—8.6](*1)          tyajati    —    give up
+[TEXT—18.8](*1)          tyajet    —    fear
+[TEXT—16.21](*1)          tyajet    —    must give up
+[TEXT—18.48](*1)          tyajet    —    to be given up
+[TEXT—4.21](*1)          tyakta    —    giving up
+[TEXT—1.9](*1)          tyakta-jīvitāḥ    —    prepared to risk life
+[TEXT—18.11](*1)          tyaktum    —    to renounce
+[TEXT—18.51-53,18.9,6.24,5.12,5.11,5.10,2.51,2.3,1.32-35](*9)          tyaktvā    —    giving up
+[TEXT—2.48](*1)          tyaktvā    —    having abandoned
+[TEXT—4.20](*1)          tyaktvā    —    having given up
+[TEXT—4.9](*1)          tyaktvā    —    leaving aside
+[TEXT—18.6](*1)          tyaktvā    —    renouncing
+[TEXT—18.8](*1)          tyāga    —    renounced
+[TEXT—12.11](*1)          tyāgam    —    for renunciation
+[TEXT—18.8,18.2](*2)          tyāgam    —    renunciation
+[TEXT—18.1](*1)          tyāgasya    —    of renunciation
+[TEXT—18.9,18.4,16.1-3](*3)          tyāgaḥ    —    renunciation
+[TEXT—18.4](*1)          tyāge    —    in the matter of renunciation
+[TEXT—12.12](*1)          tyāgāt    —    by such renunciation
+[TEXT—18.11](*1)          tyāgī    —    renouncer
+[TEXT—18.11,18.10](*2)          tyāgī    —    the renouncer
+[TEXT—18.3](*1)          tyājyam    —    is to be given up
+[TEXT—18.3](*1)          tyājyam    —    must be given up
+[TEXT—18.5](*1)          tyājyam    —    to be given up
+[TEXT—17.2](*1)          tām    —    that
+[TEXT—17.8-10](*1)          tāmasa    —    to one in the mode of darkness
+[TEXT—18.22,17.22,17.19](*3)          tāmasam    —    in the mode of darkness
+[TEXT—18.39,18.25,17.13](*3)          tāmasam    —    in the mode of ignorance
+[TEXT—18.28,18.7](*2)          tāmasaḥ    —    in the mode of ignorance
+[TEXT—17.4](*1)          tāmasāḥ    —    in the mode of ignorance
+[TEXT—7.12](*1)          tāmasāḥ    —    mode of ignorance
+[TEXT—14.18](*1)          tāmasāḥ    —    persons in the mode of ignorance
+[TEXT—18.35](*1)          tāmasī    —    in the mode of ignorance
+[TEXT—17.2](*1)          tāmasī    —    mode of ignorance
+[TEXT—18.32](*1)          tāmasī    —    the mode of ignorance
+[TEXT—2.14,1.27](*2)          tān    —    all of them
+[TEXT—3.29](*1)          tān    —    all those
+[TEXT—17.5-6,4.32,1.7](*3)          tān    —    them
+[TEXT—3.32](*1)          tān    —    they are
+[TEXT—16.19,7.22,7.12](*3)          tān    —    those
+[TEXT—4.11](*1)          tān    —    unto them
+[TEXT—18.19](*1)          tāni    —    all of them
+[TEXT—9.9,9.7,4.5](*3)          tāni    —    all those
+[TEXT—2.61](*1)          tāni    —    those senses
+[TEXT—14.4](*1)          tāsām    —    all of them
+[TEXT—6.40](*1)          tāta    —    thereafter
+[TEXT—2.46](*1)          tāvān    —    similarly
+[TEXT—17.8-10](*1)          tīkṣṇa    —    pungent
+[TEXT—2.9](*1)          tūṣṇīm    —    silent
+[TEXT—6.8](*1)          tṛpta    —    satisfied
+[TEXT—4.20](*1)          tṛptaḥ    —    being satisfied
+[TEXT—10.18](*1)          tṛptiḥ    —    satisfaction
+[TEXT—14.7](*1)          tṛṣṇā    —    hankering
+
+bhagavadgitaasitis-wordlist.txt
+ Number of unique transliterated-translated words beginning with [t]:306
