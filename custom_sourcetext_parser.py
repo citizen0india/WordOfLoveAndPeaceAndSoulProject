@@ -2,7 +2,9 @@
 # CustomSourcetextParser module — custom_sourcetext_parser.py
 # Author: @Citizen0India
 # Release Date: 2025.11.05
-# Github Link: @Citizen0India
+# Version: 1.1 Updated: 2025.11.06
+# Github Link: https://github.com/citizen0india/WordOfLoveAndPeaceAndSoulProject
+
 
 import os #file i/o
 import re #regular expressions
@@ -17,7 +19,7 @@ class CustomSourcetextParser:
         text_wordpairs_count = {}
         
         # This parser function populates the data dictionaries from the custom source text and prints them into local directory files per custom alphabetical & unicode index order. Parser assumes all non-ascii letters in text are language-specific unicode.
-        #The souce text formatting is expected as follows: Chapter-[Number] \n TEXT/TEXTS [Verse-Number or Verse-Number-Range] \n [Transliteration—Translation Word Pair;] [...] \n
+        #The souce text formatting is expected as follows: Chapter-[Number] \n TEXT/TEXTS [Verse-Number or Verse-Number-Range] \n [Transliteration—Translation Word Pair;...;] \n
                        
 
         def parse_source_text(self, sourcetext_filename, /): 
@@ -85,12 +87,9 @@ class CustomSourcetextParser:
                       
                          while (verse_text != ''):
                                 wordpair_separator = ';'
-                                (wordpairs, wordpair_footer, verse_text) = verse_text.partition('.')
-                                wordpairs += ';'
-                                
                                 word_num = 1
-                                while (wordpairs != '' and wordpair_separator == ';'):
-                                     (cur_wordpair, wordpair_separator, wordpairs) = wordpairs.partition(';')
+                                while (wordpair_separator == ';'):
+                                     (cur_wordpair, wordpair_separator, verse_text) = verse_text.partition(';')
                                      (transliteration, dash_separator, translation) = cur_wordpair.partition('—')
                                      if (dash_separator == '—'):
                                         transliteration = transliteration.lstrip().rstrip()
